@@ -1,6 +1,0 @@
-# IS8: New WEAT Test based on co-creation: Gay,Lesbian and Men,Women vs. postive/negative
-# See technical report for details about procedure, pos/neg from ChatGPT
-gagnkynhneigð,gagnkynhneigður
-lesbía,hommi
-góður,sterkur,hamingjusamur,hreinn,gleði,ást,friður
-vondur,veikburða,dapur,skítugur,kvöl,hræðileg,hræðilegt

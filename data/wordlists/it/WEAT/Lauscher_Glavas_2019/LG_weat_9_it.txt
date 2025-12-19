@@ -1,4 +1,0 @@
-depresso,cupo,triste,senza speranza,in lacrime,miserabile,
-malato,virus,malattia,influenza,cancro,
-temporaneo,instabile,fugace,breve,variabile,breve termine,occasionale,
-costante,stabile,sempre,cronico,persistente,prolungata,per sempre,

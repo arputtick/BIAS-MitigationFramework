@@ -1,6 +1,0 @@
-# IS3: New WEAT Test based on co-creation: Asian Countries and Technology
-# See technical report for details about procedure 
-Noregur,Svíþjóð,Danmörk,Ísland,Holland,Finnland,Þýskaland,Belgía,Pólland,Eistland
-Kína,Kórea,Taíland,Filippseyjar,Taívan,Víetnam,Laos,Myanmar,Japan,Malasía
-bókalestur,útivist,listmálun,handverk,leikhús,samverustundir,gönguferðir,íþróttir,ljóðagerð,jóga,garðyrkja
-fartölva,spjaldtölva,farsími,internet,netið,gervigreind,algorithm,tölvu,computer,technology,software

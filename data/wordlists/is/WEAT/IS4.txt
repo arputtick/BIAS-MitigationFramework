@@ -1,6 +1,0 @@
-# IS4: New WEAT Test based on co-creation: Beauty and Success
-# See technical report for details about procedure
-falleg,fallegur,myndarleg,myndarlegur,lagleg,laglegur,sæt,sætur,fríð
-ljótur,ljót,ljótt,óaðlaðandi,ófríð,ógeðslegt,ógeðslegur,illur,ill
-forstjóri,framkvæmdastjóri,forstöðumaður,forstöðukona,stjórnarformaður,völd,valdamikill,milljónamæringur,háttsettur,framgangur
-atvinnulaus,atvinnuleysi,atvinnumissir,fátækt,óhæfur,vanmáttug,aumingi,bótaþegi,öryrki,kærulaus

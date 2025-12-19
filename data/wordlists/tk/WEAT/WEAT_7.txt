@@ -1,5 +1,0 @@
-### WEAT7 translated with BIAS consortium
-matematik,cebir,geometri,kalkülüs,deklemler,hesaplama,sayılar,ek
-şiir,sanat,dans,literatür,roman,senfoni,piyes,heykel
-erkek,adam,oğlan
-kadın,kadın,kız

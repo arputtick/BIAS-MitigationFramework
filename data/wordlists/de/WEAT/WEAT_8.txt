@@ -1,5 +1,0 @@
-# WEAT 8
-Wissenschaft,Technologie,Physik,Chemie,Einstein,NASA,Experiment,Astronomie
-Poesie,Kunst,Shakespeare,Tanz,Literatur,Roman,Symphonie,Drama
-Bruder,Vater,Onkel,Grossvater,Sohn
-Schwester,Mutter,Tante,Grossmutter,Tochter

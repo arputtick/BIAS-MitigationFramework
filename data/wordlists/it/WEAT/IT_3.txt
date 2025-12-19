@@ -1,7 +1,0 @@
-# IT 3 - Italian/Indian vs. pleasant/unpleasant
-# Top 5 male and female names (https://forebears.io/india/forenames/popularity-by-year, https://www.istat.it/dati/calcolatori/contanomi/)
-# pleasant/unpleasant from Lauscher and Glavas (2019)
-Andrea,Francesco,Alessandro,Matteo,Luca,Martina,Alessia,Giulia,Chiara,Sara
-Mohammed,Rahul,Sunil,Raju,Manoj,Puja,Anita,Priyanka,Rekha,Sunita
-amico,gioia,amore,risata,contento,meraviglioso,pace,piacere
-guerra,cattivo,terribile,agonia,orribile,cattiva,male,fallimento

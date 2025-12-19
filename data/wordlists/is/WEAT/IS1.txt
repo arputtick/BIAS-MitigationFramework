@@ -1,9 +1,0 @@
-# IS1: New WEAT Test based on co-creation: WEAT5 adapted v1
-# positive and negative from: https://www.pinhok.com/kb/icelandic/785/icelandic-adjectives/
-# partially from WEAT 5 translations
-# most common icelandic and chinese surnames
-# https://www.routesnorth.com/language-and-culture/icelandic-last-names-a-simple-guide/
-Jónsdóttir,Jónsson,Sigurðardóttir,Guðmundsdóttir,Guðmundsson,Sigurðsson,Gunnarsdóttir,Gunnarsson,Ólafsson,Ólafsdóttir
-Wang,Wong,Li,Lee,Zhang,Liu,Lau,Chen,Chan,Yang
-góður,sterkur,hamingjusamur,hreinn,gleði,ást,friður
-vondur,veikburða,dapur,skítugur,kvöl,hræðileg,hræðilegt

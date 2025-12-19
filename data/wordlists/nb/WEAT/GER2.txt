@@ -1,6 +1,0 @@
-# GER 2 translated with consortium
-# list checked by native speaker 02/2024
-sinn,rasjonalitet,realisering,tenke,vite,dømme
-emosjon,følelse,fornemmelse,mottakelighet,religiøsitet,forståelse
-mannlig,mann,gutt,bror,han,ham,hans,sønn
-kvinnelig,kvinne,jente,søster,hun,henne,hennes,datter

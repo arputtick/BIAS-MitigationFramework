@@ -1,6 +1,0 @@
-# WEAT 7 translations by BIAS consortium
-# brother and sister
-stærðfræði,algebra,rúmfræði,stærðfræðigreining,jöfnur,útreikningur,tölur,samlagning
-kveðskapur,list,dans,bókmenntir,skáldsaga,sinfónía,leiklist,skúlptúr
-bróðir,bróður,bróðirinn,bróðurinn,bróðurnum,bróðurins
-dóttir,dóttur,dóttirin,dótturina,dótturinni,dótturinnar

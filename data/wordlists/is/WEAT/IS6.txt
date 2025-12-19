@@ -1,6 +1,0 @@
-# IS6: New WEAT Test based on co-creation: Asian Countries and Success
-# See technical report for details about procedure
-Noregur,Svíþjóð,Danmörk,Ísland,Holland,Finnland,Þýskaland,Belgía,Pólland,Eistland
-Kína,Kórea,Taíland,Filippseyjar,Taívan,Víetnam,Laos,Myanmar,Japan,Malasía
-forstjóri,framkvæmdastjóri,forstöðumaður,forstöðukona,stjórnarformaður,völd,valdamikil,milljónamæringur,háttsett,framgangur
-atvinnulaus,atvinnuleysi,atvinnumissir,fátækt,óhæfur,vanmáttug,aumingi,bótaþegi,öryrki,kærulaus

@@ -1,6 +1,0 @@
-# IS6 v2: New WEAT Test based on co-creation: Asian Countries and positive/negative (IS1-v1)
-# See technical report for details about procedure
-Noregur,Svíþjóð,Danmörk,Ísland,Holland,Finnland,Þýskaland,Belgía,Pólland,Eistland
-Kína,Kórea,Taíland,Filippseyjar,Taívan,Víetnam,Laos,Myanmar,Japan,Malasía
-góður,sterkur,hamingjusamur,hreinn,gleði,ást,friður
-vondur,veikburða,dapur,skítugur,kvöl,hræðileg,hræðilegt
