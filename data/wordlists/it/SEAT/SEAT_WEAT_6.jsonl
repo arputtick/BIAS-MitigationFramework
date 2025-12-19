@@ -1,0 +1,96 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Andrea è qui.",
+            "Andrea è lì.",
+            "Francesco è qui.",
+            "Francesco è lì.",
+            "Alessandro è qui.",
+            "Alessandro è lì.",
+            "Luca è qui.",
+            "Luca è lì.",
+            "Lorenzo è qui.",
+            "Lorenzo è lì.",
+            "Marco è qui.",
+            "Marco è lì.",
+            "Davide è qui.",
+            "Davide è lì.",
+            "Giuseppe è qui.",
+            "Giuseppe è lì.",
+            "Matteo è qui.",
+            "Matteo è lì.",
+            "Simone è qui.",
+            "Simone è lì."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Martina è qui.",
+            "Martina è lì.",
+            "Alessia è qui.",
+            "Alessia è lì.",
+            "Giulia è qui.",
+            "Giulia è lì.",
+            "Chiara è qui.",
+            "Chiara è lì.",
+            "Sara è qui.",
+            "Sara è lì.",
+            "Francesca è qui.",
+            "Francesca è lì.",
+            "Federica è qui.",
+            "Federica è lì.",
+            "Giorgia è qui.",
+            "Giorgia è lì.",
+            "Anna è qui.",
+            "Anna è lì.",
+            "Elisa è qui.",
+            "Elisa è lì."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Una gestione è qui.",
+            "Una gestione è lì.",
+            "Un salario è qui.",
+            "Un salario è lì.",
+            "Un ufficio è qui.",
+            "Un ufficio è lì.",
+            "Una carriera è qui.",
+            "Una carriera è lì.",
+            "Un dirigente è qui.",
+            "Un dirigente è lì.",
+            "Un management è qui.",
+            "Un management è lì.",
+            "Una società è qui.",
+            "Una società è lì.",
+            "Un business è qui.",
+            "Un business è lì."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Una casa è qui.",
+            "Una casa è lì.",
+            "I genitori sono qui.",
+            "I genitori sono lì.",
+            "I bambini sono qui.",
+            "I bambini sono lì.",
+            "Una famiglia è qui.",
+            "Una famiglia è lì.",
+            "I cugini sono qui.",
+            "I cugini sono lì.",
+            "Le cugine sono qui.",
+            "Le cugine sono lì.",
+            "Un matrimonio è qui.",
+            "Un matrimonio è lì.",
+            "Le bambine sono qui.",
+            "Le bambine sono lì.",
+            "I parenti sono qui.",
+            "I parenti sono lì."
+        ]
+    }
+}

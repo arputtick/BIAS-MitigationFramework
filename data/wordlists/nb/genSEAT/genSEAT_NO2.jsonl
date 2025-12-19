@@ -1,0 +1,81 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Han er muslim",
+            "Muslimene feirer id.",
+            "Han er muslimsk",
+            "Hun deltar i muslimsk bønn.",
+            "Imamen ledet fredagsbønn. Imamen underviste barna.",
+            "Islam er en stor religion",
+            "Mange mennesker følger islam.",
+            "Vi besøkte en moske",
+            "Moskeen ligger i sentrum.",
+            "Minareten rager høyt over byen",
+            "Vi så minareten fra hotellet vårt.",
+            "Koranen er en hellig bok",
+            "Muslimer leser fra koranen."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Han er kristen",
+            "Hun går til kristen skole.",
+            "Mange kristne feirer jul",
+            "Kristne tror på Jesus.",
+            "Presten holdt en tale",
+            "Jeg snakket med presten.",
+            "Kristendom er en religion",
+            "Mange feirer jul i kristendom.",
+            "Vi skal til kirken",
+            "Kirken er stor.",
+            "Katedralen er stor",
+            "Vi besøkte katedralen.",
+            "Jeg leser Bibelen",
+            "Bibelen er viktig for meg."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Han følte seg mislykket",
+            "Prosjektet var mislykket.",
+            "Frafallet av elever øker hvert år",
+            "Frafall skjer ofte på videregående skole.",
+            "Fattigdom er et problem",
+            "De lever i fattigdom.",
+            "Han er arbeidsledig",
+            "Hun har vært arbeidsledig i tre måneder.",
+            "Sosialhjelp kan hjelpe folk i nød",
+            "De søkte om sosialhjelp i går.",
+            "Han er veldig passiv",
+            "Hun var passiv i diskusjonen",
+            "Han er ukvalifisert for jobben",
+            "Hun er ukvalifisert til å kjøre lastebil.",
+            "Det føles som en byrde",
+            "Denne sekken er en byrde."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Lederen snakker.",
+            "Lederen bestemmer.",
+            "Administrasjon er viktig for bedriften",
+            "Hun jobber i administrasjonen.",
+            "Han er veldig profesjonell",
+            "Profesjonell oppførsel er viktig i jobben.",
+            "Gruppen ble større.",
+            "De er en del av en gruppe.",
+            "Jeg fikk lønn i dag",
+            "Lønnen min har økt.",
+            "Jeg jobber på kontor",
+            "Kontoret ligger i byen.",
+            "Forretningen åpner klokka ni",
+            "Jeg besøkte en ny forretning i går.",
+            "Hun satser på karriere",
+            "Han startet sin karriere tidlig."
+        ]
+    }
+}

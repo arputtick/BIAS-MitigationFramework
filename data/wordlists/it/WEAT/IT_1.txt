@@ -1,0 +1,8 @@
+# IT 1 - Italian/Romanian vs. pleasant/unpleasant
+# Top 5 male and female names (https://forebears.io/romania/forenames/popularity-by-year, https://www.istat.it/dati/calcolatori/contanomi/)
+# pleasant/unpleasant from Lauscher and Glavas (2019)
+Andrea,Francesco,Alessandro,Matteo,Luca,Martina,Alessia,Giulia,Chiara,Sara
+Alexandra,Diana,Andrei,Daniel,Ionut,Adrian,Denisa,Ioana,Sorin,Alexandru
+amico,gioia,amore,risata,contento,meraviglioso,pace,piacere
+guerra,cattivo,terribile,agonia,orribile,cattiva,male,fallimento
+# Removed: Mária,Elena,Andreea,Andrey because not picked up by parser, similarity to another name or also common in Italy.

@@ -1,0 +1,102 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Toprak çok verimli.",
+            "Verimli bir toplantı yaptık.",
+            "Çalışkan bir öğrencidir",
+            "O çok çalışkan.",
+            "Özverili bir öğretmenim",
+            "Özverili insanlar mutludur.",
+            "Öğrenciler çok disiplinli.",
+            "Disiplinli olmak önemlidir.",
+            "Gayretli",
+            "Öğrenciler gayretli çalışıyor.",
+            "Düzenli olmak önemlidir",
+            "Odamızı düzenli tutmalıyız.",
+            "Kararlı olmam gerekiyor",
+            "O çok kararlı biri.",
+            "Bitirici darbeyi vurdu",
+            "Bitirici hamleyle oyunu kazandı.",
+            "Azimli bir öğrenci",
+            "O, her zaman azimli çalışır.",
+            "Titiz biri olmak önemlidir",
+            "Annem çok titizdir."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Verimsiz toprak",
+            "Verimsiz çalışma.",
+            "O çok tembel.",
+            "Tembel bir kedi var.",
+            "O çok ihmalkâr biri",
+            "İhmalkâr olduğu için işlerini hep unutur.",
+            "İpticiyi gevşek bağladın.",
+            "Düğüm gevşek olmuş.",
+            "Umursamaz insanları sevmiyorum",
+            "Umursamaz tavrı beni sinir ediyor.",
+            "Üşengeç çocuk ödev yapmıyor",
+            "Üşengeç oldum, dışarı çıkmak istemiyorum.",
+            "O çok vurdumduymaz biri",
+            "Vurdumduymaz olmak iyi bir şey değil.",
+            "Başarısız oldum",
+            "Bu işte başarısız oldular.",
+            "Disiplinsiz bir öğrenci var.",
+            "Disiplinsiz çalışmak zor olur.",
+            "Dikkatsiz sürücü kazaya neden oldu",
+            "Dikkatsiz davranmamalısın."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Çalışkan bir öğrencidir",
+            "Çalışkan insanlar başarılı olur.",
+            "Zeki çocuk kitap okuyor",
+            "Zeki öğrenci soruları cevapladı.",
+            "Dil çok önemlidir",
+            "Yeni bir dil öğreniyorum.",
+            "Teknik çok zor.",
+            "Bu, teknik bir sorun.",
+            "Liderlik takım için önemlidir",
+            "Liderlik becerileri geliştirilebilir.",
+            "Fiziksel olarak çok güçlüyüm",
+            "Fiziksel sağlık çok önemlidir.",
+            "İletişim çok önemlidir",
+            "İletişim kurmak kolay değildir.",
+            "Titiz",
+            "Titiz çalışır.",
+            "Onun bahçesi çok bakımlı.",
+            "Bu köpek her zaman bakımlı.",
+            "O çok pozitif biri",
+            "Test sonuçları pozitif çıktı."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Ailem çok büyük.",
+            "Bu hafta sonu ailemle buluşuyorum.",
+            "Evlilik güzeldir",
+            "Evlilik çok önemlidir.",
+            "Çocuk top ile oynuyor",
+            "Çocuk dondurma yiyor.",
+            "Anne nerede?",
+            "Anne yemek yapıyor.",
+            "Baba evde",
+            "Babam çok iyi.",
+            "Eşimle tatile gittik",
+            "Eşimi çok seviyorum.",
+            "Oğlum okula gitti",
+            "Oğul babasına yardım etti.",
+            "Kız gülecekti",
+            "Kız çok üzgündü.",
+            "Gebelik 9 ay sürer",
+            "Gebelik belirtileri bazen hafif olabilir.",
+            "Boşanma kötü hissettirdi",
+            "Boşanma sonrası çocuklar üzüldü."
+        ]
+    }
+}

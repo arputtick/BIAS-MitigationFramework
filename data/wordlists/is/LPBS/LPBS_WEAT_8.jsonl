@@ -1,0 +1,54 @@
+{
+    "targ1": {
+        "singular": [
+            "vísindi",
+            "tækni",
+            "eðlisfræði",
+            "efnafræði",
+            "tilraun",
+            "stjarnfræði",
+            "Einstein",
+            "NASA"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "kveðskapur",
+            "list",
+            "dans",
+            "bókmenntir",
+            "skáldsaga",
+            "sinfónía",
+            "leiklist",
+            "Shakespeare"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "faðir",
+        "frændi",
+        "afi",
+        "son",
+        "bróðir",
+        "hann",
+        "honum",
+        "hans"
+    ],
+    "attr2": [
+        "móðir",
+        "frænka",
+        "amma",
+        "dóttir",
+        "systir",
+        "hún",
+        "henni",
+        "hennar"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}

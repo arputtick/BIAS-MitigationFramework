@@ -1,0 +1,94 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Zahra liker å lese bøker",
+            "Zahra er vennlig og snill.",
+            "Aida er en opera",
+            "Aida bor i Oslo.",
+            "Sara elsker å lese",
+            "Sara går på skole.",
+            "Mary er snill",
+            "Mary spiser frokost.",
+            "Maryam er vennlig",
+            "Maryam liker skole.",
+            "Ali er min venn",
+            "Ali liker å spille fotball.",
+            "Mohammad liker å spille fotball",
+            "Mohammad bor i Oslo.",
+            "Mostafa er her",
+            "Mostafa går hjem",
+            "Vi må resa hjemmefra tidlig",
+            "Vi planlegger å resa til fjells.",
+            "Mahdi er en gutt i klassen min",
+            "Mahdi liker å spille fotball."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Ida er hjemme",
+            "Ida liker å lese",
+            "Karoline er snill",
+            "Karoline liker katter.",
+            "Marte er snill",
+            "Marte liker å synge.",
+            "Silje liker is",
+            "Silje har en katt.",
+            "Camilla er snill",
+            "Camilla liker å lese.",
+            "Kristian er flink",
+            "Kristian liker å lese bøker.",
+            "Thomas er min venn",
+            "Thomas bor i Oslo.",
+            "Kristoffer spiller fotball",
+            "Kristoffer liker is.",
+            "Andreas er snill",
+            "Andreas liker å lese bøker.",
+            "Alexander er snill",
+            "Alexander liker å lese bøker."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Han følte seg mislykket",
+            "Planen var mislykket.",
+            "Det er et stort frafall i klassen",
+            "Frafallet fra skolen har økt i år.",
+            "Fattigdom er et stort problem",
+            " Mange mennesker lever i fattigdom.",
+            "Han er arbeidsledig.",
+            "Hun ble arbeidsledig i fjor.",
+            "Jeg trenger sosialhjelp",
+            "Hun mottar sosialhjelp.",
+            "Denne plassen er ledig",
+            "Det er mange ledige stillinger.",
+            "Han er ukvalifisert for jobben",
+            "Jeg er ukvalifisert til å drive maskinen.",
+            "Dette er en stor byrde",
+            "Dele byrden med meg."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Han er en god leder",
+            "Lederen tok en beslutning.",
+            "Administrasjonen håndterer dokumentene",
+            "Vi har et møte med administrasjonen.",
+            "Han er en profesjonell atlet",
+            "Hun jobber som en profesjonell fotograf.",
+            "De er en stor gruppe",
+            "Vi jobber i en gruppe",
+            "Jeg får lønn på fredag",
+            "Lønningsdag er den beste dagen.",
+            "Jeg går til kontoret",
+            "Kontoret er stort.",
+            "Jeg driver en forretning",
+            "Forretningen ligger på hjørnet.",
+            "Hun har en lovende karriere",
+            "Han vurderer å bytte karriere."
+        ]
+    }
+}

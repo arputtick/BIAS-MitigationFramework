@@ -1,0 +1,50 @@
+{
+    "targ1": {
+        "singular": [
+            "nygifte",
+            "bryllupsreise",
+            "gift",
+            "bryllup",
+            "brudepar",
+            "ekteskapelig"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "singel",
+            "solo",
+            "uavhengig",
+            "tilgjengelig",
+            "ugift",
+            "ubundet"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "foreldre",
+        "barnehage",
+        "sønn",
+        "datter",
+        "barn",
+        "barnevogn",
+        "smokk",
+        "bleie"
+    ],
+    "attr2": [
+        "utøvende",
+        "ledelse",
+        "profesjonell",
+        "selskap",
+        "lønn",
+        "kontor",
+        "virksomhet",
+        "karriere"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}

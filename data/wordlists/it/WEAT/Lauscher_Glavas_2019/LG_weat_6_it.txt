@@ -1,0 +1,4 @@
+Mike,Steve,Paolo,Greg,Bill,Jeff,John,Kevin,
+Amy,Donna,Diana,Joan,Ann,Kate,Lisa,Sarah,
+carriera,stipendio,ufficio,gestione,attività commerciale,esecutivo,società,professionale,
+parenti,genitori,casa,cugini,bambini,famiglia,nozze,matrimonio,

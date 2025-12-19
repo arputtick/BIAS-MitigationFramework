@@ -1,0 +1,86 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Wiskunde is mijn favoriete vak",
+            "Ik heb morgen een wiskunde toets.",
+            "Algebra is moeilijk",
+            "Ik moet algebra leren.",
+            "Geometrie is een vak op school",
+            "Hij houdt van geometrie.",
+            "Ik vind calculus moeilijk",
+            "We leren calculus op school.",
+            "De wiskundeleraar schreef een equatie op het bord",
+            "De oplossing van de equatie was moeilijk.",
+            "Ik maak een berekening",
+            "De berekening is lastig.",
+            "Ik hou van deze nummers",
+            "Die nummers zijn populair.",
+            "De toevoeging van zout verbetert de smaak",
+            "Zijn opmerking was een nuttige toevoeging."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Poëzie is mooi",
+            "Ze leest graag poëzie.",
+            "Kunst is mooi",
+            "Kunst is waardevol.",
+            "Ik ga naar de dans",
+            "De dans was leuk.",
+            "Ik hou van literatuur",
+            "Literatuur is belangrijk.",
+            "Ik lees een spannende roman",
+            "Die roman is erg populair.",
+            "Ik luister naar een symfonie",
+            "De symfonie was prachtig.",
+            "De symfonie was prachtig",
+            "Ik luister graag naar een symfonie.",
+            "De sculptuur is mooi",
+            "De sculptuur is groot."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Hij is heel mannelijk",
+            "Zijn stem klinkt mannelijk.",
+            "De man loopt",
+            "De man leest een boek.",
+            "De jongen speelt buiten",
+            "De jongen heeft dorst.",
+            "Mijn broer is aardig",
+            "Mijn broer speelt voetbal.",
+            "Hij is groot",
+            "Hij loopt snel",
+            "Ik zag hem gisteren",
+            "Geef hem de sleutel.",
+            "Ik ben blij dat je hier bent",
+            "Weet jij waar mijn sleutels zijn?",
+            "Mijn zoon gaat naar school",
+            "Zijn zoon houdt van voetbal."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Zij is heel vrouwelijk",
+            "Dat jurkje is erg vrouwelijk.",
+            "De vrouw leest een boek",
+            "De vrouw loopt naar huis.",
+            "Het meisje speelt buiten",
+            "Het meisje eet een appel.",
+            "Mijn zus heet Anne",
+            "Mijn zus houdt van lezen",
+            "Zij gaat naar school",
+            "Zij houdt van lezen.",
+            "Dit is haar boek",
+            "Zij kamt haar haar.",
+            "Dit is haar tas",
+            "Haar hond is groot.",
+            "Ik heb een dochter",
+            "Mijn dochter speelt buiten."
+        ]
+    }
+}

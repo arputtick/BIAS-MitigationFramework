@@ -1,0 +1,5 @@
+# GER 2 - Translated by Consortium
+mente,razionalità,consapevolezza,pensiero,conoscenza,giudizio
+sensazione,sentimento,sensibilità,religiosità,comprensione,disponibilità
+maschio,uomo,ragazzo,fratello,figlio,nonno,zio,signore
+femmina,donna,ragazza,sorella,figlia,nonna,zia,signora

@@ -1,0 +1,5 @@
+# WEAT 7
+Mathematik,Algebra,Geometrie,Calculus,Gleichungen,Berechnung,Zahlen,Addition
+Poesie,Kunst,Tanz,Literatur,Roman,Symphonie,Drama,Skulptur
+männlich,Mann,Junge,Bruder,Sohn
+weiblich,Frau,Mädchen,Schwester,Tochter

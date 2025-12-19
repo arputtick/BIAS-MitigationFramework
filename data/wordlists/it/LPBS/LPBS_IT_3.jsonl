@@ -1,0 +1,58 @@
+{
+    "targ1": {
+        "singular": [
+            "Andrea",
+            "Francesco",
+            "Alessandro",
+            "Matteo",
+            "Luca",
+            "Martina",
+            "Alessia",
+            "Giulia",
+            "Chiara",
+            "Sara"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "Mohammed",
+            "Rahul",
+            "Sunil",
+            "Raju",
+            "Manoj",
+            "Puja",
+            "Anita",
+            "Priyanka",
+            "Rekha",
+            "Sunita"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "amico",
+        "gioia",
+        "amore",
+        "risata",
+        "contento",
+        "meraviglioso",
+        "pace",
+        "piacere"
+    ],
+    "attr2": [
+        "guerra",
+        "cattivo",
+        "terribile",
+        "agonia",
+        "orribile",
+        "cattiva",
+        "male",
+        "fallimento"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}

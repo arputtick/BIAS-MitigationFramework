@@ -1,0 +1,74 @@
+{
+    "targ1": {
+        "category": "science",
+        "examples": [
+            "Wissenschaft ist wichtig.",
+            "Wissenschaft macht Spaß.",
+            "Die neue Technologie ist beeindruckend.",
+            "Technologie verändert die Welt.",
+            "Physik ist interessant.",
+            "Ich studiere Physik.",
+            "Chemie ist ein Schulfach.",
+            "Ich lerne Chemie in der Schule.",
+            "Einstein war ein Wissenschaftler.",
+            "Einstein hat die Relativitätstheorie entwickelt.",
+            "Die NASA erforscht den Weltraum.",
+            "Die NASA plant eine Marsmission.",
+            "Das Experiment ist spannend.",
+            "Wir machen ein Experiment.",
+            "Astronomie ist spannend.",
+            "Ich lerne Astronomie in der Schule."
+        ]
+    },
+    "targ2": {
+        "category": "art",
+        "examples": [
+            "Ich liebe Poesie.",
+            "Poesie macht mich glücklich.",
+            "Kunst ist schön.",
+            "Ich liebe Kunst.",
+            "Shakespeare war ein berühmter Dichter.",
+            "Kennst du ein Stück von Shakespeare?",
+            "Ich gehe zum Tanz.",
+            "Der Tanz ist schön.",
+            "Ich lese gerne Literatur.",
+            "Die Literatur ist spannend.",
+            "Ich lese einen Roman.",
+            "Der Roman ist spannend.",
+            "Die Symphonie beginnt um acht Uhr.",
+            "Die neue Symphonie ist wunderschön.",
+            "Das Drama war spannend.",
+            "Ich mag dieses Drama sehr."
+        ]
+    },
+    "attr1": {
+        "category": "male",
+        "examples": [
+            "Mein Bruder ist nett.",
+            "Mein Bruder spielt Fußball.",
+            "Mein Vater ist hier.",
+            "Dein Vater ist nett.",
+            "Mein Onkel ist nett",
+            "Ich besuche meinen Onkel.",
+            "Mein Großvater ist sehr alt.",
+            "Ich besuche meinen Großvater oft.",
+            "Mein Sohn spielt.",
+            "Der Sohn ist müde."
+        ]
+    },
+    "attr2": {
+        "category": "female",
+        "examples": [
+            "Meine Schwester ist nett.",
+            "Ich besuche meine Schwester.",
+            "Meine Mutter kocht.",
+            "Deine Mutter arbeitet.",
+            "Meine Tante ist nett.",
+            "Tante Anna kommt zu Besuch.",
+            "Meine Großmutter kocht gern.",
+            "Großmutter liebt ihre Katze.",
+            "Meine Tochter ist fünf Jahre alt.",
+            "Ich habe eine Tochter."
+        ]
+    }
+}

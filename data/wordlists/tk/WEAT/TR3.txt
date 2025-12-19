@@ -1,0 +1,6 @@
+## TR3, derived from co-creation workshop
+## male/female vs. interests that are considered positive or negative in recruiting (as of co-creation workshop)
+Mehmet,Ali,Mustafa,Ahmet,Hüseyin,Hasan,İbrahim,Murat,İsmail,Osman,Halil,Ramazan,Ömer,Yusuf,Suleyman,Abdullah,Kemal,Fatih,Mahmut,Recep
+Fatma,Ayşe,Emine,Hatice,Zeynep,Meryem,Elif,Sultan,Hülya,Sevim,Özlem,Şerife,Fadime,Hanife,Aysel,Dilek,Zehra,Yasemin,Hacer,Havva
+çalışkan,zeki,dil,teknik,liderlik,fiziksel,iletişim,titiz,bakımlı,pozitif,iletişim,üniversiteler,özgüvenli,deneyimli
+aile,evlilik,çocuk,evli,tatlı,boşanma,tatil,seyahat,kültür,keşif,bisiklet,yoga,fotoğrafçılık,şiir

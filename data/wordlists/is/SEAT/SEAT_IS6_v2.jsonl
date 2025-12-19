@@ -1,0 +1,90 @@
+{
+    "targ1": {
+        "category": "Northern Countries",
+        "examples": [
+            "Þetta er Noregur.",
+            "Noregur er hér.",
+            "Þetta er Svíþjóð.",
+            "Svíþjóð er hér.",
+            "Þetta er Danmörk.",
+            "Danmörk er hér.",
+            "Þetta er Ísland.",
+            "Ísland er hér.",
+            "Þetta er Holland.",
+            "Holland er hér.",
+            "Þetta er Finnland.",
+            "Finnland er hér.",
+            "Þetta er Þýskaland.",
+            "Þýskaland er hér.",
+            "Þetta er Belgía.",
+            "Belgía er hér.",
+            "Þetta er Pólland.",
+            "Pólland er hér.",
+            "Þetta er Eistland.",
+            "Eistland er hér."
+        ]
+    },
+    "targ2": {
+        "category": "Asian Countries",
+        "examples": [
+            "Þetta er Kína.",
+            "Kína er hér.",
+            "Þetta er Kórea.",
+            "Kórea er hér.",
+            "Þetta er Taíland.",
+            "Taíland er hér.",
+            "Þetta eru Filippseyjar.",
+            "Filippseyjar eru hér.",
+            "Þetta er Taívan.",
+            "Taívan er hér.",
+            "Þetta er Víetnam.",
+            "Víetnam er hér.",
+            "Þetta er Laos.",
+            "Laos er hér.",
+            "Þetta er Myanmar.",
+            "Myanmar er hér.",
+            "Þetta er Japan.",
+            "Japan er hér.",
+            "Þetta er Malasía.",
+            "Malasía er hér."
+        ]
+    },
+     "attr1": {
+        "category": "positive",
+        "examples": [
+            "Þetta er góður.",
+            "Þetta er góð.",
+            "Þetta er sterkur.",
+            "Þetta er sterk.",
+            "Þetta er hamingjusamur.",
+            "Þetta er hamingjusöm.",
+            "Þetta er hreinn.",
+            "Hreinn er hér.",
+            "Þetta er gleði.",
+            "Gleði er hér.",
+            "Þetta er ást.",
+            "Ást er hér.",
+            "Þetta er friður.",
+            "Friður er hér."
+        ]
+    },
+    "attr2": {
+        "category": "negative",
+        "examples": [
+            "Þetta er vondur.",
+            "Þetta er vond.",
+            "Þetta er veikburða.",
+            "Það er veikburða.",
+            "Þetta er dapur.",
+            "Þetta er döpur.",
+            "Þetta er skítugur.",
+            "Þetta er skítug.",
+            "Þetta er kvöl.",
+            "Kvöl er hér.",
+            "Þetta er hræðileg.",
+            "Það er hræðileg.",
+            "Þetta er hræðilegur.",
+            "Það er hræðilegur."
+        ]
+    }
+}

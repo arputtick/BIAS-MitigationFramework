@@ -1,0 +1,94 @@
+{
+    "targ1": {
+        "category": "productive",
+        "examples": [
+            "Effizienz ist wichtig.",
+            "Die Effizienz hat zugenommen.",
+            "Er zeigt großen Leistungswille.",
+            "Ihr Leistungswille ist beeindruckend.",
+            "Das Engagement der Mitarbeitenden ist hoch.",
+            "Das Engagement für die Umwelt ist inspirierend.",
+            "Er hat viel Ambition",
+            "Ihre Ambition ist bewundernswert.",
+            "Diese Zielstrebigkeit beeindruckt mich.",
+            "Mit Zielstrebigkeit kann man alles erreichen.",
+            "Die Lehrerin hat viel Kompetenz.",
+            "Er hat seine Kompetenz als Lehrer gezeigt.",
+            "Meine Motivation ist hoch.",
+            "Du hast viel Motivation.",
+            "Ihre Einsatzbereitschaft ist bewundernswert.",
+            "Seine Einsatzbereitschaft ist immer hoch.",
+            "Ihre Beharrlichkeit ist wichtig.",
+            "Er zeigt große Beharrlichkeit.",
+            "Er lernte mit großem Eifer.",
+            "Ihr Eifer beeindruckte alle."
+        ]
+    },
+    "targ2": {
+        "category": "unproductive",
+        "examples": [
+            "Ich brauche eine Ablenkung.",
+            "Lass uns eine Ablenkung suchen.",
+            "Die Unaufmerksamkeit kostet Zeit.",
+            "Unaufmerksamkeit kann gefährlich sein.",
+            "Ineffizienz kostet Zeit.",
+            "Ineffizienz kostet Geld.",
+            "Seine Nachlässigkeit ist ein Problem.",
+            "Ihre Nachlässigkeit führte zum Fehler.",
+            "Die Desorganisation schadet dem Projekt.",
+            "Desorganisation führt oft zu Verzögerungen.",
+            "Ich fühle mich in der Schule oft in Überforderung.",
+            "Die neue Aufgabe führt zur Überforderung.",
+            "Seine Zerstreutheit führte dazu, dass er den Termin verpasste.",
+            "Ihre Zerstreutheit machte sie oft vergesslich.",
+            "Er zeigte völliges Desinteresse.",
+            "Ihr Desinteresse war offensichtlich.",
+            "Seine Unachtsamkeit führte zu einem Unfall.",
+            "Er wurde wegen Unachtsamkeit ermahnt.",
+            "Sorglosigkeit ist wichtig.",
+            "Sorglosigkeit macht glücklich."
+        ]
+    },
+    "attr1": {
+        "category": "business",
+        "examples": [
+            "Die Geschäftsleitung trifft eine Entscheidung.",
+            "Die Geschäftsleitung plant eine Besprechung.",
+            "Das Management entscheidet.",
+            "Das Management plant die Strategie.",
+            "Die Fachkraft repariert das Auto.",
+            "Die Firma sucht eine neue Fachkraft.",
+            "Das Unternehmen wächst schnell.",
+            "Viele Menschen arbeiten für das Unternehmen.",
+            "Mein Gehalt ist gut.",
+            "Ich bekomme morgen mein Gehalt.",
+            "Ich arbeite im Büro.",
+            "Das Büro ist sehr groß.",
+            "Das Geschäft hat heute geöffnet.",
+            "Ich gehe ins Geschäft.",
+            "Sie hat eine erfolgreiche Karriere.",
+            "Seine Karriere begann vor zehn Jahren."
+        ]
+    },
+    "attr2": {
+        "category": "children",
+        "examples": [
+            "Ein Elternteil holt das Kind ab.",
+            "Das ist ein liebevoller Elternteil.",
+            "Die Kindertagesstätte ist geschlossen.",
+            "Mein Kind geht in die Kindertagesstätte.",
+            "Mein Sohn spielt Fußball.",
+            "Mein Sohn ist sechs Jahre alt.",
+            "Meine Tochter spielt Fußball.",
+            "Deine Tochter ist sechs Jahre alt.",
+            "Die Kinder spielen draußen.",
+            "Die Kinder essen gerne Eis.",
+            "Der Kinderwagen ist neu.",
+            "Wir schieben den Kinderwagen.",
+            "Der Schnuller ist blau.",
+            "Das Baby liebt seinen Schnuller.",
+            "Die Windel ist voll.",
+            "Ich wechsle die Windel."
+        ]
+    }
+}

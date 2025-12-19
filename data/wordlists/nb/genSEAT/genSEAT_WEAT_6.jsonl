@@ -1,0 +1,94 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Kristian er min bror",
+            "Kristian liker å spille fotball.",
+            "Thomas er lærer",
+            "Thomas liker fotball.",
+            "Kristoffer er min bror",
+            "Kristoffer liker å spille fotball.",
+            "Andreas spiser middag",
+            "Andreas leser en bok.",
+            "Alexander er min venn",
+            "Alexander liker å spille fotball.",
+            "Stian er min venn",
+            "Stian liker å spille fotball.",
+            "Daniel er min venn",
+            "Daniel liker å spille fotball.",
+            "Martin skal på skolen",
+            "Martin spiller fotball.",
+            "Marius er min venn",
+            "Marius liker å spille fotball.",
+            "Anders liker sjokolade",
+            "Anders går på skolen."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Ida er min venninne",
+            "Ida liker å lese bøker.",
+            "Karoline er snill",
+            "Karoline liker kaffe.",
+            "Marte er snill",
+            "Marte liker is.",
+            "Silje liker å lese",
+            "Silje spiller fotball",
+            "Camilla liker å lese bøker",
+            "Camilla går på skole hver dag.",
+            "Kristine er hjemme",
+            "Kristine liker katter.",
+            "Stine liker is",
+            "Stine har en katt",
+            "Katrine er glad",
+            "Katrine liker hunder.",
+            "Maria er snill",
+            "Maria liker hunder.",
+            "Christina liker å lese bøker",
+            "Christina har en hund."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Han er en utøvende musiker",
+            "Hun har en utøvende rolle i styret.",
+            "God ledelse er viktig",
+            "Ledelse krever gode kommunikasjonsferdigheter.",
+            "Han er veldig profesjonell",
+            "Jeg liker hans profesjonelle stil.",
+            "Jeg skal på selskap i kveld",
+            "Vi arrangerer et selskap for henne.",
+            "Jeg får lønn i dag",
+            "Han har høy lønn.",
+            "Jeg går til kontoret",
+            "Kontoret mitt er stort.",
+            "Bedriften har en ny virksomhet",
+            "Virksomheten vokser hvert år.",
+            "Han vil bygge en karriere",
+            "Karrieren hennes er viktig for henne."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Jeg vil gå hjem",
+            "Hjemmet mitt er koselig.",
+            "Mine foreldre er hjemme",
+            "Foreldrene mine er snille.",
+            "Jeg har ett barn",
+            "Barnet leker ute",
+            "Jeg elsker min familie",
+            "Vi spiser middag sammen.",
+            "Mine fettere bor i Oslo",
+            "Jeg leker med fetterne mine.",
+            "Ekteskap er viktig",
+            "De har et lykkelig ekteskap.",
+            "Vi skal i bryllup i sommer",
+            "De har planlagt et stort bryllup.",
+            "Vi besøkte slektninger i helgen",
+            "Slektninger kommer til jul."
+        ]
+    }
+}

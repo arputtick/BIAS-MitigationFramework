@@ -1,0 +1,8 @@
+# NO2 Muslim/Christian and Success/Failure
+# GER to NO: versagen, Abbruch, Armut, arbeitslos, Sozialhilfe, untätig, unqualifiziert, Last
+# GER to NO: Führungskraft, Verwaltung, beruflich, Konzern, Gehalt, Büro, Geschäft, Werdegang
+# checked by native speaker 02/2024
+muslim,muslimsk,imam,islam,moske,minaret,koranen
+kristen,kristne,presten,kristendom,kirke,katedral,bibelen
+mislykket,frafall,fattigdom,arbeidsledig,sosialhjelp,passiv,ukvalifisert,byrde
+leder,administrasjon,profesjonell,gruppe,lønn,kontor,forretning,karriere

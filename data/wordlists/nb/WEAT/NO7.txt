@@ -1,0 +1,6 @@
+# NO7 - Norwegian and Iranian names, being good sellers or not (manually curated from ChatGPT)
+# Checked by native speaker 02/2024
+Zahra,Aida,Sara,Mary,Maryam,Ali,Mohammad,Mostafa,Resa,Mahdi
+Ida,Karoline,Marte,Silje,Camilla,Kristian,Thomas,Kristoffer,Andreas,Alexander
+overbevisende,karismatisk,troverdig,selvsikker,fengslende,fornuftig
+usannsynlig,passiv,klønete,upålitelig,nølende,udugelig

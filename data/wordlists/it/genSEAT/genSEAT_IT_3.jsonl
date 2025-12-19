@@ -1,0 +1,94 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Andrea è mio amico",
+            "Andrea ama il calcio.",
+            "Francesco è mio amico",
+            "Francesco ama il calcio.",
+            "Alessandro è un bravo studente",
+            "Alessandro ama giocare a calcio.",
+            "Matteo è mio amico",
+            "Matteo gioca a calcio.",
+            "Luca è mio amico",
+            "Luca abita qui.",
+            "Martina va a scuola",
+            "Martina ama il gelato.",
+            "Alessia è mia sorella",
+            "Domani Alessia va a scuola.",
+            "Giulia è mia sorella",
+            "Giulia ama il gelato.",
+            "Chiara è mia amica",
+            "Chiara vive a Roma.",
+            "Sara è mia amica",
+            "Sara viene a cena."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Mohammed gioca a calcio",
+            "Mohammed va a scuola ogni giorno.",
+            "Rahul è mio amico",
+            "Rahul vive a Roma.",
+            "Sunil è un mio amico",
+            "Sunil vive in Italia.",
+            "Raju va a scuola",
+            "Raju ama giocare a calcio.",
+            "Manoj è un bravo ragazzo",
+            "Manoj studia all'università.",
+            "Metti la puja sul tavolo",
+            "La puja è importante per il rituale.",
+            "Anita gioca nel parco",
+            "Anita mangia una mela.",
+            "Priyanka è mia amica",
+            "Priyanka ama la pizza.",
+            "Rekha è una bravissima cantante",
+            "Ho ascoltato l'ultima canzone di Rekha.",
+            "Sunita è una mia amica",
+            "Sunita ama la pizza."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Lui è il mio migliore amico",
+            "Andiamo al parco con il nostro amico.",
+            "La sua gioia era contagiosa",
+            "Ho provato una grande gioia.",
+            "Ti amo, amore mio",
+            "L'amore è importante nella vita.",
+            "La sua risata è contagiosa",
+            "Abbiamo condiviso una risata.",
+            "Sono contento oggi",
+            "Lei è molto contenta.",
+            "Il panorama è meraviglioso",
+            "La tua voce è meravigliosa.",
+            "Sto cercando la pace",
+            "La pace è importante",
+            "Mi fa piacere vederti",
+            "Questo libro mi dà piacere."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "La guerra è finita",
+            "Vogliamo la pace, non la guerra.",
+            "Il cane è cattivo",
+            "Quel cibo è cattivo.",
+            "Il film è terribile",
+            "La giornata è stata terribile.",
+            "L'agonia del pesce è evidente",
+            "La sua agonia era interminabile.",
+            "Quella casa è orribile",
+            "Il film era davvero orribile.",
+            "Lei è una ragazza cattiva",
+            "Questa pizza è cattiva.",
+            "Mi sento male",
+            "Ha un male alla testa.",
+            "Il fallimento mi ha insegnato molto",
+            "Il fallimento non è la fine di tutto."
+        ]
+    }
+}

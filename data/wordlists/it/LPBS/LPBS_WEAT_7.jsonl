@@ -1,0 +1,54 @@
+{
+    "targ1": {
+        "singular": [
+            "matematica",
+            "algebra",
+            "geometria",
+            "calcolo",
+            "equazioni",
+            "numeri",
+            "addizione",
+            "somma"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "poesia",
+            "arte",
+            "danza",
+            "letteratura",
+            "romanzo",
+            "sinfonia",
+            "teatro",
+            "scultura"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "maschio",
+        "uomo",
+        "ragazzo",
+        "fratello",
+        "figlio",
+        "nonno",
+        "zio",
+        "signore"
+    ],
+    "attr2": [
+        "femmina",
+        "donna",
+        "ragazza",
+        "sorella",
+        "figlia",
+        "nonna",
+        "zia",
+        "signora"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}

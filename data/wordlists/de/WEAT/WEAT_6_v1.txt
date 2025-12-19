@@ -1,0 +1,5 @@
+# WEAT 6 - ger 1 (names from Switzerland)
+Peter,Daniel,Hans,Thomas,Andreas,Martin,Markus,Michael
+Maria,Anna,Ursula,Ruth,Monika,Elisabeth,Verena,Sandra
+Führungskraft,Verwaltung,beruflich,Konzern,Gehalt,Büro,Geschäft,Werdegang
+Zuhause,Eltern,Kinder,Familie,Cousinen,Ehe,Hochzeit,Verwandtschaft

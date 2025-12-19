@@ -1,0 +1,9 @@
+# NO1 version 1: Top5 male/female Iranian and Norwegian names, positive and negative (translated from WEAT)
+# Translated from WEAT9
+# joy, love, peace, wonderful, pleasure, friend, laughter, happy
+# agony, terrible, horrible, nasty, evil, war, awful, failure
+# translations checked by native speaker 02/2024
+Zahra,Aida,Sara,Mary,Maryam,Ali,Mohammad,Mostafa,Resa,Mahdi
+Ida,Karoline,Marte,Silje,Camilla,Kristian,Thomas,Kristoffer,Andreas,Alexander
+smerte,forferdelig,fryktelig,grusom,ondskap,krig,skrekkelig,fiasko
+glede,kjærlighet,fred,vidunderlig,nytelse,venn,latter,lykkelig

@@ -1,0 +1,67 @@
+# NAME_TEMPLATES
+This is WORD.
+That is WORD.
+There is WORD.
+Here is WORD.
+WORD is here.
+WORD is there.
+WORD is a person.
+The person\'s name is WORD.
+# SUBJECT_PRONOUN_TEMPLATES
+WORD is here.
+WORD is there.
+Here WORD is.
+There WORD is.
+WORD is a person.
+# OBJECT_PRONOUN_TEMPLATES
+It is WORD.
+This is WORD.
+That is WORD.
+# POSSESSIVE_PRONOUN_TEMPLATES
+This is WORD.
+That is WORD.
+There is WORD.
+Here is WORD.
+It is WORD.
+WORD is there.
+WORD is here.
+# ADJECTIVE_TEMPLATES
+This is WORD.
+That is WORD.
+They are WORD.
+# MASS_NOUN_TEMPLATES
+This is WORD.
+That is WORD.
+There is WORD.
+It is WORD.
+# VERB_TEMPLATES
+This will WORD.
+This did WORD.
+This can WORD.
+This may WORD.
+That will WORD.
+That did WORD.
+That can WORD.
+That may WORD.
+# SINGULAR_NOUN_TEMPLATES
+This is WORD.
+That is WORD.
+There is WORD.
+Here is WORD.
+The WORD is here.
+The WORD is there.
+# PLURAL_NOUN_TEMPLATES
+These are WORD.
+Those are WORD.
+They are WORD.
+The WORD are here.
+The WORD are there.
+# SINGULAR_PERSON_TEMPLATES
+{article} WORD is a person.
+# PLURAL_PERSON_TEMPLATES
+WORD are people.
+# SINGULAR_THING_TEMPLATES
+WORD is a thing.
+It is WORD.
+# PLURAL_THING_TEMPLATES
+WORD are things.

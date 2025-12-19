@@ -1,0 +1,78 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "De er nygifte",
+            "Vi møtte de nygifte i parken.",
+            "Vi reiste til Italia på bryllupsreise",
+            "Bryllupsreisen var veldig romantisk.",
+            "Hun er gift",
+            "Det er gift i flasken.",
+            "Vi skal i bryllup i helgen",
+            "Hun skal ha på seg en vakker kjole til bryllupet.",
+            "Brudeparet ankom festen",
+            "Brudeparet danset sammen.",
+            "Ekteskapelig krangel",
+            "Ekteskapelig lykke"
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Jeg er singel",
+            "Hun er også singel.",
+            "Jeg drikker solo",
+            "Solo er min favorittdrikke.",
+            "Han er uavhengig",
+            "Hun jobber uavhengig av andre.",
+            "Boken er tilgjengelig på biblioteket",
+            "Legesenteret er tilgjengelig hele dagen.",
+            "Han er ugift",
+            "Hun er fortsatt ugift.",
+            "Han er ubundet nå",
+            "Hun følte seg ubundet."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Foreldrene mine er veldig snille",
+            "Foreldre kan noen ganger være strenge",
+            "Jeg jobber i en barnehage",
+            "Barnet mitt begynte i barnehagen i går.",
+            "Dette er min sønn",
+            "Han heter Erik",
+            "Jeg har en datter",
+            "Datteren min går på skole",
+            "Barnet leker ute",
+            "Vi har to barn.",
+            "Hun kjøpte en ny barnevogn",
+            "Barnevognen er rød.",
+            "Babyen mistet smokken",
+            "Smokken er blå.",
+            "Jeg må bytte bleie på babyen",
+            "Babyen trenger en ren bleie."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Han er en utøvende leder",
+            "Hun jobber i en utøvende rolle.",
+            "Han har god ledelse",
+            "Ledelse er viktig.",
+            "Hun er en profesjonell maler",
+            "Han har en profesjonell holdning.",
+            "Jeg gikk på selskap i går",
+            "Selskapene er alltid veldig morsomme.",
+            "Jeg fikk lønn i går",
+            "Han får lønn på fredag",
+            "Jeg jobber på et kontor",
+            "Kontoret mitt er i byen.",
+            "Bedriften har mye virksomhet",
+            "Vi har en blomstrende virksomhet.",
+            "Hun ønsker en karriere som lege",
+            "Karrieren hennes har vært en suksess."
+        ]
+    }
+}

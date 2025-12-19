@@ -1,0 +1,92 @@
+{
+    "class": {
+        "rich": [
+            "affluent",
+            "advantaged",
+            "rich",
+            "wealthy",
+            "moneyed",
+            "prosperous",
+            "privileged",
+            "elite",
+            "elites",
+            "aristocrat",
+            "aristocrats",
+            "nobility"
+        ],
+        "poor": [
+            "poor",
+            "destitute",
+            "needy",
+            "disadvantaged",
+            "beggar",
+            "threadbare",
+            "beggars",
+            "paupers",
+            "impoverished",
+            "penniless",
+            "unprosperous",
+            "homeless"
+        ]
+    },
+    "race": {
+        "white": [
+            "white",
+            "whites",
+            "british",
+            "caucasian",
+            "caucasians",
+            "light-skinned",
+            "american",
+            "americans",
+            "european",
+            "europeans",
+            "englishman",
+            "englishmen"
+        ],
+        "black": [
+            "black",
+            "blacks",
+            "negro",
+            "negroes",
+            "dark-skinned",
+            "negroid",
+            "african",
+            "africans",
+            "ethiopian",
+            "ethiopians",
+            "african-american",
+            "afro-american"
+        ]
+    },
+    "gender": {
+        "men": [
+            "man",
+            "son",
+            "father",
+            "brother",
+            "grandfather",
+            "nephew",
+            "male",
+            "boy",
+            "sir",
+            "uncle",
+            "gentleman",
+            "king"
+        ],
+        "women": [
+            "woman",
+            "daughter",
+            "mother",
+            "sister",
+            "grandmother",
+            "niece",
+            "female",
+            "girl",
+            "madam",
+            "aunt",
+            "maiden",
+            "queen"
+        ]
+    }
+}

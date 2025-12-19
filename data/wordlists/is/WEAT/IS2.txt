@@ -1,0 +1,8 @@
+# IS2: New WEAT Test based on co-creation: Chinese and Technology
+# See technical report for details about procedure
+# most common icelandic and chinese surnames
+# https://www.routesnorth.com/language-and-culture/icelandic-last-names-a-simple-guide/
+Jónsdóttir,Jónsson,Sigurðardóttir,Guðmundsdóttir,Guðmundsson,Sigurðsson,Gunnarsdóttir,Gunnarsson,Ólafsson,Ólafsdóttir
+Wang,Wong,Li,Lee,Zhang,Liu,Lau,Chen,Chan,Yang
+bókalestur,útivist,listmálun,handverk,leikhús,samverustundir,gönguferðir,íþróttir,ljóðagerð,jóga,garðyrkja
+fartölva,spjaldtölva,farsími,internet,netið,gervigreind,algorithm,tölvu,computer,technology,software

@@ -1,0 +1,78 @@
+{
+    "targ1": {
+        "singular": [
+            "Mehmet",
+            "Ali",
+            "Mustafa",
+            "Ahmet",
+            "Huseyin",
+            "Hasan",
+            "Ibrahim",
+            "Murat",
+            "Ismail",
+            "Osman",
+            "Halil",
+            "Ramazan",
+            "Omer",
+            "Yusuf",
+            "Suleyman",
+            "Abdullah",
+            "Kemal",
+            "Fatih",
+            "Mahmut",
+            "Recep"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "Fatma",
+            "Ayse",
+            "Emine",
+            "Hatice",
+            "Zeynep",
+            "Meryem",
+            "Elif",
+            "Sultan",
+            "Hulya",
+            "Sevim",
+            "Ozlem",
+            "Serife",
+            "Fadime",
+            "Hanife",
+            "Aysel",
+            "Dilek",
+            "Zehra",
+            "Yasemin",
+            "Hacer",
+            "Havva"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "yönetici",
+        "idare",
+        "profesyonel",
+        "grup",
+        "maaş",
+        "ofis",
+        "iş",
+        "kariyer"
+    ],
+    "attr2": [
+        "ev",
+        "ebeveynler",
+        "çocuklar",
+        "aile",
+        "kuzenler",
+        "evlilik",
+        "düğün",
+        "akrabalar"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}

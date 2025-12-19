@@ -1,0 +1,6 @@
+# GER 1 translated with consortium
+# list checked by native speaker 02/2024
+elektroteknikk,maskinteknikk,informatikk,ingeniørarbeid,fysikk
+spesialpedagogikk,veterinærmedisin,etnologi,utdanningsvitenskap,psykologi
+mannlig,mann,gutt,bror,han,ham,hans,sønn
+kvinnelig,kvinne,jente,søster,hun,henne,hennes,datter

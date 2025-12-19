@@ -1,0 +1,7 @@
+## WEAT 6 Italian - Based on Translations from BIAS Consortium
+# Names from 1999 baby names (assuming this includes the new generation entering now the labor market) from https://www.istat.it/en/analysis-and-products/interactive-contents/baby-names
+# 2 gendered terms were added for family (1 was left out as wedding and marriage translated to the same word), and 1 extra term correspondingly for professional
+Andrea,Francesco,Alessandro,Matteo,Luca,Lorenzo,Marco,Davide,Simone,Giuseppe
+Martina,Alessia,Giulia,Chiara,Sara,Francesca,Federica,Giorgia,Anna,Elisa
+dirigente,gestione,management,professionalista,società,salario,ufficio,business,carriera
+casa,genitori,bambini,bambine,famiglia,cugini,cugine,matrimonio,parenti

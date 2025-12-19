@@ -1,0 +1,42 @@
+{
+    "targ1": {
+        "singular": [
+            "rafmagnsverkfræði",
+            "vélaverkfræði",
+            "tölvunarfræði",
+            "örtækni",
+            "eðlisfræði"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "kennslufræði",
+            "dýralæknir",
+            "þjóðfræði",
+            "menntunarfræði",
+            "sálfræði"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "karlmaður",
+        "karl",
+        "piltur",
+        "bróður",
+        "son"
+    ],
+    "attr2": [
+        "kvenmaður",
+        "konu",
+        "stelpu",
+        "systur",
+        "dóttur"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}

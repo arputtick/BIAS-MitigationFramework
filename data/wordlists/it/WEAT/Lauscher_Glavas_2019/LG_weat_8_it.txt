@@ -1,0 +1,4 @@
+esperimento,chimica,astronomia,tecnologia,scienza,Einstein,NASA,fisica,
+Shakespeare,danza,dramma,poesia,sinfonia,romanzo,letteratura,arte,
+zio,fratello,figlio,lui,suo,nonno,padre,
+zia,sua,lei,madre,sorella,nonna,figlia,

@@ -1,0 +1,44 @@
+{
+    "targ1": {
+        "singular": [
+            "matematik",
+            "cebir",
+            "geometri",
+            "kalkülüs",
+            "deklemler",
+            "hesaplama",
+            "sayılar",
+            "ek"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "şiir",
+            "sanat",
+            "dans",
+            "literatür",
+            "roman",
+            "senfoni",
+            "piyes",
+            "heykel"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "erkek",
+        "adam",
+        "oğlan"
+    ],
+    "attr2": [
+        "kadın",
+        "kadın",
+        "kız"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}

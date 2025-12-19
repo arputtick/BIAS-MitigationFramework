@@ -1,0 +1,70 @@
+{
+    "targ1": {
+        "singular": [
+            "Peter",
+            "Daniel",
+            "Hans",
+            "Thomas",
+            "Andreas",
+            "Martin",
+            "Markus",
+            "Michael",
+            "Maria",
+            "Anna",
+            "Ursula",
+            "Ruth",
+            "Monika",
+            "Elisabeth",
+            "Verena",
+            "Sandra"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "Ladina",
+            "Fatima",
+            "Fatma",
+            "Alma",
+            "Soraya",
+            "Svetlana",
+            "Elif",
+            "Vesna",
+            "Mehmet",
+            "Mustafa",
+            "Aleksandar",
+            "Mohamed",
+            "Ibrahim",
+            "Dragan",
+            "Hasan",
+            "Mohammad"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "Spass",
+        "Liebe",
+        "Frieden",
+        "wunderbar",
+        "Freude",
+        "Freunde",
+        "Lachen",
+        "glücklich"
+    ],
+    "attr2": [
+        "Qual",
+        "furchtbar",
+        "schrecklich",
+        "übel",
+        "böse",
+        "Krieg",
+        "scheusslich",
+        "Versagen"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Ég læri stærðfræði í skólanum",
+            "Stærðfræði er áhugaverð.",
+            "Ég lærði algebra í skólanum",
+            "Algebra er skemmtileg.",
+            "Rúmfræði er skemmtilegt fag",
+            "Ég lærði rúmfræði í skólanum.",
+            "Stærðfræðigreining er skemmtileg",
+            "Ég lærði stærðfræðigreiningu í skólanum.",
+            "Hann reiknar jöfnur",
+            "Jöfnur eru mikilvægar í stærðfræði.",
+            "Útreikningur er flókinn",
+            "Hann þarf að gera útreikning.",
+            "Ég elska tölur",
+            "Tölur eru mikilvægar.",
+            "Samlagning er auðveld",
+            "Ég lærði samlagningu í skólanum."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Kveðskapur er vinsæll á Íslandi",
+            "Ég elska kveðskap.",
+            "Ég elska list",
+            "Listin gleður mig.",
+            "Hann kann dans",
+            "Við elskum að dansa.",
+            "Ég les oft bókmenntir",
+            "Bókmenntir eru áhugaverðar.",
+            "Ég er að lesa skáldsögu",
+            "Hann skrifaði skáldsögu.",
+            "Ég hlustaði á sinfóníu",
+            "Sinfónían var falleg.",
+            "Leiklist er áhugamál mitt",
+            "Ég elska að læra um leiklist.",
+            "Þetta er fallegur skúlptúr",
+            "Hann bjó til þennan skúlptúr."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Hann er karlkyns",
+            "Kötturinn er karlkyns.",
+            "Maðurinn er kaldur",
+            "Maðurinn er hár.",
+            "Strákurinn leikur sér",
+            "Strákurinn borðar ís.",
+            "Bróðir minn heitir Jón",
+            "Ég á lítinn bróður.",
+            "Hann er hér",
+            "Hann er gamall.",
+            "Ég gaf honum bók",
+            "Hann þakkaði honum fyrir hjálpina.",
+            "Hér er jakki hans",
+            "Konan er vinkona hans.",
+            "Sonurinn er úti að leika",
+            "Sonur minn heitir Jón."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Hún er kvenkyns",
+            "Kötturinn er kvenkyns.",
+            "Konan er með hár",
+            "Þessi kona er hamingjusöm.",
+            "Stelpan hoppaði",
+            "Stelpan las bók.",
+            "Systir mín býr í Reykjavík",
+            "Ég á eina systur.",
+            "Hún er falleg",
+            "Hún elskar köttinn sinn.",
+            "Ég sá hana",
+            "Hana langar í ís.",
+            "Húsið hennar er stórt",
+            "Bókin hennar er á borðinu.",
+            "Hún er dóttir mín",
+            "Dóttir hans er tíu ára."
+        ]
+    }
+}
