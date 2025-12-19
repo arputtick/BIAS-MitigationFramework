@@ -1,0 +1,4 @@
+blue-bell,peonia,narciso,garofano,giacinto,crocus,calendula,giglio,gladiola,zinnia,magnolia,viola,papavero,ranuncolo,astro,margherita,iris,lilla,orchidea,azalea,rosa,petunia,trifoglio,tulipano,
+falena,ape,tafano,cricket,blackfly,calabrone,vespa,pulce,volare,termite,ragno,formica,scarafaggio,locusta,cimice,libellula,curculionoidea,zanzara,tarantola,bruco,centopiedi,moscerino,verme,
+fortunato,Paradiso,arcobaleno,contento,rallegrare,pace,piacere,diamante,dolce,risata,amico,salute,famiglia,vacanza,paradiso,carezza,leale,miracolo,amore,regalo,alba,onesto,onore,libertà,diploma,
+veleno,brutto,abuso,omicidio,uccidere,divorzio,cancro,disastro,inquinare,schianto,marcio,agonia,assalto,dolore,morte,povertà,odio,sporcizia,incidente,prigione,vomito,malattia,tragedia,puzza,

@@ -1,0 +1,7 @@
+# NO3 version 2: muslim vs christian, positive and negative
+# Positive negative from ChatGPT
+# checked by native speaker 02/2024
+muslim,muslimsk,imam,islam,moske,minaret,koranen
+kristen,kristne,presten,kristendom,kirke,katedral,bibelen
+sorg,ulykke,ubehag,redsel,pessimisme,fangenskap,umulig,syk,blindhet,tankeløs
+glede,lykke,behag,mot,optimisme,frihet,mulig,deilig,sjarmerende,frisk

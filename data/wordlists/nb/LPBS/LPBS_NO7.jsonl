@@ -1,0 +1,54 @@
+{
+    "targ1": {
+        "singular": [
+            "Zahra",
+            "Aida",
+            "Sara",
+            "Mary",
+            "Maryam",
+            "Ali",
+            "Mohammad",
+            "Mostafa",
+            "Resa",
+            "Mahdi"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "Ida",
+            "Karoline",
+            "Marte",
+            "Silje",
+            "Camilla",
+            "Kristian",
+            "Thomas",
+            "Kristoffer",
+            "Andreas",
+            "Alexander"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "overbevisende",
+        "karismatisk",
+        "troverdig",
+        "selvsikker",
+        "fengslende",
+        "fornuftig"
+    ],
+    "attr2": [
+        "usannsynlig",
+        "passiv",
+        "klønete",
+        "upålitelig",
+        "nølende",
+        "udugelig"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}

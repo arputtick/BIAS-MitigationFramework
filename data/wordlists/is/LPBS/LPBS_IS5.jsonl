@@ -1,0 +1,62 @@
+{
+    "targ1": {
+        "singular": [
+            "Jónsdóttir",
+            "Jónsson",
+            "Sigurðardóttir",
+            "Guðmundsdóttir",
+            "Guðmundsson",
+            "Sigurðsson",
+            "Gunnarsdóttir",
+            "Gunnarsson",
+            "Ólafsson",
+            "Ólafsdóttir"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "Wang",
+            "Wong",
+            "Li",
+            "Lee",
+            "Zhang",
+            "Liu",
+            "Lau",
+            "Chen",
+            "Chan",
+            "Yang"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "forstjóri",
+        "framkvæmdastjóri",
+        "forstöðumaður",
+        "forstöðukona",
+        "stjórnarformaður",
+        "völd",
+        "valdamikil",
+        "milljónamæringur",
+        "háttsett",
+        "framgangur"
+    ],
+    "attr2": [
+        "atvinnulaus",
+        "atvinnuleysi",
+        "atvinnumissir",
+        "fátækt",
+        "óhæfur",
+        "vanmáttug",
+        "aumingi",
+        "bótaþegi",
+        "öryrki",
+        "kærulaus"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}

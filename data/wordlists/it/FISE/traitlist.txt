@@ -1,0 +1,627 @@
+capace
+brusco
+distratto
+abusivo
+accomodante
+accurato
+acquiescente
+attivo
+adattabile
+avventuroso
+affettuoso
+affettuoso
+aggressivo
+gradevole
+senza scopo
+attento
+distaccato
+ambizioso
+amabile
+analitico
+arrabbiato
+antisociale
+ansioso
+apatico
+apprezzabile
+polemico
+arrogante
+articolato
+artificiale
+artistico
+assertivo
+sicuro
+autocratico
+timido
+bellicoso
+benevolo
+di parte
+amaro
+blando
+schietto
+vanaglorioso
+chiassoso
+audace
+prepotente
+coraggioso
+brillante
+brillante
+di larghe vedute
+testardo
+calmo
+candido
+capace
+spensierato
+attento
+spensierato
+disinvolto
+prudente
+mutevole
+caritatevole
+affascinante
+allegro
+esigente
+lucido
+intelligente
+goffo
+grossolano
+freddo
+impegnato
+comunicativo
+amichevole
+compassionevole
+competente
+competitivo
+lamentoso
+complesso
+composto
+compulsivo
+presuntuoso
+conciso
+sicuro di sé
+conforme
+congeniale
+coscienzioso
+conservatore
+premuroso
+coerente
+vincolato
+costruttivo
+contemplativo
+soddisfatto
+controllato
+convenzionale
+freddoloso
+collaborativo
+cordiale
+coraggioso
+cortese
+vigliacco
+viscido
+astuto
+scorbutico
+creativo
+credulone
+critico
+rozzo
+crudele
+colto
+astuto
+curioso
+cinico
+audace
+ingannevole
+ingannevole
+decisivo
+dedicato
+profondo
+difensivo
+deliberato
+esigente
+dimostrativo
+affidabile
+dipendente
+depresso
+avvilito
+distaccato
+determinato
+subdolo
+dignitoso
+diligente
+diplomatico
+diretto
+sgradevole
+scontento
+scortese
+discreto
+discriminante
+disonesto
+disobbediente
+disordinato
+disorganizzato
+irrispettoso
+insoddisfatto
+distraibile
+diffidente
+dominante
+dominante
+con i piedi per terra
+noioso
+ansioso
+sincero
+terroso
+accomodante
+eccentrico
+economico
+educato
+efficiente
+egoista
+emotivo
+energico
+intraprendente
+entusiasta
+invidioso
+irregolare
+etico
+evasivo
+esigente
+eccitabile
+espressivo
+stravagante
+stravagante
+esuberante
+leale
+fanatico
+accorgersi dei difetti
+timoroso
+impavido
+femminile
+volubile
+pignolo
+finn
+lusinghiero
+flessibile
+civettuolo
+civettuolo
+sconsiderato
+sciocco
+energico
+previdente
+smemorato
+indulgente
+formale
+lungimirante
+franco
+schizzinoso
+amichevole
+frivolo
+pignolo
+generoso
+gentile
+scialbo
+cupo
+cupo
+bonario
+di buon umore
+pettegolo
+cortese
+avido
+cupo
+brontolone
+scontroso
+guardingo
+ingenuo
+disordinato
+felice
+felice
+duro
+duro di cuore
+laborioso
+duro
+testardo
+senza cuore
+disponibile
+impotente
+esitante
+mente alta
+di alto spirito
+teso
+onesto
+speranzoso
+ostile
+irascibile
+umile
+privo di umorismo
+umoristico
+idealista
+ignorante
+maleducato
+irascibile
+illogico
+fantasioso
+imitativo
+immaturo
+immodesto
+immorale
+imparziale
+impaziente
+impercettibile
+impersonale
+impetuoso
+impolito
+impraticabile
+impreciso
+impressionabile
+impulsivo
+inattivo
+inarticolato
+incompetente
+sconsiderato
+incoerente
+indeciso
+indipendente
+indifferente
+indiretto
+indiscreto
+individualista
+industrioso
+inefficiente
+inetto
+inflessibile
+informale
+ingegnoso
+ingenuo
+ingraziante
+inibito
+innovativo
+curioso
+insicuro
+insensibile
+perspicace
+insincero
+insolente
+insubordinato
+intellettuale
+intelligente
+intenso
+intollerante
+introverso
+inventivo
+irrazionale
+irresponsabile
+irritabile
+geloso
+allegro
+senza gioia
+solo
+gentile
+consapevole
+pigro
+indulgente
+intelligente
+liberale
+senza vita
+spensierato
+svogliato
+vivace
+logico
+solitario
+prolisso
+fedele
+lussurioso
+manipolatore
+manierato
+mascolino
+materialista
+maturo
+meditabondo
+meditativo
+mite
+malinconico
+allegro
+disordinato
+metodico
+meticoloso
+malizioso
+avaro
+moderato
+modesto
+lunatico
+morale
+ingenuo
+di mentalità ristretta
+naturale
+ordinato
+negativista
+negligente
+negligente
+nervoso
+rumoroso
+disinvolto
+non impegnativo
+non conforme
+non persistente
+ficcanaso
+obbediente
+oggettivo
+obbligato
+antipatico
+osservante
+ostinato
+ostruttivo
+all'antica
+aperto di mente
+supponente
+opportunista
+ottimista
+ordinato
+organizzato
+originale
+estroverso
+schietto
+eccessivamente prudente
+troppo sicuro di sé
+ipercritico
+scrupoloso
+particolare
+appassionato
+passivo
+paziente
+pacifico
+percettivo
+perfezionista
+perseverante
+persistente
+persuasivo
+pessimista
+filosofico
+pianificatore
+giocoso
+piacevole
+in bilico
+lucido
+educato
+pomposo
+possessivo
+pratico
+preciso
+prevenuto
+pretenzioso
+privo di pregiudizi
+di principio
+profondo
+progressivo
+tempestivo
+orgoglioso
+prudente
+prudente
+puntuale
+propositivo
+senza scopo
+litigioso
+rapido
+silenzioso
+sconclusionato
+avventato
+razionale
+realistico
+ragionevole
+ribelle
+sconsiderato
+raffinato
+riflessivo
+rilassato
+affidabile
+religioso
+risentito
+riservato
+rassegnato
+intraprendente
+rispettabile
+rispettoso
+responsabile
+irrequieto
+trattenuto
+ritirato
+rigido
+romantico
+rude
+spietato
+sarcastico
+satirico
+soddisfatto
+dispersivo
+intrigante
+sprezzante
+riservato
+sicuro di sé
+egocentrico
+sicuro di sé
+consapevole di sé
+autocontrollato
+autocritico
+auto-denunciante
+autodisciplinato
+autoindulgente
+autocommiserazione
+autosufficiente
+moralista
+autocompiaciuto
+ricerca di sé
+autosufficiente
+egoista
+sensibile
+sensuale
+sentimentale
+sereno
+serio
+severo
+sexy
+superficiale
+acuto
+insensibile
+irascibile
+miope
+accorto
+timido
+silenzioso
+semplice
+sincero
+sincero
+scettico
+abile
+sciatto
+pigro
+scaltro
+intelligente
+compiaciuto
+snob
+sobrio
+socievole
+sociale
+morbido
+tenero
+solenne
+cupo
+sofisticato
+spendaccione
+spiritoso
+spirituale
+dispettoso
+spontaneo
+schizzinoso
+stabile
+saldo
+stabile
+severo
+avaro
+schietto
+rigoroso
+forte
+testardo
+stupido
+soave
+sottomesso
+sottile
+suggestionabile
+superficiale
+superstizioso
+sospettoso
+simpatico
+sistematico
+tattile
+privo di tatto
+talentuoso
+loquace
+temperante
+tenero
+teso
+teatrale
+scrupoloso
+premuroso
+sconsiderato
+parsimonioso
+ordinato
+timido
+tollerante
+permaloso
+tenace
+tradizionale
+tranquillo
+fiducioso
+fiducioso
+affidabile
+sincero
+non cosciente di sé
+non avventuroso
+insensibile
+non affettuoso
+non aggressivo
+non ambizioso
+non assertivo
+non rassicurante
+non rassicurante
+imparziale
+non comunicativo
+non competitivo
+intransigente
+incosciente
+non convenzionale
+non collaborativo
+non creativo
+acritico
+incolto
+non esigente
+non affidabile
+subdolo
+comprensivo
+non diplomatico
+indiscriminato
+non emotivo
+poco energico
+non entusiasta
+invidioso
+immorale
+non eccitabile
+sleale
+ostile
+ingeneroso
+sgraziato
+poco fantasioso
+poco fantasioso
+disinibito
+non curioso
+non intellettuale
+poco intelligente
+ingiusto
+scortese
+non metodico
+poco attento
+non originale
+imprevedibile
+senza pregiudizi
+senza pretese
+senza principi
+non puntuale
+irrealistico
+non raffinato
+poco riflessivo
+inaffidabile
+non religioso
+sfrenato
+indisciplinato
+spregiudicato
+disinteressato
+asociale
+non sofisticato
+instabile
+indifferente
+asistematico
+non loquace
+disordinato
+instancabile
+non sincero
+incrollabile
+retto
+vanitoso
+avventuroso
+verbale
+versatile
+vigoroso
+vendicativo
+vivace
+volgare
+caldo
+prudente
+dispendioso
+vacillante
+debole
+ben educato
+sano
+saggio
+scialacquatore
+ritirato
+spiritoso
+parolaio
+mondano
+preoccupato
+zestful

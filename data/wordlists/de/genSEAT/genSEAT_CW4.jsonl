@@ -1,0 +1,62 @@
+{
+    "targ1": {
+        "category": "male hobbies",
+        "examples": [
+            "Sie lieben Gewichtheben.",
+            "Gewichtheben ist schwer.",
+            "Wrestling ist ein harter Sport.",
+            "Sie lieben Wrestling im Fernsehen zu schauen.",
+            "Die Feuerwehr kommt schnell.",
+            "Die Feuerwehr löscht das Feuer.",
+            "Ich habe ein Velorennen gesehen.",
+            "Das Velorennen war spannend.",
+            "Ich muss Schrauben kaufen.",
+            "Du hast die Schrauben verloren."
+        ]
+    },
+    "targ2": {
+        "category": "female hobbies",
+        "examples": [
+            "Ich backe einen Kuchen.",
+            "Sie backen oft Brot.",
+            "Ökologie ist wichtig.",
+            "Ökologie schützt die Natur.",
+            "Ich trage Make-Up.",
+            "Mein Make-Up ist schön.",
+            "Kunst ist schön.",
+            "Ich liebe Kunst.",
+            "Ich liebe Ballett.",
+            "Ballett ist schwierig."
+        ]
+    },
+    "attr1": {
+        "category": "male",
+        "examples": [
+            "Der Mann läuft.",
+            "Der Mann isst.",
+            "Der Junge spielt.",
+            "Der Junge lacht.",
+            "Mein Bruder ist nett.",
+            "Ich spiele oft mit meinem Bruder.",
+            "Mein Sohn ist acht Jahre alt.",
+            "Der Sohn spielt im Garten.",
+            "Mein Vater ist stark.",
+            "Vater liest ein Buch."
+        ]
+    },
+    "attr2": {
+        "category": "female",
+        "examples": [
+            "Die Frau geht spazieren.",
+            "Die Frau liest ein Buch.",
+            "Das Mädchen spielt draußen.",
+            "Das Mädchen hat ein Buch.",
+            "Meine Schwester ist nett.",
+            "Ihre Schwester liebt Tiere.",
+            "Meine Tochter ist fünf Jahre alt.",
+            "Die Tochter spielt im Garten.",
+            "Meine Mutter kocht gerne.",
+            "Meine Mutter liest ein Buch."
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+# WEAT_7 NL
+# See technical report for details about procedure 
+# Target: math
+# Target: art
+# Attribute: male
+# Attribute: female
+wiskunde,algebra,geometrie,calculus,vergelijkingen,berekening,getallen,optellen
+poëzie,kunst,dans,literatuur,roman,symfonie,drama,beeldhouwwerk
+mannelijk,man,jongen,broer,hij,hem,zijn,zoon
+vrouwelijk,vrouw,meisje,zus,zij,haar,haar,dochter

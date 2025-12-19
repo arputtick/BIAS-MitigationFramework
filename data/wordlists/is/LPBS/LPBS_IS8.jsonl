@@ -1,0 +1,40 @@
+{
+    "targ1": {
+        "singular": [
+            "gagnkynhneigð",
+            "gagnkynhneigður"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "lesbía",
+            "hommi"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "góður",
+        "sterkur",
+        "hamingjusamur",
+        "hreinn",
+        "gleði",
+        "ást",
+        "friður"
+    ],
+    "attr2": [
+        "vondur",
+        "veikburða",
+        "dapur",
+        "skítugur",
+        "kvöl",
+        "hræðileg",
+        "hræðilegt"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}

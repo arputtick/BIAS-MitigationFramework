@@ -1,0 +1,42 @@
+{
+    "targ1": {
+        "singular": [
+            "elektrik",
+            "mühendislik",
+            "bilgisayar",
+            "bilim",
+            "mikroteknoloji",
+            "fizik"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "öğretmen",
+            "veteriner",
+            "tıp",
+            "kültürel",
+            "antropoloji",
+            "anaokulu",
+            "okul",
+            "psikoloji"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "erkek",
+        "adam",
+        "oğlan"
+    ],
+    "attr2": [
+        "kadın",
+        "kadın",
+        "kız"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}

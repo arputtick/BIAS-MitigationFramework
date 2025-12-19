@@ -1,0 +1,515 @@
+abile
+['abusivo', 'abusiva']
+accomodante
+accorgersi dei difetti
+['accorto', 'accorta']
+['accurato', 'accurata']
+acquiescente
+['acritico', 'acritica']
+['acuto', 'acuta']
+adattabile
+affascinante
+['affettuoso', 'affettuosa']
+affidabile
+['aggressivo', 'aggressiva']
+['allegro', 'allegra']
+amabile
+['amaro', 'amara']
+['ambizioso', 'ambiziosa']
+amichevole
+['analitico', 'analitica']
+['ansioso', 'ansiosa']
+['antipatico', 'antipatica']
+antisociale
+['apatico', 'apatica']
+aperta di mente
+aperto di mente
+['appassionato', 'appassionata']
+apprezzabile
+['arrabbiato', 'arrabbiata']
+arrogante
+['articolato', 'articolata']
+artificiale
+['artistico', 'artistica']
+['asistematico', 'asistematica']
+asociale
+['assertivo', 'assertiva']
+['astuto', 'astuta']
+['attento', 'attenta']
+['attivo', 'attiva']
+audace
+auto-denunciante
+autocommiserazione
+['autocompiaciuto', 'autocompiaciuta']
+['autocontrollato', 'autocontrollata']
+['autocratico', 'autocratica']
+['autocritico', 'autocritica']
+['autodisciplinato', 'autodisciplinata']
+autoindulgente
+autosufficiente
+['avaro', 'avara']
+['avido', 'avida']
+['avventato', 'avventata']
+['avventuroso', 'avventurosa']
+['avvilito', 'avvilita']
+['bellicoso', 'bellicosa']
+['ben educato', 'ben educata']
+['benevolo', 'benevola']
+['blando', 'blanda']
+['bonario', 'bonaria']
+brillante
+brontolone
+['brusco', 'brusca']
+['caldo', 'calda']
+['calmo', 'calma']
+['candido', 'candida']
+capace
+caritatevole
+['chiassoso', 'chiassosa']
+['cinico', 'cinica']
+['civettuolo', 'civettuola']
+coerente
+['collaborativo', 'collaborativa']
+['colto', 'colta']
+compassionevole
+competente
+['competitivo', 'competitiva']
+['compiaciuto', 'compiaciuta']
+['complesso', 'complessa']
+['composto', 'composta']
+['comprensivo', 'comprensiva']
+['compulsivo', 'compulsiva']
+['comunicativo', 'comunicativa']
+['conciso', 'concisa']
+conforme
+congeniale
+consapevole
+consapevole di sé
+['conservatore', 'conservatrice']
+['contemplativo', 'contemplativa']
+['controllato', 'controllata']
+convenzionale
+['coraggioso', 'coraggiosa']
+cordiale
+cortese
+['coscienzioso', 'coscienziosa']
+['costruttivo', 'costruttiva']
+['creativo', 'creativa']
+credulone
+['critico', 'critica']
+crudele
+['cupo', 'cupa']
+['curioso', 'curiosa']
+debole
+['decisivo', 'decisiva']
+['dedicato', 'dedicata']
+['deliberato', 'deliberata']
+['depresso', 'depressa']
+['determinato', 'determinata']
+['di alto spirito', 'di alto spirita']
+['di buon umore', 'di buon umrice']
+di larghe vedute
+di parte
+['di principio', 'di principia']
+['difensivo', 'difensiva']
+diffidente
+['dignitoso', 'dignitosa']
+diligente
+['dimostrativo', 'dimostrativa']
+dipendente
+['diplomatico', 'diplomatica']
+['diretto', 'diretta']
+['discreto', 'discreta']
+discriminante
+['disinibito', 'disinibita']
+['disinteressato', 'disinteressata']
+['disinvolto', 'disinvolta']
+disobbediente
+['disonesto', 'disonesta']
+['disordinato', 'disordinata']
+['disorganizzato', 'disorganizzata']
+['dispendioso', 'dispendiosa']
+['dispersivo', 'dispersiva']
+['dispettoso', 'dispettosa']
+disponibile
+['distaccato', 'distaccata']
+distraibile
+distrattibile
+['distratto', 'distratta']
+dominante
+['duro', 'dura']
+['duro di cuore', 'duro di curice']
+['eccentrico', 'eccentrica']
+eccessivamente prudente
+eccitabile
+['economico', 'economica']
+['educato', 'educata']
+efficiente
+['egocentrico', 'egocentrica']
+['emotivo', 'emotiva']
+['energico', 'energica']
+esigente
+esitante
+['espressivo', 'espressiva']
+['estroverso', 'estroversa']
+esuberante
+['etico', 'etica']
+['evasivo', 'evasiva']
+['fanatico', 'fanatica']
+['fantasioso', 'fantasiosa']
+fedele
+felice
+femminile
+['ficcanaso', 'ficcanasa']
+['fiducioso', 'fiduciosa']
+['filosofico', 'filosofica']
+finn
+flessibile
+formale
+forte
+['franco', 'franca']
+['freddo', 'fredda']
+['freddoloso', 'freddolosa']
+['frivolo', 'frivola']
+['geloso', 'gelosa']
+['generoso', 'generosa']
+gentile
+['giocoso', 'giocosa']
+['goffo', 'goffa']
+gradevole
+['grossolano', 'grossolana']
+['guardingo', 'guardinga']
+ignorante
+['illogico', 'illogica']
+['imitativo', 'imitativa']
+['immaturo', 'immatura']
+['immodesto', 'immodesta']
+immorale
+imparziale
+['impavido', 'impavida']
+impaziente
+['impegnato', 'impegnata']
+impercettibile
+impersonale
+['impetuoso', 'impetuosa']
+['impolito', 'impolita']
+impotente
+impraticabile
+['impreciso', 'imprecisa']
+impressionabile
+imprevedibile
+['impulsivo', 'impulsiva']
+['in bilico', 'in bilica']
+inaffidabile
+['inarticolato', 'inarticolata']
+['inattivo', 'inattiva']
+incoerente
+['incolto', 'incolta']
+incompetente
+incosciente
+incrollabile
+['indeciso', 'indecisa']
+indifferente
+indipendente
+['indiretto', 'indiretta']
+['indisciplinato', 'indisciplinata']
+['indiscreto', 'indiscreta']
+['indiscriminato', 'indiscriminata']
+indulgente
+['industrioso', 'industriosa']
+inefficiente
+['inetto', 'inetta']
+inflessibile
+informale
+ingannevole
+['ingegnoso', 'ingegnosa']
+['ingeneroso', 'ingenerosa']
+['ingenuo', 'ingenua']
+['ingiusto', 'ingiusta']
+ingraziante
+['inibito', 'inibita']
+['innovativo', 'innovativa']
+insensibile
+['insicuro', 'insicura']
+['insincero', 'insincera']
+['insoddisfatto', 'insoddisfatta']
+insolente
+instabile
+instancabile
+['insubordinato', 'insubordinata']
+intellettuale
+intelligente
+['intenso', 'intensa']
+intollerante
+intransigente
+intraprendente
+intrigante
+['introverso', 'introversa']
+['inventivo', 'inventiva']
+['invidioso', 'invidiosa']
+['ipercritico', 'ipercritica']
+irascibile
+irrazionale
+['irrealistico', 'irrealistica']
+irregolare
+['irrequieto', 'irrequieta']
+irresponsabile
+['irrispettoso', 'irrispettosa']
+irritabile
+['laborioso', 'laboriosa']
+['lamentoso', 'lamentosa']
+leale
+liberale
+['litigioso', 'litigiosa']
+['logico', 'logica']
+loquace
+['lucido', 'lucida']
+['lunatico', 'lunatica']
+lungimirante
+['lusinghiero', 'lusinghiera']
+['lussurioso', 'lussuriosa']
+['maleducato', 'maleducata']
+['malinconico', 'malinconica']
+['malizioso', 'maliziosa']
+['manierato', 'manierata']
+['manipolatore', 'manipolatrice']
+['mascolino', 'mascolina']
+['maturo', 'matura']
+['meditabondo', 'meditabonda']
+['meditativo', 'meditativa']
+['meticoloso', 'meticolosa']
+['metodico', 'metodica']
+miope
+mite
+['moderato', 'moderata']
+['modesto', 'modesta']
+['mondano', 'mondana']
+morale
+['morbido', 'morbida']
+mutevole
+naturale
+negligente
+['nervoso', 'nervosa']
+['noioso', 'noiosa']
+['non affettuoso', 'non affettuosa']
+non affidabile
+['non aggressivo', 'non aggressiva']
+['non ambizioso', 'non ambiziosa']
+['non assertivo', 'non assertiva']
+['non avventuroso', 'non avventurosa']
+['non collaborativo', 'non collaborativa']
+['non competitivo', 'non competitiva']
+['non comunicativo', 'non comunicativa']
+non conforme
+non convenzionale
+non cosciente di sé
+['non creativo', 'non creativa']
+['non curioso', 'non curiosa']
+['non diplomatico', 'non diplomatica']
+non eccitabile
+['non emotivo', 'non emotiva']
+non esigente
+['non impegnativo', 'non impegnativa']
+non intellettuale
+non loquace
+['non metodico', 'non metodica']
+non originale
+non persistente
+non puntuale
+['non raffinato', 'non raffinata']
+non rassicurante
+['non religioso', 'non religiosa']
+['non sincero', 'non sincera']
+['non sofisticato', 'non sofisticata']
+obbediente
+['obbligato', 'obbligata']
+['oggettivo', 'oggettiva']
+['onesto', 'onesta']
+['ordinato', 'ordinata']
+['organizzato', 'organizzata']
+['orgoglioso', 'orgogliosa']
+originale
+osservante
+ostile
+['ostinato', 'ostinata']
+['ostruttivo', 'ostruttiva']
+['pacifico', 'pacifica']
+['parolaio', 'parolaia']
+['parsimonioso', 'parsimoniosa']
+particolare
+['passivo', 'passiva']
+paziente
+['percettivo', 'percettiva']
+['permaloso', 'permalosa']
+perseverante
+persistente
+perspicace
+['persuasivo', 'persuasiva']
+['pettegolo', 'pettegola']
+piacevole
+['pianificatore', 'pianificatrice']
+['pignolo', 'pignola']
+['pigro', 'pigra']
+['poco attento', 'poco attenta']
+['poco energico', 'poco energica']
+['poco fantasioso', 'poco fantasiosa']
+poco intelligente
+['poco riflessivo', 'poco riflessiva']
+['polemico', 'polemica']
+['pomposo', 'pomposa']
+['possessivo', 'possessiva']
+['pratico', 'pratica']
+['preciso', 'precisa']
+['premuroso', 'premurosa']
+['preoccupato', 'preoccupata']
+prepotente
+['presuntuoso', 'presuntuosa']
+['pretenzioso', 'pretenziosa']
+['prevenuto', 'prevenuta']
+previdente
+priva di pregiudizi
+['priva di tatto', 'priva di tatta']
+['priva di umorismo', 'priva di umorisma']
+privo di pregiudizi
+['privo di tatto', 'privo di tatta']
+['privo di umorismo', 'privo di umorisma']
+['profondo', 'profonda']
+['progressivo', 'progressiva']
+['prolisso', 'prolissa']
+['propositivo', 'propositiva']
+prudente
+puntuale
+['raffinato', 'raffinata']
+ragionevole
+['rapido', 'rapida']
+['rassegnato', 'rassegnata']
+razionale
+['realistico', 'realistica']
+['religioso', 'religiosa']
+responsabile
+['retto', 'retta']
+ribelle
+ricerca di sé
+['riflessivo', 'riflessiva']
+['rigido', 'rigida']
+['rigoroso', 'rigorosa']
+['rilassato', 'rilassata']
+['risentito', 'risentita']
+['riservato', 'riservata']
+rispettabile
+['rispettoso', 'rispettosa']
+['ritirato', 'ritirata']
+['romantico', 'romantica']
+['rozzo', 'rozza']
+rude
+['rumoroso', 'rumorosa']
+['saggio', 'saggia']
+['saldo', 'salda']
+['sano', 'sana']
+['sarcastico', 'sarcastica']
+['satirico', 'satirica']
+['scaltro', 'scaltra']
+['scettico', 'scettica']
+['schietto', 'schietta']
+['schizzinoso', 'schizzinosa']
+['scialacquatore', 'scialacquatrice']
+['scialbo', 'scialba']
+['sciatto', 'sciatta']
+['sciocco', 'sciocca']
+['sconclusionato', 'sconclusionata']
+['sconsiderato', 'sconsiderata']
+['scontento', 'scontenta']
+['scontroso', 'scontrosa']
+['scorbutico', 'scorbutica']
+scortese
+['scrupoloso', 'scrupolosa']
+semplice
+sensibile
+sensuale
+sentimentale
+['senza cuore', 'senza curice']
+senza pregiudizi
+senza pretese
+senza principi
+['senza scopo', 'senza scopa']
+['sereno', 'serena']
+['serio', 'seria']
+['severo', 'severa']
+sexy
+['sfrenato', 'sfrenata']
+sgradevole
+['sgraziato', 'sgraziata']
+sicura di sé
+['sicuro', 'sicura']
+sicuro di sé
+['silenzioso', 'silenziosa']
+['simpatico', 'simpatica']
+['sincero', 'sincera']
+['sistematico', 'sistematica']
+sleale
+['smemorato', 'smemorata']
+snob
+soave
+['sobrio', 'sobria']
+sociale
+socievole
+['soddisfatto', 'soddisfatta']
+['sofisticato', 'sofisticata']
+solenne
+['solitario', 'solitaria']
+['solo', 'sola']
+['sospettoso', 'sospettosa']
+sottile
+['sottomesso', 'sottomessa']
+spendaccione
+['spensierato', 'spensierata']
+['speranzoso', 'speranzosa']
+['spietato', 'spietata']
+['spiritoso', 'spiritosa']
+spirituale
+['spontaneo', 'spontanea']
+['spregiudicato', 'spregiudicata']
+sprezzante
+stabile
+stravagante
+['stupido', 'stupida']
+['subdolo', 'subdola']
+suggestionabile
+superficiale
+['superstizioso', 'superstiziosa']
+supponente
+['svogliato', 'svogliata']
+['talentuoso', 'talentuosa']
+tattile
+teatrale
+temperante
+['tempestivo', 'tempestiva']
+tenace
+['tenero', 'tenera']
+['terroso', 'terrosa']
+['teso', 'tesa']
+['testardo', 'testarda']
+['timido', 'timida']
+['timoroso', 'timorosa']
+tollerante
+tradizionale
+['tranquillo', 'tranquilla']
+['trattenuto', 'trattenuta']
+troppo sicura di sé
+troppo sicuro di sé
+umile
+['umoristico', 'umoristica']
+vacillante
+['vanaglorioso', 'vanagloriosa']
+['vanitoso', 'vanitosa']
+['vendicativo', 'vendicativa']
+verbale
+versatile
+['vigliacco', 'vigliacca']
+['vigoroso', 'vigorosa']
+['vincolato', 'vincolata']
+['viscido', 'viscida']
+vivace
+volgare
+volubile
+zestful

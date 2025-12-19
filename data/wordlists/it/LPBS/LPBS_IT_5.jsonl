@@ -1,0 +1,46 @@
+{
+    "targ1": {
+        "singular": [
+            "etero",
+            "cis",
+            "cisgender",
+            "eterosessuale"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "queer",
+            "omosessuale",
+            "trans",
+            "transgender"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "amico",
+        "gioia",
+        "amore",
+        "risata",
+        "contento",
+        "meraviglioso",
+        "pace",
+        "piacere"
+    ],
+    "attr2": [
+        "guerra",
+        "cattivo",
+        "terribile",
+        "agonia",
+        "orribile",
+        "cattiva",
+        "male",
+        "fallimento"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "targ1": {
+        "singular": [
+            "Zahra",
+            "Aida",
+            "Sara",
+            "Mary",
+            "Maryam",
+            "Ali",
+            "Mohammad",
+            "Mostafa",
+            "Resa",
+            "Mahdi"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "Ida",
+            "Karoline",
+            "Marte",
+            "Silje",
+            "Camilla",
+            "Kristian",
+            "Thomas",
+            "Kristoffer",
+            "Andreas",
+            "Alexander"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "smerte",
+        "forferdelig",
+        "fryktelig",
+        "grusom",
+        "ondskap",
+        "krig",
+        "skrekkelig",
+        "fiasko"
+    ],
+    "attr2": [
+        "glede",
+        "kjærlighet",
+        "fred",
+        "vidunderlig",
+        "nytelse",
+        "venn",
+        "latter",
+        "lykkelig"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}

@@ -1,0 +1,4 @@
+equazioni,matematica,calcolo,geometria,aggiunta,algebra,numeri,
+danza,dramma,poesia,scultura,sinfonia,romanzo,letteratura,arte,
+ragazzo,fratello,figlio,lui,suo,uomo,maschio,
+sua,lei,femmina,sorella,donna,ragazza,figlia,

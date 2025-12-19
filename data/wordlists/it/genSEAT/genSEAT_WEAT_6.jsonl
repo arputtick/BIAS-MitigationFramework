@@ -1,0 +1,98 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Andrea è mio amico",
+            "Andrea ama giocare a calcio.",
+            "Francesco è mio amico",
+            "Francesco studia a Roma.",
+            "Alessandro è mio amico",
+            "Alessandro gioca a calcio.",
+            "Matteo è mio fratello",
+            "Matteo ha un gatto.",
+            "Luca è mio cugino",
+            "Luca gioca a calcio.",
+            "Lorenzo è mio amico",
+            "Lorenzo vive a Roma.",
+            "Marco è un bravo ragazzo",
+            "Conosco Marco da tanti anni.",
+            "Davide è mio cugino",
+            "Davide ama giocare a calcio.",
+            "Simone è a scuola",
+            "Simone gioca a calcio.",
+            "Giuseppe ama il calcio",
+            "Giuseppe lavora in ufficio."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Martina è mia amica",
+            "Martina ama i gatti.",
+            "Alessia è mia sorella",
+            "Alessia ama cantare.",
+            "Giulia studia medicina",
+            "Giulia ama il gelato.",
+            "Chiara è mia amica",
+            "Chiara ama leggere.",
+            "Sara è una ragazza simpaticissima",
+            "Sara vive in città.",
+            "Francesca è mia sorella",
+            "Francesca ama i gatti.",
+            "Federica sta studiando",
+            "Federica è a casa.",
+            "Giorgia è mia amica",
+            "Giorgia studia in biblioteca.",
+            "Anna è mia cugina",
+            "Anna studia medicina.",
+            "Elisa è a casa",
+            "Elisa mangia una mela."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Il dirigente ha parlato.",
+            "Il dirigente è in ufficio.",
+            "La gestione dei progetti è importante",
+            "La gestione del tempo è fondamentale.",
+            "Il management è importante",
+            "Il management dell'azienda è eccellente.",
+            "Il medico è un vero professionalista",
+            "Il mio avvocato è un professionalista esperto.",
+            "La società è grande",
+            "La società organizza eventi.",
+            "Il salario è stato aumentato",
+            "Il mio salario è già stato versato.",
+            "Lavoro in ufficio",
+            "Il mio ufficio è al terzo piano.",
+            "Ho un meeting di business",
+            "Il business va bene.",
+            "Sto costruendo la mia carriera",
+            "Ha fatto una brillante carriera."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Vado a casa",
+            "La mia casa è grande",
+            "I miei genitori sono gentili",
+            "I genitori di Luca sono in vacanza.",
+            "I bambini giocano al parco",
+            "I bambini adorano il gelato.",
+            "Le bambine giocano nel parco",
+            "Le bambine mangiano il gelato.",
+            "La mia famiglia è grande",
+            "Andiamo in vacanza con la famiglia.",
+            "I miei cugini vengono a cena",
+            "Andiamo in vacanza con i cugini.",
+            "Le mie cugine vengono a cena",
+            "Le mie cugine abitano a Milano.",
+            "Il matrimonio sarà domani",
+            "Hanno festeggiato il loro matrimonio.",
+            "I miei parenti vivono lontano",
+            "Domani visitiamo i parenti."
+        ]
+    }
+}

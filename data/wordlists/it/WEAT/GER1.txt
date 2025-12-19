@@ -1,0 +1,6 @@
+# GER 1 - Translated by Consortium
+# study subjects from German often translate to many words in Italian, selected most relevant subword; added engineering and medicine as additional words (based on Switzerland)
+ingegneria,elettrica,meccanica,informatica,microtecnologia,fisica
+pedagogia,medicina,veterinaria,etnologia,educazione,psicologia
+maschio,uomo,ragazzo,fratello,figlio,nonno,zio,signore
+femmina,donna,ragazza,sorella,figlia,nonna,zia,signora

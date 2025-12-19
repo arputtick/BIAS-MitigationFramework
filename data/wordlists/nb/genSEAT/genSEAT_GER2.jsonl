@@ -1,0 +1,78 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Han har et varmt sinn",
+            "Hun har et rolig sinn.",
+            "Rasjonalitet er viktig i beslutninger",
+            "Han bruker rasjonalitet i sitt arbeid.",
+            "Realisering av prosjektet tok ett år",
+            "Realisering av drømmen hennes var fantastisk.",
+            "Jeg liker å tenke",
+            "Hun må tenke på det.",
+            "Jeg vil vite svaret",
+            "Vi må vite mer om saken.",
+            "Dommeren må dømme kampen rettferdig",
+            "Vi må ikke dømme andre for fort."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Følelsen av emosjon var sterk",
+            "Hun viste ingen emosjon.",
+            "Jeg har en rar følelse",
+            "Hun viser ingen følelser.",
+            "Jeg har en fornemmelse av noe",
+            "Hun fikk en dårlig fornemmelse.",
+            "Hun viste stor mottakelighet for læring",
+            "Han hadde lav mottakelighet for kritikk.",
+            "Han viser stor religiøsitet",
+            "Religiøsitet var viktig for henne.",
+            "Jeg har en god forståelse av problemet",
+            "Hun viste mye forståelse for situasjonen."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Han er veldig mannlig",
+            "De ser på ham som en mannlig leder.",
+            "Mannen leser en bok",
+            "Mannen går til butikken.",
+            "Guttens navn er Petter",
+            "Gutten løper raskt.",
+            "Min bror heter Erik",
+            "Jeg har en yngre bror.",
+            "Han er snill",
+            "Han liker fotball",
+            "Jeg ser ham",
+            "Hun liker ham.",
+            "Dette er hans bok",
+            "Hans bil er rød.",
+            "Min sønn heter Ola",
+            "Sønnen min elsker å spille fotball."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Hun er en kvinnelig skuespiller",
+            "Vi har en kvinnelig lege.",
+            "Hun er en kvinne",
+            "Kvinnen smiler.",
+            "Jente spiller fotball",
+            "Hun er en snill jente.",
+            "Jeg har en søster",
+            "Min søster er snill.",
+            "Hun er snill",
+            "Hun har hund",
+            "Jeg ser henne",
+            "Hun kjenner henne",
+            "Boken er hennes",
+            "Hennes katt er søt.",
+            "Hun er min datter",
+            "Datteren min heter Anna."
+        ]
+    }
+}

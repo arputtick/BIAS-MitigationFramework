@@ -1,0 +1,5 @@
+# WEAT 6 - ger 2 (names from Germany)
+Michael,Thomas,Andreas,Peter,Stefan,Christian,Hans,Klaus
+Sabine,Susanne,Petra,Monika,Claudia,Birgit,Andrea,Stefanie
+Führungskraft,Verwaltung,beruflich,Konzern,Gehalt,Büro,Geschäft,Werdegang
+Zuhause,Eltern,Kinder,Familie,Cousinen,Ehe,Hochzeit,Verwandtschaft

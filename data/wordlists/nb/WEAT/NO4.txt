@@ -1,0 +1,6 @@
+# NO4: Iranian/Norwegian names, success and failure
+# checked by native speaker 02/2024
+Zahra,Aida,Sara,Mary,Maryam,Ali,Mohammad,Mostafa,Resa,Mahdi
+Ida,Karoline,Marte,Silje,Camilla,Kristian,Thomas,Kristoffer,Andreas,Alexander
+mislykket,frafall,fattigdom,arbeidsledig,sosialhjelp,ledig,ukvalifisert,byrde
+leder,administrasjon,profesjonell,gruppe,lønn,kontor,forretning,karriere

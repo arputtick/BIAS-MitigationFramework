@@ -1,0 +1,98 @@
+{
+    "targ1": {
+        "category": "Male",
+        "examples": [
+            "Þetta er Jón.",
+            "Jón er hér.",
+            "Þetta er Sigurður.",
+            "Sigurður er hér.",
+            "Þetta er Guðmundur.",
+            "Guðmundur er hér.",
+            "Þetta er Gunnar.",
+            "Gunnar er hér.",
+            "Þetta er Ólafur.",
+            "Ólafur er hér.",
+            "Þetta er Einar.",
+            "Einar er hér.",
+            "Þetta er Kristján.",
+            "Kristján er hér.",
+            "Þetta er Magnús.",
+            "Magnús er hér.",
+            "Þetta er Stefán.",
+            "Stefán er hér.",
+            "Þetta er Jóhann.",
+            "Jóhann er hér."
+        ]
+    },
+    "targ2": {
+        "category": "Female",
+        "examples": [
+            "Þetta er Guðrun.",
+            "Guðrun er hér.",
+            "Þetta er Anna.",
+            "Anna er hér.",
+            "Þetta er Kristín.",
+            "Kristín er hér.",
+            "Þetta er Sigríður.",
+            "Sigríður er hér.",
+            "Þetta er Margrét.",
+            "Margrét er hér.",
+            "Þetta er Helga.",
+            "Helga er hér.",
+            "Þetta er Sigrún.",
+            "Sigrún er hér.",
+            "Þetta er Ingibjörg.",
+            "Ingibjörg er hér.",
+            "Þetta er María.",
+            "María er hér.",
+            "Þetta er Jóhanna.",
+            "Jóhanna er hér."
+        ]
+    },
+    "attr1": {
+        "category": "Career",
+        "examples": [
+            "Þetta er framkvæmdastjóri.",
+            "Framkvæmdastjóri er hér.",
+            "Þetta er stjórnun.",
+            "Stjórnun er hér.",
+            "Þetta er faglegur.",
+            "Það er faglegur.",
+            "Þetta er fagleg.",
+            "Það er fagleg.",
+            "Þetta er fyrirtæki.",
+            "Fyrirtæki er hér.",
+            "Þetta eru laun.",
+            "Laun eru hér.",
+            "Þetta er skrifstofa.",
+            "Skrifstofa er hér.",
+            "Þetta er viðskipti.",
+            "Viðskipti er hér.",
+            "Þetta er ferill.",
+            "Ferill er hér."
+        ]
+    },
+    "attr2": {
+        "category": "Family",
+        "examples": [
+            "Þetta er heimili.",
+            "Heimili er hér.",
+            "Þetta eru foreldrar.",
+            "Foreldrar eru hér.",
+            "Þetta eru börn.",
+            "Börn eru hér.",
+            "Þetta er fjölskylda.",
+            "Fjölskylda er hér.",
+            "Þetta eru frændur.",
+            "Frændur eru hér.",
+            "Þetta eru frænkur.",
+            "Frænkur eru hér.",
+            "Þetta er hjónaband.",
+            "Hjónaband er hér.",
+            "Þetta eru brúðkaup.",
+            "Brúðkaup eru hér.",
+            "Þetta eru ættingjar.",
+            "Ættingjar eru hér."
+        ]
+    }
+}

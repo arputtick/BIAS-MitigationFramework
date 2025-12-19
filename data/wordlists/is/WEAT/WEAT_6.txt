@@ -1,0 +1,9 @@
+# WEAT 6 - translated and to be checked by BIAS consortium!
+# Names from https://www.northbound.is/icelandic-names-the-complete-guide
+# executive', 'management', 'professional', 'corporation', 'salary', 'office', 'business', 'career'
+# 'home', 'parents', 'children', 'family', 'cousins', 'marriage', 'wedding', 'relatives'
+# Gudrún was replaced by Gudrun as out of vocabulary; then with Guðrun suggested by native speakers
+Jón,Sigurður,Guðmundur,Gunnar,Ólafur,Einar,Kristján,Magnús,Stefán,Jóhann
+Guðrun,Anna,Kristín,Sigríður,Margrét,Helga,Sigrún,Ingibjörg,María,Jóhanna
+framkvæmdastjóri,stjórnun,faglegur,fagleg,fyrirtæki,laun,skrifstofa,viðskipti,ferill
+heimili,foreldrar,börn,fjölskylda,frændur,frænkur,hjónaband,brúðkaup,ættingjar

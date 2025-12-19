@@ -1,0 +1,6 @@
+## WEAT 6 Translated with BIAS consortium native speakers
+## Names adapted to the common Turkish names 
+Mehmet,Ali,Mustafa,Ahmet,Huseyin,Hasan,Ibrahim,Murat,Ismail,Osman,Halil,Ramazan,Omer,Yusuf,Suleyman,Abdullah,Kemal,Fatih,Mahmut,Recep
+Fatma,Ayse,Emine,Hatice,Zeynep,Meryem,Elif,Sultan,Hulya,Sevim,Ozlem,Serife,Fadime,Hanife,Aysel,Dilek,Zehra,Yasemin,Hacer,Havva
+yönetici,idare,profesyonel,grup,maaş,ofis,iş,kariyer
+ev,ebeveynler,çocuklar,aile,kuzenler,evlilik,düğün,akrabalar

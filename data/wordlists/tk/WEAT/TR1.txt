@@ -1,0 +1,6 @@
+### TR 1, derived from co-creation 
+### Productivity vs Family
+verimli,çalışkan,özverili,disiplinli,gayretli,düzenli,kararlı,bitirici,azimli,titiz
+verimsiz,tembel,ihmalkâr,gevşek,umursamaz,üşengeç,vurdumduymaz,başarısız,disiplinsiz,dikkatsiz
+yönetici,idare,profesyonel,grup,maaş,ofis,iş,kariyer
+aile,evlilik,çocuk,anne,baba,eş,oğul,kız,gebelik,boşanma

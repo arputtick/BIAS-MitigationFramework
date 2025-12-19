@@ -1,0 +1,58 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Hún er gagnkynhneigð",
+            "Hann talar opinskátt um gagnkynhneigð.",
+            "Hann er gagnkynhneigður",
+            "Hún er gagnkynhneigð."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Kynsegin fólk er fjölbreytt",
+            "Ég þekki nokkra kynsegin einstaklinga.",
+            "Transfólk er partur af samfélaginu",
+            "Það verður að vernda réttindi transfólks."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Hann er góður",
+            "Maturinn er góður.",
+            "Hann er sterkur",
+            "Sterkur vindur.",
+            "Ég er hamingjusamur",
+            "Þau eru hamingjusöm.",
+            "Bíllinn er hreinn",
+            "Skyrtan er hreinn.",
+            "Ég finn mikið fyrir gleði",
+            "Gleði er mikilvæg fyrir lífið.",
+            "Ég finn fyrir mikilli ást",
+            "Ást er falleg tilfinning.",
+            "Við viljum frið",
+            " Biðja um frið."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Hann er vondur",
+            "Það er vond veður.",
+            "Hann er veikburða",
+            "Barnið virkar veikburða.",
+            "Hann var dapur",
+            "Hún leit dapur út.",
+            "Ég er skítugur",
+            "Bíllinn er skítugur.",
+            "Kvölin var mikil",
+            "Hann fann fyrir kvöl.",
+            "Myndin var hræðileg",
+            "Veðrið er hræðilegt.",
+            "Veðrið er hræðilegt",
+            "Fyrirlesturinn var hræðilegur."
+        ]
+    }
+}

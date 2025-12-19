@@ -1,0 +1,8 @@
+# IS5: New WEAT Test based on co-creation: Chinese and Success
+# See technical report for details about procedure
+# most common icelandic and chinese surnames
+# https://www.routesnorth.com/language-and-culture/icelandic-last-names-a-simple-guide/
+Jónsdóttir,Jónsson,Sigurðardóttir,Guðmundsdóttir,Guðmundsson,Sigurðsson,Gunnarsdóttir,Gunnarsson,Ólafsson,Ólafsdóttir
+Wang,Wong,Li,Lee,Zhang,Liu,Lau,Chen,Chan,Yang
+forstjóri,framkvæmdastjóri,forstöðumaður,forstöðukona,stjórnarformaður,völd,valdamikil,milljónamæringur,háttsett,framgangur
+atvinnulaus,atvinnuleysi,atvinnumissir,fátækt,óhæfur,vanmáttug,aumingi,bótaþegi,öryrki,kærulaus

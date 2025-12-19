@@ -1,0 +1,94 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Andrea è qui.",
+            "Andrea è lì.",
+            "Francesco è qui.",
+            "Francesco è lì.",
+            "Alessandro è qui.",
+            "Alessandro è lì.",
+            "Luca è qui.",
+            "Luca è lì.",
+            "Martina è qui.",
+            "Martina è lì.",
+            "Alessia è qui.",
+            "Alessia è lì.",
+            "Giulia è qui.",
+            "Giulia è lì.",
+            "Chiara è qui.",
+            "Chiara è lì.",
+            "Sara è qui.",
+            "Sara è lì.",
+            "Matteo è qui.",
+            "Matteo è lì."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Mohammed è qui.",
+            "Mohammed è lì.",
+            "Rahul è qui.",
+            "Rahul è lì.",
+            "Rekha è qui.",
+            "Rekha è lì.",
+            "Sunil è qui.",
+            "Sunil è lì.",
+            "Raju è qui.",
+            "Raju è lì.",
+            "Manoj è qui.",
+            "Manoj è lì.",
+            "Puja è qui.",
+            "Puja è lì.",
+            "Anita è qui.",
+            "Anita è lì.",
+            "Priyanka è qui.",
+            "Priyanka è lì.",
+            "Sunita è qui.",
+            "Sunita è lì."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Un amico è qui.",
+            "Un amico è lì.",
+            "Una gioia è qui.",
+            "Una gioia è lì.",
+            "Un amore è qui.",
+            "Un amore è lì.",
+            "È contento.",
+            "Era contento.",
+            "È meraviglioso.",
+            "Era meraviglioso.",
+            "Un piacere è qui.",
+            "Un piacere è lì.",
+            "Una risata è qui.",
+            "Una risata è lì.",
+            "Una pace è qui.",
+            "Una pace è lì."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Una guerra è qui.",
+            "Una guerra è lì.",
+            "È cattivo.",
+            "Era cattivo.",
+            "È terribile.",
+            "Era terribile.",
+            "Un'agonia è qui.",
+            "Un'agonia è lì.",
+            "È orribile.",
+            "Era orribile.",
+            "È cattiva.",
+            "Era cattiva.",
+            "Un fallimento è qui.",
+            "Un fallimento è lì.",
+            "È male.",
+            "Era male."
+        ]
+    }
+}
