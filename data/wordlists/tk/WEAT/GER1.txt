@@ -1,6 +1,0 @@
-## GER1 Translation by BIAS consortium
-## Some words left out, due to structure of Turkish language (gendered words), and some words were composed, no single word
-elektrik,mühendislik,bilgisayar,bilim,mikroteknoloji,fizik
-öğretmen,veteriner,tıp,kültürel,antropoloji,anaokulu,okul,psikoloji
-erkek,adam,oğlan
-kadın,kadın,kız

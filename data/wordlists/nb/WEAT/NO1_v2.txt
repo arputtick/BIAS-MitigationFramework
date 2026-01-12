@@ -1,7 +1,0 @@
-# NO1 version 2: Top5 male/female Iranian and Norwegian names, positive and negative
-# Positive negative from ChatGPT
-# checked by native speaker 02/2024
-Zahra,Aida,Sara,Mary,Maryam,Ali,Mohammad,Mostafa,Resa,Mahdi
-Ida,Karoline,Marte,Silje,Camilla,Kristian,Thomas,Kristoffer,Andreas,Alexander
-sorg,ulykke,ubehag,redsel,pessimisme,fangenskap,umulig,syk,blindhet,tankeløs
-glede,lykke,behag,mot,optimisme,frihet,mulig,deilig,sjarmerende,frisk

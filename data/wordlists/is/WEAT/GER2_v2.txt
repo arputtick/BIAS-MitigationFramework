@@ -1,7 +1,0 @@
-# GER 2 - translated with support of BIAS consortium - v2 
-# Target 1 was difficult to translate 1to1 - slightly adapted
-# included both male and female form of adjectives - does it make sense?
-líðan,tilfinning,móttækileg,móttækilegur,trúuð,trúaður
-hugur,skynsemi,uppgötvun,hugsandi,vitandi,dæma
-kvenmaður,konu,stelpu,systur,dóttur
-karlmaður,karl,piltur,bróður,son

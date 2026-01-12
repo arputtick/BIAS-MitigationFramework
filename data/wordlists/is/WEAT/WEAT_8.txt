@@ -1,5 +1,0 @@
-# WEAT 8 translations by BIAS consortium - version 1
-vísindi,tækni,eðlisfræði,efnafræði,tilraun,stjarnfræði,Einstein,NASA
-kveðskapur,list,dans,bókmenntir,skáldsaga,sinfónía,leiklist,Shakespeare
-faðir,frændi,afi,son,bróðir,hann,honum,hans
-móðir,frænka,amma,dóttir,systir,hún,henni,hennar

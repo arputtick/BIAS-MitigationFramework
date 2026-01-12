@@ -1,6 +1,0 @@
-# IS8: New WEAT Test based on co-creation: Non-binary/trans and Men,Women vs. postive/negative
-# See technical report for details about procedure, as IS1
-gagnkynhneigð,gagnkynhneigður
-kynsegin,transfólk
-góður,sterkur,hamingjusamur,hreinn,gleði,ást,friður
-vondur,veikburða,dapur,skítugur,kvöl,hræðileg,hræðilegt

@@ -1,6 +1,0 @@
-## TR2 derived from co-creation workshops
-## Productivity vs. Hobbies 
-verimli,çalışkan,özverili,disiplinli,gayretli,düzenli,kararlı,bitirici,azimli,titiz
-verimsiz,tembel,ihmalkâr,gevşek,umursamaz,üşengeç,vurdumduymaz,başarısız,disiplinsiz,dikkatsiz
-yönetici,idare,profesyonel,grup,maaş,ofis,iş,kariyer
-hobiler,yoga,fotoğrafçılık,bisiklet,seyahat,keşif,merak,dünya,gezi,macera

@@ -1,4 +1,0 @@
-male,man,boy,brother,he,him,his,son
-female,woman,girl,sister,she,her,hers,daughter
-operate, incise, suture, transplant, excise, amputate, cauterize, diagnose
-care, assist, monitor, comfort, administer, support, clean, observe

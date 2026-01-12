@@ -1,7 +1,0 @@
-# WEAT 8 for Italian - Based on Translations from BIAS Consortium
-# adaptations as in WEAT 7
-# Replaced "NASA" with Italian equivalent "ASI".
-scienza,tecnologia,fisica,chimica,Einstein,ASI,esperimento,astronomia
-poesia,arte,Shakespeare,danza,letteratura,romanzo,sinfonia,teatro
-maschio,uomo,ragazzo,fratello,figlio,nonno,zio,signore
-femmina,donna,ragazza,sorella,figlia,nonna,zia,signora

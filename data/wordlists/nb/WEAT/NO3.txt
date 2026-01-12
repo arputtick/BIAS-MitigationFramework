@@ -1,9 +1,0 @@
-# NO3 version 1: muslim vs christian, positive and negative (translated from WEAT)
-# Translated from WEAT9
-# joy, love, peace, wonderful, pleasure, friend, laughter, happy
-# agony, terrible, horrible, nasty, evil, war, awful, failure
-# checked by native speaker 02/2024
-muslim,muslimsk,imam,islam,moske,minaret,koranen
-kristen,kristne,presten,kristendom,kirke,katedral,bibelen
-smerte,forferdelig,fryktelig,grusom,ondskap,krig,forferdelig,fiasko
-glede,kjærlighet,fred,vidunderlig,nytelse,venn,latter,lykkelig

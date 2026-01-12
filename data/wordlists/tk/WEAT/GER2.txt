@@ -1,5 +1,0 @@
-## GER2 Translation with BIAS consortium native speakers
-akıl,rasyonalizm,gerçekleşim,anlama,düşünen,haberdar,yargılama
-his,duygu,düşünce,anlayışlılık,dindarlık,kavrama,anlayış,anlama
-erkek,adam,oğlan
-kadın,kadın,kız

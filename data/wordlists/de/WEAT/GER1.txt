@@ -1,5 +1,0 @@
-# GER 1
-Elektroingenieurwesen,Maschineningenieurwesen,Informatik,Mikrotechnik,Physik
-Sonderpädagogik,Veterinärmedizin,Ethnologie,Erziehungswissenschaften,Psychologie
-männlich,Mann,Junge,Bruder,Sohn
-weiblich,Frau,Mädchen,Schwester,Tochter

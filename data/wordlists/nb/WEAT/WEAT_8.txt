@@ -1,6 +1,0 @@
-# WEAT 8 Translated with the Consortium
-# checked by native speaker 02/2024
-vitenskap,teknologi,fysikk,kjemi,Einstein,NASA,eksperiment,astronomi
-poesi,kunst,Shakespeare,dans,literatur,bok,symfoni,drama
-bror,far,onkel,bestefar,sønn,ham,hans
-søster,mor,tante,bestemor,datter,henne,hennes

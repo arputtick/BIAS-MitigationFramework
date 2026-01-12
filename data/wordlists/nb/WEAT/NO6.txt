@@ -1,9 +1,0 @@
-# NO6 - for the concept of young and married, maybe children soon?
-# Comment Mascha: I am not sure this is a fair test, as wedding might naturally be more related to children?
-# married vs single people (based on ChatGPT generated words)
-# career and children from NO5
-# checked by native speaker 02/2024
-nygifte,bryllupsreise,gift,bryllup,brudepar,ekteskapelig
-singel,solo,uavhengig,tilgjengelig,ugift,ubundet
-foreldre,barnehage,sønn,datter,barn,barnevogn,smokk,bleie
-utøvende,ledelse,profesjonell,selskap,lønn,kontor,virksomhet,karriere
