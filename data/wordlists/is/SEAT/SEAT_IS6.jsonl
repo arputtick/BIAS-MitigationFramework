@@ -1,0 +1,102 @@
+{
+    "targ1": {
+        "category": "Northern Countries",
+        "examples": [
+            "Þetta er Noregur.",
+            "Noregur er hér.",
+            "Þetta er Svíþjóð.",
+            "Svíþjóð er hér.",
+            "Þetta er Danmörk.",
+            "Danmörk er hér.",
+            "Þetta er Ísland.",
+            "Ísland er hér.",
+            "Þetta er Holland.",
+            "Holland er hér.",
+            "Þetta er Finnland.",
+            "Finnland er hér.",
+            "Þetta er Þýskaland.",
+            "Þýskaland er hér.",
+            "Þetta er Belgía.",
+            "Belgía er hér.",
+            "Þetta er Pólland.",
+            "Pólland er hér.",
+            "Þetta er Eistland.",
+            "Eistland er hér."
+        ]
+    },
+    "targ2": {
+        "category": "Asian Countries",
+        "examples": [
+            "Þetta er Kína.",
+            "Kína er hér.",
+            "Þetta er Kórea.",
+            "Kórea er hér.",
+            "Þetta er Taíland.",
+            "Taíland er hér.",
+            "Þetta eru Filippseyjar.",
+            "Filippseyjar eru hér.",
+            "Þetta er Taívan.",
+            "Taívan er hér.",
+            "Þetta er Víetnam.",
+            "Víetnam er hér.",
+            "Þetta er Laos.",
+            "Laos er hér.",
+            "Þetta er Myanmar.",
+            "Myanmar er hér.",
+            "Þetta er Japan.",
+            "Japan er hér.",
+            "Þetta er Malasía.",
+            "Malasía er hér."
+        ]
+    },
+    "attr1": {
+        "category": "Success",
+        "examples": [
+            "Þetta er forstjóri.",
+            "Forstjóri er hér.",
+            "Þetta er framkvæmdastjóri.",
+            "Framkvæmdastjóri er hér.",
+            "Þetta er forstöðumaður.",
+            "Forstöðumaður er hér.",
+            "Þetta er forstöðukona.",
+            "Forstöðukona er hér.",
+            "Þetta er stjórnarformaður.",
+            "Stjórnarformaður er hér.",
+            "Þetta eru völd.",
+            "Það eru völd.",
+            "Þetta er valdamikil.",
+            "Það er valdamikil.",
+            "Þetta er milljónamæringur.",
+            "Milljónamæringur er hér.",
+            "Þetta er háttsett.",
+            "Það er háttsett.",
+            "Þetta er framgangur.",
+            "Framgangur er hér."
+        ]
+    },
+    "attr2": {
+        "category": "Unsuccessful",
+        "examples": [
+            "Þetta er atvinnulaus.",
+            "Það er atvinnulaus.",
+            "Þetta er atvinnuleysi.",
+            "Atvinnuleysi er hér.",
+            "Þetta er atvinnumissir.",
+            "Atvinnumissir er hér.",
+            "Þetta er fátækt.",
+            "Það er fátækt.",
+            "Þetta er óhæfur.",
+            "Það er óhæfur.",
+            "Þetta er vanmáttug.",
+            "Það er vanmáttug.",
+            "Þetta er aumingi.",
+            "Aumingi er hér.",
+            "Þetta er bótaþegi.",
+            "Bótaþegi er hér.",
+            "Þetta er öryrki.",
+            "Öryrki er hér.",
+            "Þetta er kærulaus.",
+            "Það er kærulaus."
+        ]
+    }
+}

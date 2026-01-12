@@ -1,0 +1,48 @@
+{
+    "targ1": {
+        "singular": [
+            "elektroteknikk",
+            "maskinteknikk",
+            "informatikk",
+            "ingeniørarbeid",
+            "fysikk"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "spesialpedagogikk",
+            "veterinærmedisin",
+            "etnologi",
+            "utdanningsvitenskap",
+            "psykologi"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "mannlig",
+        "mann",
+        "gutt",
+        "bror",
+        "han",
+        "ham",
+        "hans",
+        "sønn"
+    ],
+    "attr2": [
+        "kvinnelig",
+        "kvinne",
+        "jente",
+        "søster",
+        "hun",
+        "henne",
+        "hennes",
+        "datter"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}

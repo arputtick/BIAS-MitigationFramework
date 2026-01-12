@@ -1,0 +1,30 @@
+{
+  "targ1": {
+    "category": "One",
+    "examples": [
+      "This is an apple.",
+      "That is a mountain."
+    ]
+  },
+  "targ2": {
+    "category": "Two",
+    "examples": [
+      "This is a chair.",
+      "That is a library."
+    ]
+  },
+  "attr1": {
+    "category": "Three",
+    "examples": [
+      "This is a lake.",
+      "That is a bicycle."
+    ]
+  },
+  "attr2": {
+    "category": "Four",
+    "examples": [
+      "This is a mirror.",
+      "That is a clock."
+    ]
+  }
+}

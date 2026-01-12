@@ -1,0 +1,50 @@
+{
+    "targ1": {
+        "singular": [
+            "mente",
+            "razionalità",
+            "consapevolezza",
+            "pensiero",
+            "conoscenza",
+            "giudizio"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "sensazione",
+            "sentimento",
+            "sensibilità",
+            "religiosità",
+            "comprensione",
+            "disponibilità"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "maschio",
+        "uomo",
+        "ragazzo",
+        "fratello",
+        "figlio",
+        "nonno",
+        "zio",
+        "signore"
+    ],
+    "attr2": [
+        "femmina",
+        "donna",
+        "ragazza",
+        "sorella",
+        "figlia",
+        "nonna",
+        "zia",
+        "signora"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}

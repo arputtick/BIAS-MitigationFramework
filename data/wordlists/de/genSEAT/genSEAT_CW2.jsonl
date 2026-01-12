@@ -1,0 +1,102 @@
+{
+    "targ1": {
+        "category": "productive",
+        "examples": [
+            "Effizienz ist wichtig.",
+            "Wir müssen unsere Effizienz steigern.",
+            "Sein Leistungswille motiviert das ganze Team.",
+            "Ihr Leistungswille ist beeindruckend.",
+            "Sein Engagement ist bewundernswert.",
+            "Ihr Engagement ist beeindruckend.",
+            "Seine Ambition ist beeindruckend",
+            "Ihre Ambition kennt keine Grenzen.",
+            "Er zeigt viel Zielstrebigkeit.",
+            "Ihre Zielstrebigkeit ist wichtig.",
+            "Er hat viel Kompetenz in diesem Bereich.",
+            "Ihre Kompetenz ist beeindruckend.",
+            "Ich habe heute viel Motivation.",
+            "Motivation ist wichtig für den Erfolg.",
+            "Seine Einsatzbereitschaft ist beeindruckend.",
+            "Wir schätzen ihre Einsatzbereitschaft.",
+            "Seine Beharrlichkeit führt zum Erfolg.",
+            "Ihre Beharrlichkeit ist beeindruckend.",
+            "Er zeigte viel Eifer bei der Arbeit.",
+            "Ihr Eifer war beeindruckend."
+        ]
+    },
+    "targ2": {
+        "category": "unproductive",
+        "examples": [
+            "Ich brauche eine Ablenkung.",
+            "Diese Musik ist eine gute Ablenkung.",
+            "Unaufmerksamkeit führt zu Fehlern.",
+            "Seine Unaufmerksamkeit ist ein Problem.",
+            "Die Ineffizienz kostet Zeit.",
+            "Ineffizienz ist ein Problem.",
+            "Seine Nachlässigkeit führte zu einem Unfall.",
+            "Ihre Nachlässigkeit kann gefährlich sein.",
+            "Die Desorganisation macht Probleme.",
+            "Die Desorganisation kostet Zeit.",
+            "Ich spüre Überforderung.",
+            "Die Arbeit führt zu Überforderung.",
+            "Seine Zerstreutheit führte zu vielen Fehlern.",
+            "Ihre Zerstreutheit ist ein Problem.",
+            "Er zeigte völliges Desinteresse.",
+            "Ihr Desinteresse war offensichtlich.",
+            "Ihre Unachtsamkeit führte zu einem Unfall.",
+            "Er hat wegen seiner Unachtsamkeit den Bus verpasst.",
+            "Er genießt die Sorglosigkeit.",
+            "Ihre Sorglosigkeit ist beneidenswert."
+        ]
+    },
+    "attr1": {
+        "category": "young",
+        "examples": [
+            "Der Jugendliche spielt Fußball.",
+            "Ein Jugendlicher liest ein Buch.",
+            "Die Jugendlichen spielen Fußball.",
+            "Die Jugendlichen gehen ins Kino.",
+            "Die Jugend spielt im Park.",
+            "Die Jugend lernt in der Schule.",
+            "Das Studium beginnt im Oktober.",
+            "Ich habe mein Studium abgeschlossen.",
+            "Der Berufseinstieg ist sehr wichtig.",
+            "Mein Berufseinstieg war erfolgreich.",
+            "Mitzwanziger sind oft sehr beschäftigt.",
+            "Viele Mitzwanziger studieren noch.",
+            "Die Schülerin liest ein Buch.",
+            "Die Schülerin hat ihre Hausaufgaben gemacht.",
+            "Der Schüler lernt.",
+            "Der Schüler ist fleißig.",
+            "Der Student lernt.",
+            "Der Student liest ein Buch.",
+            "Die Studentin lernt.",
+            "Die Studentin liest ein Buch."
+        ]
+    },
+    "attr2": {
+        "category": "old",
+        "examples": [
+            "Der ältere Mann sitzt im Park.",
+            "Meine ältere Schwester besucht uns.",
+            "Ältere Menschen brauchen Unterstützung.",
+            "Die älteren Häuser sind schön.",
+            "Er ist schon in der Lebensmitte.",
+            "In der Lebensmitte ändert sich vieles.",
+            "Erwachsene arbeiten viel.",
+            "Die Erwachsenen sind müde.",
+            "Meine Oma hat viel Lebenserfahrung.",
+            "Seine Lebenserfahrung hilft uns oft.",
+            "Ein Erwachsener arbeitet hier.",
+            "Jeder Erwachsener muss Steuern zahlen.",
+            "Der Rentner liest ein Buch.",
+            "Der Rentner geht spazieren.",
+            "Die Rentnerin geht spazieren",
+            "Die Rentnerin genießt ihren Ruhestand.",
+            "Der Senior geht spazieren.",
+            "Der Senior liest ein Buch.",
+            "Die Seniorin geht spazieren.",
+            "Die Seniorin liest ein Buch."
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "targ1": {
+        "singular": [
+            "wetenschap",
+            "technologie",
+            "natuurkunde",
+            "scheikunde",
+            "Einstein",
+            "NASA",
+            "experiment",
+            "astronomie"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "poëzie",
+            "kunst",
+            "dans",
+            "literatuur",
+            "roman",
+            "symfonie",
+            "drama",
+            "beeldhouwwerk"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "mannelijk",
+        "man",
+        "jongen",
+        "broer",
+        "hij",
+        "hem",
+        "zijn",
+        "zoon"
+    ],
+    "attr2": [
+        "vrouwelijk",
+        "vrouw",
+        "meisje",
+        "zus",
+        "zij",
+        "haar",
+        "haar",
+        "dochter"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}

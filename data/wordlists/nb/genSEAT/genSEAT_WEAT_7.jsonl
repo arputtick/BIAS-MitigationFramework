@@ -1,0 +1,86 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Jeg liker matematikk",
+            "Matematikk er gøy.",
+            "Algebra er viktig i matematikk",
+            "Jeg lærer algebra på skolen.",
+            "Geometri er morsomt",
+            "Jeg lærer geometri på skolen.",
+            "Han er veldig matematisk",
+            "Problemet var matematisk vanskelig.",
+            "Læreren forklarer ligninger",
+            "Vi løser ligninger i matematikk.",
+            "Beregningen var feil",
+            "Nøyaktig beregning er viktig.",
+            "Hva er ditt telefonnummer?",
+            "Jeg husker ikke nummeret.",
+            "Addisjon er enkelt",
+            "Vi lærte addisjon på skolen."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Jeg liker poesi",
+            "Poesi er vakkert.",
+            "Jeg liker kunst",
+            "Kunst er spennende",
+            "Han liker å dans",
+            "Vi skal på dans i kveld.",
+            "Jeg elsker norsk litteratur",
+            "Litteratur er en viktig del av kulturen vår.",
+            "Jeg leser en bok",
+            "Boken er spennende",
+            "Vi hørte på en vakker symfoni",
+            "Symfonien var skrevet av Beethoven.",
+            "Dramaet var spennende",
+            "Hun elsker drama på TV.",
+            "Den skulpturen er vakker",
+            "Jeg så en skulptur i parken."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Han er veldig mannlig",
+            "Dette er et mannlig valg.",
+            "Mannen leser en bok",
+            "Mannen spiser frokost.",
+            "Gutten spiller fotball",
+            "Jeg har en liten gutt.",
+            "Min bror heter Jens",
+            "Broren min er ti år",
+            "Han sover",
+            "Han spiser",
+            "Jeg så ham i går",
+            "Han liker ham veldig mye.",
+            "Det er hans bok",
+            "Hans katt er hvit.",
+            "Denne er min sønn",
+            "Sønnen min heter Ole."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Hun er en kvinnelig lege",
+            "Kvinnelig stemmerett er viktig.",
+            "Hun er en kvinne",
+            "Kvinnen jobber her.",
+            "Hun er en søt jente",
+            "Jenta spiller fotball i parken.",
+            "Jeg har en søster",
+            "Min søster er snill.",
+            "Hun er snill",
+            "Hun går hjem",
+            "Jeg så henne i parken",
+            "Vi inviterte henne til festen.",
+            "Hennes katt er søt",
+            "Jeg liker boken hennes.",
+            "Hun er min datter",
+            "Vi har en datter."
+        ]
+    }
+}

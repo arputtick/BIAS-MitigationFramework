@@ -1,0 +1,52 @@
+{
+    "targ1": {
+        "singular": [
+            "muslim",
+            "muslimsk",
+            "imam",
+            "islam",
+            "moske",
+            "minaret",
+            "koranen"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "kristen",
+            "kristne",
+            "presten",
+            "kristendom",
+            "kirke",
+            "katedral",
+            "bibelen"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "mislykket",
+        "frafall",
+        "fattigdom",
+        "arbeidsledig",
+        "sosialhjelp",
+        "passiv",
+        "ukvalifisert",
+        "byrde"
+    ],
+    "attr2": [
+        "leder",
+        "administrasjon",
+        "profesjonell",
+        "gruppe",
+        "lønn",
+        "kontor",
+        "forretning",
+        "karriere"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}

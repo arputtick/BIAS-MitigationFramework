@@ -1,0 +1,102 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Verimli çalışıyorum",
+            "Bu topraklar çok verimli.",
+            "Çalışkan insanlar başarıyı elde eder",
+            "Çalışkan çocuklar her zaman derslerine iyi çalışır.",
+            "Özverili insanlar sevilir",
+            "Özverili olmak önemlidir.",
+            "Disiplinli çalışmak başarı getirir",
+            "O disiplinli bir öğrencidir.",
+            "Gayretli insanları severim",
+            "O çok gayretli.",
+            "Düzenli",
+            "Odamı düzenli tutarım.",
+            "Kararlı",
+            "O çok kararlı biri.",
+            "Bitirici hamleyi yaptı",
+            "Bu işin bitirici çözümü yok.",
+            "Azimli insanlar her zaman başarılı olur",
+            "O çok azimli bir öğrenci.",
+            "O çok titiz bir insandır",
+            "Titiz olmak her zaman avantajlıdır."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Bu toprak verimsiz",
+            "Verimsiz çalışma moralimizi bozuyor.",
+            "Onu hiç çalışırken görmedim, çok tembel",
+            "Tembel öğrenciler dersten kaldı.",
+            "İhmalkâr davranma",
+            "O çok ihmalkâr.",
+            "Vidalar gevşek",
+            "Gömlek gevşek.",
+            "Umursamaz",
+            "O çok umursamaz.",
+            "Üşengeç",
+            "Can çok üşengeç.",
+            "Vurdumduymaz olduğunu anlamadım",
+            "O kadar vurdumduymaz ki hiçbir şeye aldırmıyor.",
+            "Başarısız oldu",
+            "Başarısız bir deneme yaptık.",
+            "Disiplinsiz çocuklar sınıfta sorun yaratıyor",
+            "Disiplinsiz olmak başını derde sokar.",
+            "Dikkatsiz bir şekilde yürüyordu",
+            "Dikkatsizce arabayı sürdü."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "O çok çalışkan.",
+            "Çalışkan bir öğrenci.",
+            "Zeki çocuk çok hızlı öğrenir",
+            "Zeki insanlar her zaman meraklıdır.",
+            "Dil insanın iletişim aracıdır",
+            "Dil olmadan anlaşmak zor olur.",
+            "Teknik resim çiziyorum",
+            "Teknik servis çağırdım.",
+            "Liderlik önemlidir",
+            "Liderlik içgüdü gerektirir.",
+            "Fiziksel aktivite önemlidir",
+            "Fiziksel sağlık için yürüyüş yaparım.",
+            "İletişim kurmak önemlidir",
+            "İletişim becerilerini geliştirmeliyiz.",
+            "O çok titiz.",
+            "Titiz insanlar düzenli olur.",
+            "Bahçenin bakımlı olması gerekiyor",
+            "Bakımlı insanlar genelde daha sağlıklıdır.",
+            "Pozitif düşüncelerle yaşa",
+            "Sonuç pozitif olacak."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Hobilerim arasında resim yapmak var",
+            "Hobiler çok önemlidir.",
+            "Yoga yapmak güzel",
+            "Yoga rahatlatıcıdır.",
+            "Fotoğrafçılık çok eğlencelidir",
+            "Fotoğrafçılık kurslarına yazıldım.",
+            "Bisiklet sürmeyi seviyorum",
+            "Bisikletim kırmızı.",
+            "Seyahat etmeyi seviyorum",
+            "Yarın İtalya'ya seyahat edeceğim.",
+            "Yeni bir keşif yapıldı",
+            "Keşif gezisine katıldım.",
+            "Merak ediyorum",
+            "O kitabı merak ettim.",
+            "Dünya çok güzel.",
+            "Dünya yuvarlaktır.",
+            "Gezi çok eğlenceliydi",
+            "Yarın geziye çıkacağız.",
+            "Macera yaşamak istiyorum",
+            "Bu macera çok heyecanlıydı."
+        ]
+    }
+}

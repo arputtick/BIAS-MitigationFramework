@@ -1,0 +1,48 @@
+{
+    "targ1": {
+        "singular": [
+            "Wissenschaft",
+            "Technologie",
+            "Physik",
+            "Chemie",
+            "Einstein",
+            "NASA",
+            "Experiment",
+            "Astronomie"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "Poesie",
+            "Kunst",
+            "Shakespeare",
+            "Tanz",
+            "Literatur",
+            "Roman",
+            "Symphonie",
+            "Drama"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "Bruder",
+        "Vater",
+        "Onkel",
+        "Grossvater",
+        "Sohn"
+    ],
+    "attr2": [
+        "Schwester",
+        "Mutter",
+        "Tante",
+        "Grossmutter",
+        "Tochter"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}

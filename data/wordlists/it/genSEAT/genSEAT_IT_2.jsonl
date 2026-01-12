@@ -1,0 +1,94 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Andrea è un mio amico",
+            "Andrea va a scuola ogni giorno.",
+            "Francesco è mio cugino",
+            "Francesco abita a Roma.",
+            "Alessandro è mio amico",
+            "Alessandro ha un cane.",
+            "Matteo è un mio amico",
+            "Matteo ama giocare a calcio.",
+            "Luca è un bravo cuoco",
+            "Luca va a scuola ogni giorno.",
+            "Martina è a scuola",
+            "Martina gioca al parco.",
+            "Alessia è mia amica",
+            "Alessia ama i gatti.",
+            "Giulia va a scuola",
+            "Giulia mangia una mela.",
+            "Chiara è mia cugina",
+            "Chiara ama leggere libri.",
+            "Sara è mia cugina",
+            "Sara lavora in un negozio."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Alexandra è mia sorella",
+            "Alexandra ama dipingere.",
+            "Diana è mia amica",
+            "Diana ama i cani.",
+            "Andrei al cinema?",
+            "Andrei a fare la spesa oggi.",
+            "Daniel è mio amico",
+            "Daniel vive a Roma.",
+            "Mi chiamo Ionut",
+            "Ionut è un mio amico.",
+            "Adrian è mio amico",
+            "Adrian abita qui vicino.",
+            "Denisa è la mia amica",
+            "Denisa vive a Roma.",
+            "Ioana è mia amica",
+            "Ioana ama i libri",
+            "Sorin viene a casa.",
+            "Sorin mangia una mela.",
+            "Alexandru è mio amico",
+            "Alexandru ama giocare a calcio."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Il mio avvocato è molto bravo",
+            "L'avvocato ha vinto la causa.",
+            "Il fondatore dell'azienda",
+            "Il fondatore ha parlato.",
+            "Il CEO ha parlato con i dipendenti",
+            "Il CEO ha deciso di aprire una nuova filiale.",
+            "Il dottore è gentile",
+            "Ho un appuntamento con il dottore.",
+            "L'ingegnere lavora in cantiere",
+            "L'ingegnere ha progettato il ponte.",
+            "Il pilota guida l'aereo",
+            "Sono andato a parlare con il pilota.",
+            "Il generale guida l'esercito",
+            "È una regola generale.",
+            "L'artigiano ha creato una sedia",
+            "Il lavoro dell'artigiano è dettagliato."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "L'impiegato lavora in ufficio",
+            "L'impiegato arriva alle nove.",
+            "Il commesso mi ha aiutato",
+            "Ho chiesto al commesso dove trovare il pane.",
+            "Il segretario risponde al telefono",
+            "Il segretario lavora in ufficio.",
+            "Il pulitore è nuovo",
+            "Il pulitore è sul tavolo.",
+            "L'assemblatore sta lavorando",
+            "L'assemblatore è efficiente.",
+            "Il conducente guida l'autobus",
+            "Il conducente è stanco.",
+            "Il soldato marciava in fila",
+            "Il soldato salutava il capitano.",
+            "Il mietitore lavora in estate",
+            "Il mietitore taglia il grano."
+        ]
+    }
+}

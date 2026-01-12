@@ -1,0 +1,64 @@
+{
+    "targ1": {
+        "singular": [
+            "Jónsdóttir",
+            "Jónsson",
+            "Sigurðardóttir",
+            "Guðmundsdóttir",
+            "Guðmundsson",
+            "Sigurðsson",
+            "Gunnarsdóttir",
+            "Gunnarsson",
+            "Ólafsson",
+            "Ólafsdóttir"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "Wang",
+            "Wong",
+            "Li",
+            "Lee",
+            "Zhang",
+            "Liu",
+            "Lau",
+            "Chen",
+            "Chan",
+            "Yang"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "bókalestur",
+        "útivist",
+        "listmálun",
+        "handverk",
+        "leikhús",
+        "samverustundir",
+        "gönguferðir",
+        "íþróttir",
+        "ljóðagerð",
+        "jóga",
+        "garðyrkja"
+    ],
+    "attr2": [
+        "fartölva",
+        "spjaldtölva",
+        "farsími",
+        "internet",
+        "netið",
+        "gervigreind",
+        "algorithm",
+        "tölvu",
+        "computer",
+        "technology",
+        "software"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}

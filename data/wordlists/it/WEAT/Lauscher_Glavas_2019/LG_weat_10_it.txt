@@ -1,0 +1,4 @@
+Joey,Cindy,Billy,Eric,Kristy,Brad,Tiffany,Michelle,
+Ethel,Cecil,Edgar,Wilbert,Gertrude,Mortimer,Bernice,Agnes,
+amico,gioia,amore,risata,contento,meraviglioso,pace,piacere,
+guerra,cattivo,terribile,agonia,orribile,cattiva,male,fallimento,

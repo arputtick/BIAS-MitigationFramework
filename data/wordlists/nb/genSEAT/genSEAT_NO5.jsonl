@@ -1,0 +1,94 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Kristian er en gutt",
+            "Kristian liker å spille fotball.",
+            "Thomas er her",
+            "Thomas liker iskrem",
+            "Kristoffer spiller fotball",
+            "Kristoffer liker pizza.",
+            "Andreas liker pizza",
+            "Andreas går på skolen.",
+            "Alexander er snill",
+            "Alexander spiller fotball.",
+            "Stian er min venn",
+            "Stian liker fotball.",
+            "Daniel liker iskrem",
+            "Daniel spiller fotball.",
+            "Martin liker is",
+            "Martin er min venn.",
+            "Marius spiller fotball",
+            "Marius skal på kino.",
+            "Anders er min bror",
+            "Anders liker å spille fotball."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Ida går til skolen",
+            "Ida liker å lese bøker.",
+            "Karoline liker å lese bøker",
+            "Karoline går tur hver morgen.",
+            "Marte sitter på benken",
+            "Marte leser en bok",
+            "Silje er snill",
+            "Silje liker is",
+            "Camilla er min venn",
+            "Jeg liker Camilla.",
+            "Kristine er glad",
+            "Kristine liker sjokolade",
+            "Stine går på skolen",
+            "Stine liker å tegne.",
+            "Katrine er min venn",
+            "Katrine bor i Oslo.",
+            "Maria er hjemme",
+            "Maria liker katter.",
+            "Christina liker å danse",
+            "Christina har en katt."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Han er en utøvende artist",
+            "Hun har en utøvende rolle i teateret.",
+            "Ledelse er viktig",
+            "Hun jobber i ledelsen.",
+            "Han er en profesjonell maler",
+            "Hun ga meg profesjonell råd.",
+            "Jeg skal på selskap i kveld",
+            "Selskapet var veldig morsomt.",
+            "Jeg får lønn i dag",
+            "Min lønn er lav.",
+            "Jeg jobber på kontor",
+            "Kontoret er i sentrum.",
+            "Hun driver en suksessfull virksomhet",
+            "Virksomheten vokser hver dag.",
+            "Hun ønsker en karriere i medisin",
+            "Han startet sin karriere som lærer."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Foreldrene mine er snille",
+            "Foreldre hjelper ofte barna sine.",
+            "Jeg gikk til barnehagen",
+            "Barnehagen er fin.",
+            "Jeg har en sønn",
+            "Sønnen min heter Olav.",
+            "Hun har en datter",
+            "Datteren hennes er seks år gammel.",
+            "Barnet leker i hagen",
+            "Hun har to barn.",
+            "Vi kjøpte en ny barnevogn",
+            "Babyen sovner alltid i barnevognen.",
+            "Babyen trenger en smokk",
+            "Hvor er smokken?",
+            "Babyen har på seg bleie",
+            "Jeg må kjøpe flere bleier til den lille."
+        ]
+    }
+}

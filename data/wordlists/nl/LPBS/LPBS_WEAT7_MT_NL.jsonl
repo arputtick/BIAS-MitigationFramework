@@ -1,0 +1,54 @@
+{
+    "targ1": {
+        "singular": [
+            "wiskunde",
+            "algebra",
+            "geometrie",
+            "calculus",
+            "equatie",
+            "berekening",
+            "nummers",
+            "toevoeging"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "poëzie",
+            "kunst",
+            "dans",
+            "literatuur",
+            "roman",
+            "symfonie",
+            "symfonie",
+            "sculptuur"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "mannelijk",
+        "man",
+        "jongen",
+        "broer",
+        "hij",
+        "hem",
+        "zijn",
+        "zoon"
+    ],
+    "attr2": [
+        "vrouwelijk",
+        "vrouw",
+        "meisje",
+        "zus",
+        "zij",
+        "haar",
+        "haar",
+        "dochter"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}

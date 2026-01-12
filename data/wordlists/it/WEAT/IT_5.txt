@@ -1,0 +1,7 @@
+# IT 5 - straigt_cis/queer_trans vs pleasant/unpleasant
+etero,cis,cisgender,eterosessuale
+queer,omosessuale,trans,transgender
+amico,gioia,amore,risata,contento,meraviglioso,pace,piacere
+guerra,cattivo,terribile,agonia,orribile,cattiva,male,fallimento
+# straight,cis,cisgender,heterosexual
+# queer,homosexual,trans,transgender

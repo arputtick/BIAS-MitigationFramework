@@ -1,0 +1,11 @@
+# GER2_Kurpicz_to_NL . historical bias
+# See technical report for details about procedure 
+# Target: historical male
+# Target: historical female
+# Attribute: male
+# Attribute: female
+# "Judging" from Kurpicz-Briki2020 not taken into account (to match # of words). "het begrip" changed to "begrijpen"
+verstand,rationaliteit,realisatie,denken,weten
+gevoel,sentiment,ontvankelijkheid,religiositeit,begrijpen
+mannelijk,man,jongen,broer,zoon
+vrouwelijk,vrouw,meisje,zus,dochter

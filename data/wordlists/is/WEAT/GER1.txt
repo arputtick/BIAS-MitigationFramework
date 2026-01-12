@@ -1,0 +1,5 @@
+# GER 1 - translated with support of BIAS consortium - v1
+rafmagnsverkfræði,vélaverkfræði,tölvunarfræði,örtækni,eðlisfræði
+kennslufræði,dýralæknir,þjóðfræði,menntunarfræði,sálfræði
+karlkyns,maður,strákur,bróðir,sonur
+kvenkyns,kona,stelpa,systir,dóttir

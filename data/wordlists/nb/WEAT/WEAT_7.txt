@@ -1,0 +1,6 @@
+# WEAT 7 Translated with Consortium partners
+# list checked by native speaker 02/2024
+matematikk,algebra,geometri,matematisk,ligninger,beregning,nummer,addisjon
+poesi,kunst,dans,litteratur,bok,symfoni,drama,skulptur
+mannlig,mann,gutt,bror,han,ham,hans,sønn
+kvinnelig,kvinne,jente,søster,hun,henne,hennes,datter

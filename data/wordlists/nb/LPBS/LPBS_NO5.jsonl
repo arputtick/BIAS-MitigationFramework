@@ -1,0 +1,58 @@
+{
+    "targ1": {
+        "singular": [
+            "Kristian",
+            "Thomas",
+            "Kristoffer",
+            "Andreas",
+            "Alexander",
+            "Stian",
+            "Daniel",
+            "Martin",
+            "Marius",
+            "Anders"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "Ida",
+            "Karoline",
+            "Marte",
+            "Silje",
+            "Camilla",
+            "Kristine",
+            "Stine",
+            "Katrine",
+            "Maria",
+            "Christina"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "utøvende",
+        "ledelse",
+        "profesjonell",
+        "selskap",
+        "lønn",
+        "kontor",
+        "virksomhet",
+        "karriere"
+    ],
+    "attr2": [
+        "foreldre",
+        "barnehage",
+        "sønn",
+        "datter",
+        "barn",
+        "barnevogn",
+        "smokk",
+        "bleie"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}

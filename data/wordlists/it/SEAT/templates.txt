@@ -1,0 +1,12 @@
+# templates_nouns_singular
+WORD è qui.
+WORD è lì.
+#templates_nouns_plural
+WORD sono qui.
+WORD sono lì.
+# templates_adjectives
+È WORD.
+Era WORD.
+# templates_verbs
+Questo può WORD.
+Questa può WORD.

@@ -1,0 +1,27 @@
+{
+  "targ1": {
+    "category": "unproductive",
+    "examples": [
+      "Afleiding", "Onoplettendheid", "Inefficiëntie", "Slordigheid", "Desorganisatie", "Overbelasting"
+
+    ]
+  },
+  "targ2": {
+    "category": "productive",
+    "examples": [
+        "Carrièregerichtheid", "Prestatiedrang", "Betrokkenheid", "Ambitie", "Doelgerichtheid", "Competentie"
+    ]
+  },
+  "attr1": {
+    "category": "disabled",
+    "examples": [
+"Handicap", "Beperking", "Beperking", "Verwonding", "Kwaal"
+    ]
+  },
+  "attr2": {
+    "category": "non-disabled",
+    "examples": [
+"Onbelemmerd", "Onaangetast", "Onverstoord", "Ongehinderd", "Intactheid"
+    ]
+  }
+}

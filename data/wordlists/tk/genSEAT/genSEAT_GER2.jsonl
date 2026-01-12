@@ -1,0 +1,64 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Akıl önemlidir",
+            "Akıl sağlığına dikkat et.",
+            "Rasyonalizm insanları etkiler",
+            "Rasyonalizm mantığa dayanır.",
+            "Gerçekleşim oldukça hızlı oldu",
+            "Projelerin gerçekleşimi bizi mutlu etti.",
+            "Anlama çalışıyorum",
+            "Senin anlattığını anlamıyorum.",
+            "Düşünen kediyi seviyorum",
+            "Düşünen bir insan olmalıyız.",
+            "Haberdar oldum",
+            "Beni haberdar et.",
+            "Yargılama başladı",
+            "Yargılama adil olmalı."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Bu benim hissettiğim.",
+            "Hislerim çok karışık.",
+            "Duygularım karışık.",
+            "Onun duyguları incindi.",
+            "Düşüncelerimi paylaşırım",
+            "Düşünce gücü önemlidir.",
+            "Anlayışlı insanları seviyorum",
+            "Anlayışlılık arkadaşlıkta önemlidir.",
+            "Dindarlık önemlidir",
+            "Dindarlık konusunda hassaslar.",
+            "Kavrama zor ama önemli",
+            "Kavrama yeteneği gelişiyor.",
+            "Anlayışlı bir insandır",
+            "Anlayış göstermek önemlidir.",
+            "Anlama çok önemlidir",
+            "Kitabın anlamını biliyor musun?"
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Erkek kardeşim çok çalışkan",
+            "O bir erkek çocuğu.",
+            "Adam geldi",
+            "Adam evde.",
+            "Oğlan top oynuyor",
+            "Oğlan kız kardeşiyle konuşuyor."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Kadın güldü",
+            "Kadın yemek yaptı.",
+            "Kadın eve geldi",
+            "Kadın çiçekleri suladı.",
+            "Kız çiçek topluyor",
+            "Kız parkta oynuyor."
+        ]
+    }
+}

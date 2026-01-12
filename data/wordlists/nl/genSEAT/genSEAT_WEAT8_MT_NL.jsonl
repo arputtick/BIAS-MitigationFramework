@@ -1,0 +1,86 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Ze studeert wetenschap",
+            "Wetenschap is belangrijk voor de toekomst.",
+            "Technologie maakt ons leven makkelijker",
+            "De nieuwste technologieën zijn indrukwekkend.",
+            "Fysica is een moeilijk vak",
+            "Hij studeert fysica aan de universiteit.",
+            "Chemie is een vak op school",
+            "Ik houd van chemie.",
+            "Einstein was heel slim",
+            "Hij ontdekte veel dingen.",
+            "NASA lanceert een nieuwe raket",
+            "NASA onderzoekt de ruimte.",
+            "Het experiment was geslaagd",
+            "Het experiment duurde een week.",
+            "Astronomie is de studie van de sterren",
+            "Ik hou van astronomie."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Poëzie is kunst",
+            "Ik hou van poëzie.",
+            "Kunst is mooi",
+            "Hij houdt van moderne kunst.",
+            "Ik heb een boek van Shakespeare gelezen",
+            "Shakespeare was een beroemde schrijver.",
+            "Ik hou van dansen",
+            "Haar favoriete dans is salsa.",
+            "Ik hou van literatuur",
+            "Ze studeert literatuur.",
+            "Ik lees een spannende roman",
+            "De roman heeft een mooi einde.",
+            "De symfonie was prachtig",
+            "Ik houd van een goede symfonie.",
+            "Het was een groot drama",
+            "Dit is echt een drama."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Mijn broer is aardig",
+            "Mijn broer gaat naar school.",
+            "Mijn vader is thuis",
+            "Mijn vader kookt graag",
+            "Mijn oom komt op bezoek",
+            "Mijn oom woont in Amsterdam.",
+            "Opa leest een boek",
+            "Opa speelt met de kinderen.",
+            "Mijn zoon speelt buiten",
+            "Mijn zoon houdt van tekenen.",
+            "Hij loopt snel",
+            "Hij eet een appel",
+            "Hij is blij",
+            "Zij zijn vrienden",
+            "Ik geef het aan hem",
+            "Wij wachten op hem."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Mijn zus heet Anna",
+            "Ik ga naar mijn zus.",
+            "Mijn moeder kookt",
+            "Jij belt je moeder",
+            "Mijn tante komt vandaag op bezoek",
+            "Mijn tante maakt lekkere koekjes.",
+            "Mijn oma bakt koekjes",
+            "Ik ga naar oma's huis",
+            "Mijn dochter heet Anna",
+            "Ze is een slimme dochter.",
+            "Zij gaat naar school",
+            "Zij eet een appel.",
+            "Haar kat is lief",
+            "Ik zie haar vaak.",
+            "Dit is haar boek",
+            "Ze kamt haar haar."
+        ]
+    }
+}

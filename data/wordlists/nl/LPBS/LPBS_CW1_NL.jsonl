@@ -1,0 +1,44 @@
+{
+    "targ1": {
+        "singular": [
+            "Afleiding",
+            "Onoplettendheid",
+            "Inefficiëntie",
+            "Slordigheid",
+            "Desorganisatie",
+            "Overbelasting"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "Carrièregerichtheid",
+            "Prestatiedrang",
+            "Betrokkenheid",
+            "Ambitie",
+            "Doelgerichtheid",
+            "Competentie"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "Handicap",
+        "Beperking",
+        "Beperking",
+        "Verwonding",
+        "Kwaal"
+    ],
+    "attr2": [
+        "Onbelemmerd",
+        "Onaangetast",
+        "Onverstoord",
+        "Ongehinderd",
+        "Intactheid"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}

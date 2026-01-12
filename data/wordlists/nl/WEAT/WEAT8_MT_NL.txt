@@ -1,0 +1,10 @@
+# WEAT_8 NL
+# See technical report for details about procedure 
+# Target: science
+# Target: art
+# Attribute: male
+# Attribute: female
+wetenschap,technologie,fysica,chemie,Einstein,NASA,experiment,astronomie
+poëzie,kunst,Shakespeare,dans,literatuur,roman,symfonie,drama
+broer,vader,oom,opa,zoon,hij,zijn,hem
+zus,moeder,tante,oma,dochter,zij,haar,haar

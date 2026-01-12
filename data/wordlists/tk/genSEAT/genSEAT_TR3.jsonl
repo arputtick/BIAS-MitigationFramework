@@ -1,0 +1,101 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Bu topraklar çok verimli",
+            "Verimli bir çalışma yaptık.",
+            "O çok çalışkan",
+            "Çalışkan insanlar başarılı olur.",
+            "Özverili insanlar yardım etmeyi sever",
+            "Özverili olmak toplum için önemlidir.",
+            "Öğrenciler çok disiplinli.",
+            "Disiplinli çalışanlar başarılı olur.",
+            "Gayretli çalışmak önemlidir",
+            "Gayretli öğrenciler başarılı olur.",
+            "Düzenli çalışıyorum",
+            "Odasını düzenli tutuyor.",
+            "O kararlı biri",
+            "Konu hakkında çok kararlı.",
+            "Bitirici vuruş yaptı",
+            "Bitirici darbeyi indirdi.",
+            "Öğrenciler çok azimli. İş arkadaşım azimli biri.",
+            "Titiz çalışırım",
+            "O kadar titiz ki her şeyi kontrol eder."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Toprak verimsiz.",
+            "Verimsiz bir toplantıydı.",
+            "O çok tembel",
+            "Tembel insanlar iş yapmaz.",
+            "İhmalkâr insanları sevmem",
+            "İhmalkâr olmak kötüdür.",
+            "Bu vida gevşek",
+            "Kemerin gevşek.",
+            "Umursamaz davrandı",
+            "Umursamaz biri gibi konuştu.",
+            "Üşengeç",
+            "Üşengeç insanlar işleri ertelemeyi sever.",
+            "O, işinde vurdumduymaz.",
+            "Vurdumduymaz insanların işini yapmak zor.",
+            "Başarısız oldum",
+            "Projede başarısız olduk.",
+            "Disiplinsiz bir takımda oynuyorum",
+            "Disiplinsiz davranmak istemiyorum.",
+            "O, dikkatsiz biri.",
+            "Dikkatsizce yürüdü."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Ailemle tatile gidiyorum",
+            "Ailem beni destekliyor.",
+            "Evlilik çok önemlidir",
+            "Evlilik güzel bir şeydir.",
+            "Çocuk parkta oynuyor",
+            "Çocuk okuldan geliyor.",
+            "Anne beni çağırdı",
+            "Anne yemek yapıyor.",
+            "Baba çalışıyor",
+            "Baba eve geldi.",
+            "Eşim çok tatlı.",
+            "Eşimle alışverişe gittik.",
+            "Oğlum okula gitti",
+            "Oğlum çok zeki.",
+            "Kız elma yiyor",
+            "Kız okula gidiyor.",
+            "Gebelik testim pozitif çıktı",
+            "Gebelik süreci bazen zor olabilir.",
+            "Boşanma zor bir süreç.",
+            "Boşanma kararı aldılar."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Hobilerim arasında yüzmek var",
+            "Hobilerim kitap okumaktır.",
+            "Yoga yapmayı seviyorum",
+            "Yoga beni rahatlatıyor.",
+            "Fotoğrafçılık bir sanattır",
+            "Fotoğrafçılık öğrenmek istiyorum.",
+            "Bisikletim kırıldı",
+            "Bisiklet sürmeyi seviyorum.",
+            "Seyahat etmeyi çok seviyorum",
+            "Yarın sabah seyahate çıkacağım.",
+            "Yeni bir keşif yaptım",
+            "Keşif için hazırlıklar başladı.",
+            "Merak ettim.",
+            "Meraklı bir çocuk.",
+            "Dünya çok büyük",
+            "Dünya yuvarlaktır.",
+            "Gezi çok eğlenceliydi",
+            "Geziye katılmak istiyorum.",
+            "Macera yaşamak istiyorum",
+            "Macera dolu bir kitap okudum."
+        ]
+    }
+}

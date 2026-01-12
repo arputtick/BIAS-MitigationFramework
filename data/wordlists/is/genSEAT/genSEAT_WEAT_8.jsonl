@@ -1,0 +1,86 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Vísindi eru mikilvæg",
+            "Ég elska vísindi.",
+            "Tækni er mikilvæg",
+            "Ný tækni er spennandi.",
+            "Eðlisfræði er áhugaverð",
+            "Ég læri eðlisfræði.",
+            "Efnafræði er skemmtileg",
+            "Ég læri efnafræði í skólanum.",
+            "Ég gerði tilraun",
+            "Tilraunin mistókst.",
+            "Stjarnfræði er skemmtileg",
+            "Ég læri stjarnfræði í skólanum.",
+            "Einstein var vísindamaður",
+            "Ég les um Einstein.",
+            "NASA sendi geimfar í dag",
+            " Hver elskar ekki NASA?"
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Kveðskapur er gamall list",
+            "Mér finnst kveðskapur áhugaverður.",
+            "Ég hef mikinn áhuga á list",
+            "Hún bjó til fallega list.",
+            "Ég elska að dansa",
+            "Við förum í dansinn á hverju kvöldi.",
+            "Ég elska bókmenntir",
+            "Bókmenntir eru mikilvægar.",
+            "Ég er að lesa skáldsögu",
+            "Hún skrifaði skáldsögu.",
+            "Hann hlustar á sinfóníu",
+            "Við ætlum á sinfóníutónleika.",
+            "Hún lærir leiklist",
+            "Leiklistin er spennandi.",
+            "Ég elska Shakespeare",
+            "Leika eftir Shakespeare."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Faðir minn er góður",
+            "Faðir minn vinnur mikið.",
+            "Frændi minn kom í heimsókn",
+            "Ég hitti frænda minn í bænum.",
+            "Afi kom í heimsókn",
+            "Ég elska afi minn",
+            "Ég á einn son",
+            "Sonur minn heitir Jón.",
+            "Hann er bróðir minn",
+            "Ég á einn bróður.",
+            "Hann er heima",
+            "Hann átti kött.",
+            "Ég gaf honum bók",
+            "Ég segi honum frá ferðinni.",
+            "Bíllinn er hans",
+            "Það er húsið hans"
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Móðir mín eldar",
+            "Móðir hans syngur.",
+            "Frænka mín kom í heimsókn",
+            "Frænka hennar býr í Reykjavík.",
+            "Amma eldar",
+            "Amma les.",
+            "Þetta er dóttir mín",
+            "Dóttirin mín elskar að syngja.",
+            "Systir mín heitir Anna",
+            "Hún á systur sem er eldri.",
+            "Hún elskar kökur",
+            "Hún fer í skólann.",
+            "Ég gaf henni bók",
+            " Hún sagði henni frá ferðinni.",
+            "Hundurinn hennar er hvítur",
+            "Bókin hennar er á borðinu."
+        ]
+    }
+}

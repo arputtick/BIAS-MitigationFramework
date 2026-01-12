@@ -1,0 +1,68 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Bilim çok ilginçtir",
+            "Bilim insanları deney yapar.",
+            "Teknoloji çok hızlı ilerliyor",
+            "Yeni teknolojiler hayatımızı kolaylaştırıyor.",
+            "Fizik dersine çalışıyorum",
+            "Fizik kitabını okuyorum.",
+            "Kimya dersim var",
+            "Kimya kitabı okudum.",
+            "Deney yapacağız",
+            "Bilim dersinde deney yaptık.",
+            "Einstein çok zekiydi",
+            "Einstein'ın teorileri ünlüdür.",
+            "NASA uzaya adam gönderdi",
+            "NASA yeni bir uydu fırlattı.",
+            "Astronomi çok ilginçtir",
+            "Astronomi hakkında kitap okudum."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Şiir çok güzeldi",
+            "O, şiir yazmayı sever.",
+            "Sanatı çok seviyorum",
+            "Sanat galerisine gittik.",
+            "Shakespeare'ın oyunlarını severim",
+            "Shakespeare, ünlü bir yazardır.",
+            "Dans etmeyi seviyorum",
+            "Her hafta dans dersi alıyorum.",
+            "Edebiyat dersini çok seviyorum",
+            "Edebiyat kitaplarını okumayı çok severim.",
+            "Roman okumayı seviyorum",
+            "Yeni bir roman aldım.",
+            "Senfoni dün gece harikaydı",
+            "Senfoni orkestrası sahnede.",
+            "Drama dizilerini seviyorum",
+            "Bu kitabın sonunda büyük bir drama var."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Dayım balık tutmayı sever",
+            "Dayı bize misafir geldi.",
+            "Amcam bakkala gitti",
+            "Amca çocuklarla oynuyor.",
+            "Büyükbabam bizi her zaman ziyaret eder",
+            "Büyükbabamın bahçesi çok güzel."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Annem yemek yapıyor",
+            "Annemle parka gidiyoruz.",
+            "Hala bekliyorum",
+            "Hala bir çözüm bulamadılar.",
+            "Teyzemizi ziyarete gittik",
+            "Teyzem yemek yapmayı çok seviyor.",
+            "Büyükanne pasta yaptı",
+            "Büyükanne masal anlatıyor."
+        ]
+    }
+}

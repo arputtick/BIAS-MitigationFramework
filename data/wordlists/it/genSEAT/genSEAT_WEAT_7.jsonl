@@ -1,0 +1,86 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Mi piace studiare matematica",
+            "La matematica è difficile.",
+            "L'algebra è difficile",
+            "Studio l'algebra ogni giorno.",
+            "Lo studio della geometria è fondamentale",
+            "La geometria analitica è interessante.",
+            "Il calcolo è corretto",
+            "Devo fare un calcolo veloce.",
+            "Le equazioni sono difficili",
+            "Sto studiando le equazioni.",
+            "Ho scritto i numeri sul foglio",
+            "I bambini imparano i numeri a scuola.",
+            "L'addizione è facile",
+            "Ho imparato l'addizione a scuola.",
+            "La somma di due più due è quattro",
+            "Devi fare la somma dei prezzi."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Mi piace leggere la poesia",
+            "La sua poesia è molto emozionante.",
+            "L'arte è bellissima",
+            "Mi piace studiare l'arte.",
+            "Mi piace la danza",
+            "La danza è arte.",
+            "Mi piace studiare la letteratura",
+            "La letteratura è affascinante.",
+            "Ho letto un romanzo interessante",
+            "Questo romanzo è molto famoso.",
+            "La sinfonia era bellissima",
+            "La sinfonia è iniziata alle otto.",
+            "Andiamo al teatro",
+            "Il teatro è chiuso oggi.",
+            "La scultura è bellissima",
+            "La scultura è di marmo."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Il gatto è maschio",
+            "Mio fratello è un maschio.",
+            "L'uomo legge un libro",
+            "L'uomo mangia una mela.",
+            "Il ragazzo gioca al parco",
+            "Il ragazzo studia in biblioteca.",
+            "Il mio fratello è alto",
+            "Ho un fratello minore.",
+            "Il mio figlio è alto",
+            "Il figlio di Maria gioca a calcio.",
+            "Il mio nonno è simpatico",
+            "Il nonno mi racconta una storia.",
+            "Lo zio viene oggi",
+            "Il mio zio è simpatico.",
+            "Il signore è gentile",
+            "Buongiorno, signore."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "La gatta è una femmina",
+            "Quella bambina è una femmina.",
+            "Lei è una donna",
+            "Quella donna è gentile.",
+            "La ragazza ride",
+            "Vedo una ragazza.",
+            "Ho una sorella",
+            "La mia sorella è più grande.",
+            "La mia figlia ama i gatti",
+            "Quante figlie hai?",
+            "La mia nonna cucina bene",
+            "Domani vado a trovare la nonna.",
+            "La mia zia è gentile",
+            "La zia cucina bene.",
+            "La signora cucina",
+            "Buongiorno, signora."
+        ]
+    }
+}

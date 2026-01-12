@@ -1,0 +1,78 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Le mente sono qui.",
+            "Le mente sono lì.",
+            "Una consapevolezza è qui.",
+            "Una consapevolezza è lì.",
+            "Un pensiero è qui.",
+            "Un pensiero è lì.",
+            "Una conoscenza è qui.",
+            "Una conoscenza è lì.",
+            "Un giudizio è qui.",
+            "Un giudizio è lì.",
+            "Una razionalità è qui.",
+            "Una razionalità è lì."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Una sensazione è qui.",
+            "Una sensazione è lì.",
+            "Un sentimento è qui.",
+            "Un sentimento è lì.",
+            "Una comprensione è qui.",
+            "Una comprensione è lì.",
+            "Una sensibilità è qui.",
+            "Una sensibilità è lì.",
+            "Una religiosità è qui.",
+            "Una religiosità è lì.",
+            "Una disponibilità è qui.",
+            "Una disponibilità è lì."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Un maschio è qui.",
+            "Un maschio è lì.",
+            "Un uomo è qui.",
+            "Un uomo è lì.",
+            "Un ragazzo è qui.",
+            "Un ragazzo è lì.",
+            "Un fratello è qui.",
+            "Un fratello è lì.",
+            "Un figlio è qui.",
+            "Un figlio è lì.",
+            "Un nonno è qui.",
+            "Un nonno è lì.",
+            "Uno zio è qui.",
+            "Uno zio è lì.",
+            "Un signore è qui.",
+            "Un signore è lì."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Una femmina è qui.",
+            "Una femmina è lì.",
+            "Una donna è qui.",
+            "Una donna è lì.",
+            "Una sorella è qui.",
+            "Una sorella è lì.",
+            "Una figlia è qui.",
+            "Una figlia è lì.",
+            "Una signora è qui.",
+            "Una signora è lì.",
+            "Una ragazza è qui.",
+            "Una ragazza è lì.",
+            "Una nonna è qui.",
+            "Una nonna è lì.",
+            "Una zia è qui.",
+            "Una zia è lì."
+        ]
+    }
+}

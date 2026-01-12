@@ -1,0 +1,74 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Elektroteknikk er spennende",
+            "Jeg studerer elektroteknikk.",
+            "Han studerer maskinteknikk",
+            "Maskinteknikk er interessant.",
+            "Informatikk er viktig",
+            "Jeg studerer informatikk.",
+            "Ingeniørarbeid krever presisjon",
+            "Han studerer ingeniørarbeid på universitetet.",
+            "Fysikk er spennende",
+            "Jeg studerer fysikk."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Spesialpedagogikk hjelper barn med spesielle behov",
+            "Læreren studerer spesialpedagogikk.",
+            "Hun studerer veterinærmedisin",
+            "Veterinærmedisin handler om dyrehelse.",
+            "Etnologi er spennende",
+            "Hun studerer etnologi.",
+            "Utdanningsvitenskap er viktig for lærere",
+            "Hun studerer utdanningsvitenskap på universitetet.",
+            "Psykologi er spennende",
+            "Hun studerer psykologi."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Han er en mannlig lærer",
+            "Hun liker å se på mannlig sport.",
+            "Mannen gikk til butikken",
+            "Denne mannen heter Per.",
+            "Gutt er på skolen",
+            "Gutt spiller fotball.",
+            "Min bror heter Ole",
+            "Jeg har en bror.",
+            "Han er snill",
+            "Han spiser eple",
+            "Jeg så ham i går",
+            "Hun ga ham boken.",
+            "Dette er boken hans",
+            "Hunden hans er stor.",
+            "Min sønn er sju år",
+            "Sønnen min liker å spille fotball."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Hun er en kvinnelig lege",
+            "Han ser opp til kvinnelige ledere.",
+            "Hun er en kvinne",
+            "Kvinnen smiler.",
+            "Jenta løper",
+            "Jenta ler",
+            "Min søster heter Anna",
+            "Hun er min beste venn.",
+            "Hun er snill",
+            "Hun jobber hardt.",
+            "Jeg ser henne",
+            "Boken er til henne.",
+            "Boka hennes ligger på bordet",
+            "Jakke hennes henger i gangen.",
+            "Hun har en datter",
+            "Datteren hennes er snill."
+        ]
+    }
+}

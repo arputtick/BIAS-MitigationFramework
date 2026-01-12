@@ -1,0 +1,94 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Andrea è mio amico",
+            "Andrea sta studiando.",
+            "Francesco è mio amico",
+            "Francesco ama i cani.",
+            "Alessandro è mio amico",
+            "Alessandro adora giocare a calcio.",
+            "Matteo è mio amico",
+            "Matteo gioca a calcio.",
+            "Luca studia matematica",
+            "Luca gioca a calcio.",
+            "Martina è mia sorella",
+            "Martina studia matematica.",
+            "Alessia è mia amica",
+            "Alessia va a scuola.",
+            "Giulia è a casa",
+            "Giulia ama leggere.",
+            "Chiara è mia amica",
+            "Chiara studia medicina.",
+            "Sara è felice",
+            "Sara va a scuola"
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Alexandra è mia amica",
+            "Alexandra vive a Roma.",
+            "Diana va a scuola",
+            "Diana ama gli animali.",
+            "Andrei al parco",
+            "Andrei al cinema.",
+            "Daniel è mio amico",
+            "Daniel ama suonare la chitarra.",
+            "Ciao, Ionut!",
+            "Ionut è amico mio.",
+            "Adrian è mio amico",
+            "Adrian ama giocare a calcio.",
+            "Denisa è una ragazza",
+            "Denisa va a scuola.",
+            "Ioana è la mia amica",
+            "Ioana studia in Italia.",
+            "Sorin è il nome di un amico",
+            "Sorin vive a Roma.",
+            "Alexandru è mio amico",
+            "Alexandru ama la pizza."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Lui è il mio amico",
+            "Il mio amico è simpatico.",
+            "La mia gioia è immensa",
+            "Gioia è il nome della mia amica.",
+            "Ti amo",
+            "L'amore è bello.",
+            "La tua risata è contagiosa",
+            "Mi piace sentire la tua risata.",
+            "Sono contento",
+            "Lei è contenta.",
+            "Il tramonto è meraviglioso",
+            "Questa torta è meravigliosa.",
+            "Adoro la pace",
+            "Vogliamo vivere in pace.",
+            "Mi fa piacere vederti",
+            "Questo film è un piacere da guardare."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "La guerra è iniziata ieri",
+            "La guerra è finita oggi.",
+            "Il cane è cattivo",
+            "Ho avuto un sogno cattivo.",
+            "Il temporale di ieri è stato terribile",
+            "La notizia è terribile.",
+            "La sua agonia durò giorni",
+            "L'agonia era insopportabile.",
+            "Il film era orribile",
+            "Il cibo è orribile.",
+            "Lei è molto cattiva",
+            "Quella ragazza è cattiva.",
+            "Sto male",
+            "Lui si sente male",
+            "Il fallimento non è la fine",
+            "Imparare dal fallimento è importante."
+        ]
+    }
+}

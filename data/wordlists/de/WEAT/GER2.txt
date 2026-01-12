@@ -1,0 +1,5 @@
+# GER 2
+Geist,Vernunft,Verstand,Denken,Wissen,Urteilen
+Gefühl,Empfinden,Empfänglichkeit,Rezeptivität,Religiosität,Verstehen
+männlich,Mann,Junge,Bruder,Sohn
+weiblich,Frau,Mädchen,Schwester,Tochter 

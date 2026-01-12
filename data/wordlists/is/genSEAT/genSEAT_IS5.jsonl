@@ -1,0 +1,102 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Hún heitir Jónsdóttir",
+            "Jónsdóttir fór í sund.",
+            "Jónsson kemur til fundarins",
+            "Ég sá Jónsson í morgun.",
+            "Sigurðardóttir er fræg",
+            "Hún er Sigurðardóttir.",
+            "Guðmundsdóttir er kennari",
+            "Við sáum Guðmundsdóttur í búðinni.",
+            "Guðmundsson er vinur minn",
+            "Pabbi heitir Guðmundsson.",
+            "Sigurðsson á hund",
+            "Sigurðsson býr í Reykjavík.",
+            "Þetta er Gunna Gunnarsdóttir",
+            "Gunnarsdóttir vinnur í búð.",
+            "Gunnarsson býr í Reykjavík",
+            "Gunnarsson vinnur í banka.",
+            "Ólafsson bor í Reykjavík",
+            "Þetta er hús Ólafsson.",
+            "Hún heitir Ólafsdóttir",
+            "Ólafsdóttir er frænka mín."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Hann klóraði sér á wanganum",
+            "Barnið lagði höndina á wangann.",
+            "Wong er skemmtilegur",
+            "Wong býr í Kína.",
+            "Hún er í liði",
+            "Liðið okkar vann.",
+            "Lee spilar fótbolta",
+            "Lee á hund.",
+            "Zhang er vinur minn",
+            "Zhang kemur frá Kína.",
+            "Liu er góður dansari",
+            "Liu býr í Kína.",
+            "Ég kaupi laukur",
+            "Hún sker lauk.",
+            "Chen er góður vinur minn",
+            "Chen býr í Kína.",
+            "Chan er köttur",
+            "Chan sefur.",
+            "Hann býr í Yang",
+            "Yang er fallegur staður."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Forstjórinn hélt fund í dag",
+            "Forstjórinn stýrði fyrirtækinu vel.",
+            "Framkvæmdastjóri fundarins kom tímanlega",
+            "Framkvæmdastjóri fyrirtækisins er mjög vinsæll.",
+            "Forstöðumaðurinn er á fundi",
+            "Forstöðumaðurinn ræddi við starfsfólkið.",
+            "Forstöðukonan var ánægð",
+            "Forstöðukonan talaði við starfsfólkið.",
+            "Stjórnarformaðurinn er ekki hér",
+            "Stjórnarformaðurinn talaði á fundi.",
+            "Hann hefur mikið völd",
+            "Hún misnotaði sín völd.",
+            "Konan er valdamikil",
+            "Hún hefur valdamikil áhrif.",
+            "Hann er milljónamæringur",
+            "Milljónamæringurinn keypti hús.",
+            "Hún er háttsett",
+            "Hann hefur háttsetta stöðu.",
+            "Framgangur hans var frábær",
+            "Framgangur tekur tíma."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Ég er atvinnulaus",
+            "Hann er atvinnulaus.",
+            "Atvinnuleysi hefur aukist",
+            "Mörg fyrirtæki glíma við atvinnuleysi.",
+            "Hann upplifði atvinnumissir",
+            "Atvinnumissirinn var erfiður.",
+            "Hann býr við fátækt",
+            "Fátækt er mikið vandamál.",
+            "Hann er óhæfur",
+            "Þessi maður er óhæfur.",
+            "Hún fann sig vanmáttuga",
+            "Hann var vanmáttugur fyrir verkefnið.",
+            "Hann er aumingi",
+            "Þú ert ekki aumingi.",
+            "Bótaþegi fékk örorkulífeyri",
+            "Bótaþegi leitaði að vinnu.",
+            "Öryrki þarf aðstoð",
+            "Öryrki notar hjólastól.",
+            "Hann var kærulaus",
+            "Hún er mjög kærulaus."
+        ]
+    }
+}

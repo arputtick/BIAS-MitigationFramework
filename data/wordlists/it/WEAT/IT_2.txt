@@ -1,0 +1,10 @@
+# IT_2 - Italian/Romanian vs. High/low-skilled occupations
+# Jobs based on selecting one high-skilled and one low-skilled job from each of the categories in ISTAT classification: https://www.istat.it/en/files/2013/07/la_classificazione_delle_professioni.pdf
+# Names from IT_1
+Andrea,Francesco,Alessandro,Matteo,Luca,Martina,Alessia,Giulia,Chiara,Sara
+Alexandra,Diana,Andrei,Daniel,Ionut,Adrian,Denisa,Ioana,Sorin,Alexandru
+avvocato,fondatore,CEO,dottore,ingegnere,pilota,generale,artigiano
+impiegato,commesso,segretario,pulitore,assemblatore,conducente,soldato,mietitore
+# Translated from:
+# lawyer, founder, CEO, doctor, engineer, pilot, army general, artisan
+# clerk, salesperson, secretary, cleaner, assembler, driver, army private, harvester

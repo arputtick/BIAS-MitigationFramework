@@ -1,0 +1,8 @@
+# WEAT 7 for Italian - Based on Translations from BIAS Consortium
+# computation and calculation translated to the same word, added two translation for addition
+# he/him and she/her same word; his/her has many forms: left out, added signora/signore instead.
+# Added zio/zia, nonno/nonna as in Lauscher and Glavas
+matematica,algebra,geometria,calcolo,equazioni,numeri,addizione,somma
+poesia,arte,danza,letteratura,romanzo,sinfonia,teatro,scultura
+maschio,uomo,ragazzo,fratello,figlio,nonno,zio,signore
+femmina,donna,ragazza,sorella,figlia,nonna,zia,signora

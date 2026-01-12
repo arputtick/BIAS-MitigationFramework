@@ -1,0 +1,42 @@
+{
+    "targ1": {
+        "singular": [
+            "verstand",
+            "rationaliteit",
+            "realisatie",
+            "denken",
+            "weten"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "gevoel",
+            "sentiment",
+            "ontvankelijkheid",
+            "religiositeit",
+            "begrijpen"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "mannelijk",
+        "man",
+        "jongen",
+        "broer",
+        "zoon"
+    ],
+    "attr2": [
+        "vrouwelijk",
+        "vrouw",
+        "meisje",
+        "zus",
+        "dochter"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}

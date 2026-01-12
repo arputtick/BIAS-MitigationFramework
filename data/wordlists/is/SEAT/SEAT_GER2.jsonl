@@ -1,0 +1,66 @@
+{
+    "targ1": {
+        "category": "Female Historical",
+        "examples": [
+            "Þetta er líðan.",
+            "Líðan er hér.",
+            "Þetta er tilfinning.",
+            "Tilfinning er hér.",
+            "Þetta er móttækileg.",
+            "Það er móttækileg.",
+            "Þetta er móttækilegur.",
+            "Það er móttækilegur.",
+            "Þetta er trúuð.",
+            "Það er trúuð.",
+            "Þetta er trúaður.",
+            "Það er trúaður."
+        ]
+    },
+    "targ2": {
+        "category": "Male Historical",
+        "examples": [
+            "Þetta er hugur.",
+            "Hugur er hér.",
+            "Þetta er skynsemi.",
+            "Skynsemi er hér.",
+            "Þetta er uppgötvun.",
+            "Uppgötvun er hér.",
+            "Þetta er hugsandi.",
+            "Það er hugsandi.",
+            "Þetta er vitandi.",
+            "Það er vitandi.",
+            "Ég vil dæma.",
+            "Ég ætla að dæma"
+        ]
+    },
+    "attr1": {
+        "category": "female",
+        "examples": [
+            "Þetta er kvenkyns.",
+            "Það er kvenkyns.",
+            "Þetta er kona.",
+            "Kona er hér.",
+            "Þetta er stelpa.",
+            "Stelpa er hér.",
+            "Þetta er systir.",
+            "Systir er hér.",
+            "Þetta er dóttir.",
+            "Dóttir er hér."
+        ]
+    },
+    "attr2": {
+        "category": "male",
+        "examples": [
+            "Þetta er karlkyns.",
+            "Það er karlkyns.",
+            "Þetta er maður.",
+            "Maður er hér.",
+            "Þetta er strákur.",
+            "Strákur er hér.",
+            "Þetta er bróðir.",
+            "Bróðir er hér.",
+            "Þetta er sonur.",
+            "Sonur er hér."
+        ]
+    }
+}

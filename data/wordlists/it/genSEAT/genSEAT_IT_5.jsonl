@@ -1,0 +1,70 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Lui è etero",
+            "Lei è etero.",
+            "Hai visto la pianta? Cis stava un uccellino.",
+            "Cis una bella vista dal balcone.",
+            "Molti amici di Luca sono cisgender",
+            "Il termine cisgender è diventato più comune.",
+            "Luca è un uomo eterosessuale",
+            "Lei è una donna eterosessuale."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Le persone queer lottano per i loro diritti",
+            "Amo guardare film con personaggi queer.",
+            "Lui è omosessuale",
+            "Maria ha un amico omosessuale.",
+            "Il treno transita ogni ora",
+            "Questo autobus transita per il centro.",
+            "La mia amica è transgender",
+            "Marco ha detto che sua sorella è transgender."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Il mio amico è gentile",
+            "Andiamo al parco con un amico.",
+            "La sua gioia è contagiosa",
+            "Provo una grande gioia.",
+            "Ti amo",
+            "L'amore è bello.",
+            "La sua risata è contagiosa",
+            "La risata di Maria è bellissima.",
+            "Sono molto contento",
+            "Lei sembra contenta.",
+            "Il panorama è meraviglioso",
+            "La tua voce è meravigliosa.",
+            "Voglio la pace.",
+            "La pace è importante.",
+            "Mi fa piacere vederti",
+            "È un piacere conoscerti."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "La guerra è iniziata ieri",
+            "La guerra ha causato molta distruzione.",
+            "Lui è un ragazzo cattivo",
+            "Questo cibo ha un sapore cattivo.",
+            "Il film è stato terribile",
+            "Il suo comportamento è stato terribile.",
+            "L'agonia del personaggio è palpabile",
+            "L'agonia del suo cuore è evidente.",
+            "È un film orribile",
+            "Ha fatto un errore orribile.",
+            "Lei è una persona cattiva",
+            "Ha avuto una giornata cattiva.",
+            "Sto male",
+            "Ha un male alla testa.",
+            "Il progetto è stato un fallimento",
+            "Il fallimento lo ha scoraggiato."
+        ]
+    }
+}

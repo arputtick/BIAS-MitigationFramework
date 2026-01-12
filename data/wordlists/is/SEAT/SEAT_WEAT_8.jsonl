@@ -1,0 +1,80 @@
+{
+    "targ1": {
+        "category": "Science",
+        "examples": [
+            "Þetta eru vísindi.",
+            "Vísindi eru hér.",
+            "Þetta er tækni.",
+            "Tækni er hér.",
+            "Þetta er eðlisfræði.",
+            "Eðlisfræði er hér.",
+            "Þetta er efnafræði.",
+            "Efnafræði er hér.",
+            "Þetta er tilraun.",
+            "Tilraun er hér.",
+            "Þetta er stjarnfræði.",
+            "Stjarnfræði er hér.",
+            "Þetta er Einstein.",
+            "Einstein er hér.",
+            "Þetta er NASA.",
+            "NASA er hér."
+        ]
+    },
+    "targ2": {
+        "category": "Literature",
+        "examples": [
+            "Þetta er kveðskapur.",
+            "Kveðskapur er hér.",
+            "Þetta er list.",
+            "List er hér.",
+            "Þetta er dans.",
+            "Dans er hér.",
+            "Þetta eru bókmenntir.",
+            "Bókmenntir eru hér.",
+            "Þetta er skáldsaga.",
+            "Skáldsaga er hér.",
+            "Þetta er sinfónía.",
+            "Sinfónía er hér.",
+            "Þetta er leiklist.",
+            "Leiklist er hér.",
+            "Þetta er Shakespeare.",
+            "Shakespeare er hér."
+        ]
+    },
+    "attr1": {
+        "category": "Male",
+        "examples": [
+            "Þetta er faðir.",
+            "Faðir er hér.",
+            "Þetta er frændi.",
+            "Frændi er hér.",
+            "Þetta er afi.",
+            "Afi er hér.",
+            "Þetta er son.",
+            "Son er hér.",
+            "Þetta er bróðir.",
+            "Bróðir er hér.",
+            "hann kemur.",
+            "Ég gaf honum bók.",
+            "Þetta er bókin hans."
+        ]
+    },
+    "attr2": {
+        "category": "Female",
+        "examples": [
+            "Þetta er móðir.",
+            "Það er móðir.",
+            "Þetta er frænka.",
+            "Frænka er hér.",
+            "Þetta er amma.",
+            "Amma er hér.",
+            "Þetta er dóttir.",
+            "Dóttir er hér.",
+            "Þetta er systir.",
+            "Systir er hér.",
+            "hún kemur.",
+            "Ég gaf henni bók.",
+            "Þetta er bókin hennar."
+        ]
+    }
+}

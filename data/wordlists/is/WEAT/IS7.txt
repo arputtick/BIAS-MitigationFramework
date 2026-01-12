@@ -1,0 +1,6 @@
+# IS7: New WEAT Test based on co-creation: Gay,Lesbian and Straight vs. success/failure
+# See technical report for details about procedure
+gagnkynhneigð,gagnkynhneigður
+lesbía,hommi
+forstjóri,framkvæmdastjóri,forstöðumaður,forstöðukona,stjórnarformaður,völd,valdamikil,milljónamæringur,háttsett,framgangur
+atvinnulaus,atvinnuleysi,atvinnumissir,fátækt,óhæfur,vanmáttug,aumingi,bótaþegi,öryrki,kærulaus

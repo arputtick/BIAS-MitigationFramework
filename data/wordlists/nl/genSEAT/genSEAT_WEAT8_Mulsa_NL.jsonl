@@ -1,0 +1,86 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Wetenschap is belangrijk",
+            "Ze studeert wetenschap.",
+            "Technologie verandert snel",
+            "Ik houd van nieuwe technologie.",
+            "Natuurkunde is mijn favoriete vak",
+            "Hij studeert natuurkunde aan de universiteit.",
+            "Scheikunde is mijn favoriete vak",
+            "Ik heb morgen een scheikunde toets.",
+            "Einstein was een slimme man",
+            "Veel mensen kennen Einstein van zijn theorieën.",
+            "NASA stuurt satellieten naar de ruimte",
+            "NASA heeft een nieuwe rover naar Mars gestuurd.",
+            "Het experiment is geslaagd",
+            "We doen een experiment in de klas.",
+            "Astronomie is de studie van sterren",
+            "Ze leest veel boeken over astronomie."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Ik hou van poëzie",
+            "Poëzie lezen is leuk.",
+            "Kunst is erg mooi",
+            "Ik hou van kunst.",
+            "Ik hou van dans",
+            "We gaan vanavond dans.",
+            "Ik lees graag literatuur",
+            "Zij studeert Nederlandse literatuur.",
+            "Ik lees een spannende roman",
+            "Deze roman is heel beroemd.",
+            "De symfonie begint om acht uur",
+            "We luisteren naar een mooie symfonie.",
+            "Het was een groot drama",
+            "Dit is echt een drama.",
+            "Het museum heeft een nieuw beeldhouwwerk",
+            "Het beeldhouwwerk is erg mooi."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Hij is heel mannelijk",
+            "Mijn broer is heel mannelijk.",
+            "De man loopt",
+            "De man leest.",
+            "De jongen speelt buiten",
+            "De jongen eet een appel.",
+            "Mijn broer is slim",
+            "Mijn broer leest graag.",
+            "Hij is groot",
+            "Hij leest een boek",
+            "Ik zie hem",
+            "Ik geef het aan hem",
+            "Hij is blij",
+            "Wij zijn moe",
+            "Mijn zoon heet Jan",
+            "Mijn zoon houdt van voetbal."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Zij is heel vrouwelijk",
+            "Dat jurkje is erg vrouwelijk.",
+            "De vrouw lacht",
+            "De vrouw leest een boek.",
+            "Het meisje speelt buiten",
+            "Het meisje leest een boek.",
+            "Mijn zus heet Anna",
+            "Mijn zus is erg lief.",
+            "Zij is mijn vriendin",
+            "Zij gaan naar school",
+            "Zij borstelt haar haar",
+            "Haar kat is klein.",
+            "Zij borstelt haar haar",
+            "Haar tas is nieuw.",
+            "Mijn dochter houdt van tekenen",
+            "Zijn dochter gaat naar school."
+        ]
+    }
+}

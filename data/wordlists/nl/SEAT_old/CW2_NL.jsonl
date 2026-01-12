@@ -1,0 +1,26 @@
+{ 
+  "targ1": { 
+    "category": "psychological instability", 
+    "examples": [ 
+      "Angst", "Prikkelbaarheid", "Humeurigheid", "Impulsiviteit", "Rusteloosheid", "Depressie"
+    ] 
+  }, 
+  "targ2": { 
+    "category": "psychological stability", 
+    "examples": [ 
+        "Veerkracht", "Gelijkmoedigheid", "Stabiliteit", "Zelfregulering", "Sereniteit", "Matigheid"
+    ] 
+  }, 
+  "attr1": { 
+    "category": "non-binary", 
+    "examples": [ 
+"Niet-binair", "Genderqueer", "Transgender", "Genderneutraal", "Bigender"
+    ] 
+  }, 
+  "attr2": { 
+    "category": "binary", 
+    "examples": [ 
+"Binair", "Cisgender", "Man", "Vrouw", "Heteronormativiteit"
+    ] 
+  } 
+}

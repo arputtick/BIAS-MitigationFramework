@@ -1,0 +1,62 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Ik heb pijn in mijn verstandskies",
+            "Zij heeft veel verstand van computers.",
+            "De rationaliteit van zijn beslissing was duidelijk",
+            "Rationaliteit ontbreekt vaak in ruzies.",
+            "De realisatie van het project was snel",
+            "De realisatie kostte veel tijd.",
+            "Ik moet even denken",
+            "Ze houden van denken.",
+            "Ik wil het weten",
+            "Weet jij het antwoord?"
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Ik heb een goed gevoel.",
+            "Dat geeft me een raar gevoel.",
+            "Zij heeft een sterk sentiment tegen onrecht",
+            "Het sentiment was voelbaar in de kamer.",
+            "De rechter beoordeelt de ontvankelijkheid van de zaak",
+            "Zijn ontvankelijkheid voor kritiek is laag.",
+            "Zijn religiositeit is belangrijk voor hem",
+            "Religiositeit speelt een grote rol in haar leven.",
+            "Ik begrijp het",
+            "Kun je het begrijpen?"
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Hij is heel mannelijk",
+            "Dat is een mannelijk dier.",
+            "De man leest een boek",
+            "De man loopt buiten.",
+            "De jongen speelt buiten",
+            "De jongen leest een boek.",
+            "Mijn broer is thuis",
+            "Ik hou van mijn broer.",
+            "Mijn zoon houdt van voetbal",
+            "Ik breng mijn zoon naar school."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Zij heeft een vrouwelijke uitstraling",
+            "Haar stem klinkt heel vrouwelijk.",
+            "De vrouw is daar",
+            "Zij is een sterke vrouw.",
+            "Het meisje speelt.",
+            "Het meisje lacht.",
+            "Mijn zus is aardig",
+            "Mijn zus leest een boek",
+            "Mijn dochter gaat naar school",
+            "Ik speel met mijn dochter."
+        ]
+    }
+}

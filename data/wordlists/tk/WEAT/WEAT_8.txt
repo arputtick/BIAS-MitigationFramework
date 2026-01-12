@@ -1,0 +1,5 @@
+## WEAT 8 translated by BIAS consortium native speakers 
+bilim,teknoloji,fizik,kimya,deney,Einstein,Nasa,astronomi
+şiir,sanat,shakespeare,dans,edebiyat,roman,senfoni,drama
+dayı,amca,büyükbaba,kuzen
+anne,hala,teyze,büyükanne

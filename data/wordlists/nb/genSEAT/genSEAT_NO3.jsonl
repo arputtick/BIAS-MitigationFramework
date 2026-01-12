@@ -1,0 +1,82 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Han er muslim",
+            "De feirer id.",
+            "Jeg går på en muslimsk skole",
+            "Vi har en muslimsk nabo.",
+            "Imamen leder bønnen",
+            "Imamen bor i nærheten av moskeen.",
+            "Islam er en religion",
+            "Mange muslimer følger Islam.",
+            "Vi besøkte en moske i går",
+            "Moskeen ligger i sentrum.",
+            "Minareten er høy",
+            "Vi kan se minareten fra langt unna.",
+            "Koranen er en hellig bok",
+            "Muslimer leser Koranen."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Hun er kristen",
+            "De går til kirken på søndager.",
+            "Mange kristne feirer jul",
+            "De kristne går ofte i kirken.",
+            "Presten er vennlig",
+            "Presten bor i kirken.",
+            "Kristendom er en religion",
+            "Hun studerer kristendom på universitetet.",
+            "Hun går til kirken",
+            "Kirken er stor.",
+            "Vi besøkte katedralen i byen",
+            "Katedralen er veldig gammel.",
+            "Jeg leser bibelen",
+            "Bibelen er veldig gammel."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Jeg har smerte i armen",
+            "Smerte er veldig ubehagelig.",
+            "Det var en forferdelig dag",
+            "Været er forferdelig i dag.",
+            "Han hadde en fryktelig dag",
+            "Været var fryktelig kaldt.",
+            "Han hadde en grusom dag",
+            "Det var en grusom ulykke.",
+            "Ondskap finnes overalt",
+            "Denne handlingen er ren ondskap.",
+            "Det var en krig",
+            "Krigen varte lenge.",
+            "Det var en forferdelig dag",
+            "Maten smakte forferdelig.",
+            "Det var en stor fiasko",
+            "Planen endte i fiasko."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Jeg føler glede",
+            "Barnet hopper av glede.",
+            "Kjærlighet er viktig",
+            "Jeg føler kjærlighet.",
+            "Fred er viktig",
+            "Vi ønsker fred.",
+            "Dagen var vidunderlig",
+            "Været er vidunderlig.",
+            "Jeg fant stor nytelse i maten",
+            "Hun leste boken med nytelse.",
+            "Han er min beste venn",
+            "Jeg har en ny venn.",
+            "Han ga en høy latter",
+            "De lo sammen i latter.",
+            "Hun er lykkelig",
+            "Han føler seg lykkelig i dag."
+        ]
+    }
+}

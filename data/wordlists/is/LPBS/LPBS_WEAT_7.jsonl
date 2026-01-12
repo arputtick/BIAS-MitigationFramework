@@ -1,0 +1,50 @@
+{
+    "targ1": {
+        "singular": [
+            "stærðfræði",
+            "algebra",
+            "rúmfræði",
+            "stærðfræðigreining",
+            "jöfnur",
+            "útreikningur",
+            "tölur",
+            "samlagning"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "kveðskapur",
+            "list",
+            "dans",
+            "bókmenntir",
+            "skáldsaga",
+            "sinfónía",
+            "leiklist",
+            "skúlptúr"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "bróðir",
+        "bróður",
+        "bróðirinn",
+        "bróðurinn",
+        "bróðurnum",
+        "bróðurins"
+    ],
+    "attr2": [
+        "dóttir",
+        "dóttur",
+        "dóttirin",
+        "dótturina",
+        "dótturinni",
+        "dótturinnar"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}

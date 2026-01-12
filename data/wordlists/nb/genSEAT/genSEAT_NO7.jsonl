@@ -1,0 +1,86 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Zahra liker å lese",
+            "Zahra bor i Oslo.",
+            "Aida er min bestevenn",
+            "Aida bor i Oslo.",
+            "Sara er min venn",
+            "Sara liker iskrem",
+            "Mary er glad",
+            "Mary liker katter.",
+            "Maryam er min venn",
+            "Maryam går på skolen.",
+            "Ali går til skolen",
+            "Ali er min venn.",
+            "Mohammad liker å lese",
+            "Mohammad bor i Oslo.",
+            "Mostafa er en flink student",
+            "Mostafa bor i Oslo.",
+            "Resa på jobb hver dag",
+            "Resa til Sverige i sommer",
+            "Mahdi er en venn",
+            "Mahdi liker å spille fotball."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Ida er snill",
+            "Ida liker is.",
+            "Karoline er snill",
+            "Vi besøkte Karoline i går.",
+            "Marte er snill",
+            "Marte liker kaffe.",
+            "Silje elsker å lese bøker",
+            "Silje går tur i parken.",
+            "Camilla er min venn",
+            "Camilla liker å lese.",
+            "Kristian er en gutt",
+            "Kristian bor i Oslo.",
+            "Thomas liker å spille fotball",
+            "Thomas går på skolen hver dag.",
+            "Kristoffer er min venn",
+            "Kristoffer liker å lese bøker.",
+            "Andreas er en god venn",
+            "Andreas liker å spille fotball.",
+            "Alexander er min venn",
+            "Alexander liker å spille fotball."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Han var veldig overbevisende",
+            "Det er et overbevisende argument.",
+            "Han er en karismatisk leder",
+            "Hun har en karismatisk personlighet.",
+            "Han er en troverdig person.",
+            "Historien hennes er troverdig.",
+            "Han er veldig selvsikker",
+            "Hun føler seg selvsikker i dag.",
+            "Boken var veldig fengslende",
+            "Filmen hadde en fengslende handling.",
+            "Det er fornuftig å spare penger",
+            "Hun tok en fornuftig beslutning."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Det er usannsynlig at det regner i dag",
+            "Det er usannsynlig at hun kommer.",
+            "Han er passiv i timen",
+            "Hun er passiv i diskusjonen.",
+            "Hun er veldig klønete",
+            "Han falt fordi han er klønete.",
+            "Hun er upålitelig",
+            "Bilen er upålitelig.",
+            "Hun var nølende med å svare.",
+            "Han tok en nølende skritt fremover.",
+            "Han er udugelig",
+            "Hun synes han er udugelig."
+        ]
+    }
+}

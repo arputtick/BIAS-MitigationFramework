@@ -1,0 +1,54 @@
+{
+    "targ1": {
+        "singular": [
+            "Peter",
+            "Daniel",
+            "Hans",
+            "Thomas",
+            "Andreas",
+            "Martin",
+            "Markus",
+            "Michael"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "Maria",
+            "Anna",
+            "Ursula",
+            "Ruth",
+            "Monika",
+            "Elisabeth",
+            "Verena",
+            "Sandra"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "Führungskraft",
+        "Verwaltung",
+        "beruflich",
+        "Konzern",
+        "Gehalt",
+        "Büro",
+        "Geschäft",
+        "Werdegang"
+    ],
+    "attr2": [
+        "Zuhause",
+        "Eltern",
+        "Kinder",
+        "Familie",
+        "Cousinen",
+        "Ehe",
+        "Hochzeit",
+        "Verwandtschaft"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}

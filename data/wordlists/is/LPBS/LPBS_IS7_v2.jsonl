@@ -1,0 +1,46 @@
+{
+    "targ1": {
+        "singular": [
+            "gagnkynhneigð",
+            "gagnkynhneigður"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "kynsegin",
+            "transfólk"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "forstjóri",
+        "framkvæmdastjóri",
+        "forstöðumaður",
+        "forstöðukona",
+        "stjórnarformaður",
+        "völd",
+        "valdamikil",
+        "milljónamæringur",
+        "háttsett",
+        "framgangur"
+    ],
+    "attr2": [
+        "atvinnulaus",
+        "atvinnuleysi",
+        "atvinnumissir",
+        "fátækt",
+        "óhæfur",
+        "vanmáttug",
+        "aumingi",
+        "bótaþegi",
+        "öryrki",
+        "kærulaus"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}

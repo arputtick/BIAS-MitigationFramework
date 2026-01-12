@@ -1,0 +1,123 @@
+agente di libertà vigilata
+agente immobiliare
+['agronomo', 'agronoma']
+['allenatore', 'allenatrice']
+['amministratore', 'amministratrice']
+['amministratore delegato', 'amministratore delegata']
+analista
+['annunciatore', 'annunciatrice']
+['architetto', 'architetta']
+artista
+['assemblatore', 'assemblatrice']
+['assicuratore', 'assicuratrice']
+assistente
+assistente di volo
+assistente sociale
+['astrattore', 'astrattrice']
+['attore', 'attrice']
+autista
+['autore', 'autrice']
+['avvocato', 'avvocata']
+['bandito', 'bandita']
+barbiere
+barista
+['bibliotecario', 'bibliotecaria']
+['biologo', 'biologa']
+['boscaiolo', 'boscaiola']
+cameriere
+carceriere
+carpentiere
+cassiere
+chef
+['chimico', 'chimica']
+['chiropratico', 'chiropratica']
+['chierico', 'chierica']
+consulente
+contabile
+conciatetti
+corriere
+['cuoco', 'cuoca']
+['curatore', 'curatrice']
+custode
+dentista
+designer
+detective
+dietista
+['disegnatore', 'disegnatrice']
+['domestico','domestica']
+['redattore','redattrice']
+["educatore dell'infanzia","educatrice dell'infanzia"]
+elettricista
+estetista
+['estrattore', 'estrattrice']
+falegname
+farmacista
+['ferraiolo', 'ferraiola']
+['fisico', 'fisica']
+flebotomista
+['fotografo', 'fotografa']
+geometra
+gioielliere
+giornalista
+giudice
+guardia
+['idraulico', 'idraulica']
+igienista
+['imballatore', 'imballatrice']
+['impiegato', 'impiegata']
+infermiere
+ingegnere
+['installatore', 'installatrice']
+['investigatore', 'investigatrice']
+['investitore', 'investitrice']
+['ispettore', 'ispettrice']
+['istruttore', 'istruttrice']
+['lanvandaio', 'lavandaia']
+lavapiatti
+['lavoratore', 'lavoratrice']
+['logistico', 'logistica']
+macchinista
+['macellaio', 'macellaia']
+magazziniere
+manager
+manicure
+['massaggiatore', 'massaggiatrice']
+['meccanico', 'meccanica']
+['metalmeccanico', 'metalmeccanica']
+['muratore', 'muratrice']
+musicista
+['operatore', 'operatrice']
+['organizzatore di raccolte fondi', 'organizzatrice di raccolte fondi']
+ospite
+paesaggista
+panettiere
+paralegale
+['paramedico', 'paramedica']
+parrucchiere
+['patologo', 'patologa']
+['perito', 'perita']
+pilota
+['pittore', 'pittrice']
+['poliziotto','poliziotta']
+pompiere
+portiere
+posa tubi
+['postino', 'postina']
+['produttore', 'produttrice']
+['professore', 'professrice']
+['programmatore', 'programmatrice']
+['psicologo', 'psicologa']
+['pubblicitario', 'pubblicitaria']
+['radiodiffusore', 'radiodiffusrice']
+['radiologo', 'radiologa']
+receptionist
+['riciclatore', 'riciclatrice']
+risorse umane
+['sarto', 'sarta']
+['segretario', 'segretaria']
+['soccorritore', 'soccorritrice']
+spedizioniere
+['stampatore', 'stampatrice']
+['statistico', 'statistica']
+['sviluppatore', 'sviluppatrice']
+['venditore', 'venditrice']

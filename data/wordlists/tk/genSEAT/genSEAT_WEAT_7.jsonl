@@ -1,0 +1,70 @@
+{
+    "targ1": {
+        "category": "TODO",
+        "examples": [
+            "Matematik zor bir derstir",
+            "Matematik çalışmayı seviyorum.",
+            "Cebir dersim var",
+            "Cebir çok zor.",
+            "Geometri dersi zor",
+            "Ben geometri çalıştım.",
+            "Kalkülüs zor bir derstir",
+            "Kalkülüs çalışmak için çok zaman gerekir.",
+            "Denklemler çok zordur",
+            "Denklemler çözmeyi seviyorum.",
+            "Hesaplama yapmak zorundayız",
+            "Bu hesaplama çok basit.",
+            "Sayılar çok önemlidir",
+            "Sayılar her yerde kullanılır.",
+            "Ekmeği kes",
+            "Eklediğin tuz fazla."
+        ]
+    },
+    "targ2": {
+        "category": "TODO",
+        "examples": [
+            "Şiir çok güzeldi",
+            "Ayşe şiir okuyor.",
+            "Sanat güzeldir",
+            "Sanat hayatı renklendirir.",
+            "Dans etmeyi çok seviyorum",
+            "Düğünde dans ettik.",
+            "Literatürü çok severim",
+            "Literatürde yeni bir makale yayınlandı.",
+            "Yeni bir roman okuyorum",
+            "Bu roman çok heyecanlı.",
+            "Senfoni izlemek istiyorum",
+            "Senfoni çok güzeldi.",
+            "Piyes çok güzeldi",
+            "Arkadaşlarımla piyes izledim.",
+            "Oyun parkta oynanıyor",
+            "Çocuklar oyun oynuyor.",
+            "Dram filmi izledim",
+            "Bu kitap çok dramatik.",
+            "Heykel çok güzel.",
+            "Parkta büyük bir heykel var."
+        ]
+    },
+    "attr1": {
+        "category": "TODO",
+        "examples": [
+            "Erkek çocuk parkta oynuyor",
+            "Babam çok güçlü bir erkek.",
+            "Adam okula gitti",
+            "Adam kitap okuyor.",
+            "Oğlan parka gitti",
+            "Oğlan süt içiyor."
+        ]
+    },
+    "attr2": {
+        "category": "TODO",
+        "examples": [
+            "Kadın çok mutlu.",
+            "Kadın parkta yürüyor.",
+            "Kadın çalışıyor",
+            "Kadın gülümsüyor.",
+            "Kız orada",
+            "Kız geliyor."
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "targ1": {
+        "singular": [
+            "bilim",
+            "teknoloji",
+            "fizik",
+            "kimya",
+            "deney",
+            "Einstein",
+            "Nasa",
+            "astronomi"
+        ],
+        "plural": []
+    },
+    "targ2": {
+        "singular": [
+            "şiir",
+            "sanat",
+            "shakespeare",
+            "dans",
+            "edebiyat",
+            "roman",
+            "senfoni",
+            "drama"
+        ],
+        "plural": []
+    },
+    "attr1": [
+        "dayı",
+        "amca",
+        "büyükbaba",
+        "kuzen"
+    ],
+    "attr2": [
+        "anne",
+        "hala",
+        "teyze",
+        "büyükanne"
+    ],
+    "templates": {
+        "singular": [
+            "TARGET ATTRIBUTE"
+        ],
+        "plural": []
+    }
+}
